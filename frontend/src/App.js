@@ -36,6 +36,10 @@ import UserEditScreen from './screens/UserEditScreen';
 import MapScreen from './screens/MapScreen';
 import ForgetPasswordScreen from './screens/ForgetPasswordScreen';
 import ResetPasswordScreen from './screens/ResetPasswordScreen';
+import { Experience1 } from './components/3d-Render/components/Amd_Product1';
+import { Canvas } from '@react-three/fiber';
+import { Environment } from '@react-three/drei';
+import { JcpLogo } from './components/3d-Render/components/Logo';
 
 function App() {
   const { state, dispatch: ctxDispatch } = useContext(Store);
@@ -75,6 +79,7 @@ function App() {
             : 'site-container d-flex flex-column'
         }
       >
+
         <ToastContainer position="bottom-center" limit={1} />
         <header>
           <Navbar bg="dark" variant="dark" expand="lg">
@@ -87,8 +92,12 @@ function App() {
               </Button>
 
               <LinkContainer to="/">
-                <Navbar.Brand>amazona</Navbar.Brand>
+                <Canvas shadows camera={{ position: [1,1, 1], fov: 60 }}>
+                      <JcpLogo/>
+                      <Environment preset="sunset" />
+                </Canvas>
               </LinkContainer>
+
               <Navbar.Toggle aria-controls="basic-navbar-nav" />
               <Navbar.Collapse id="basic-navbar-nav">
                 <SearchBox />

@@ -6,6 +6,10 @@ import Product from "../components/Product";
 import { Helmet } from "react-helmet-async";
 import LoadingBox from "../components/LoadingBox";
 import MessageBox from "../components/MessageBox";
+import { Canvas } from "@react-three/fiber";
+
+import { Environment } from "@react-three/drei";
+import { AMD_PRODUCT_1 } from "../components/3d-Render/3d/AMD-Product1";
 // import data from '../data';
 
 const reducer = (state, action) => {
@@ -45,10 +49,16 @@ function HomeScreen() {
   return (
     <div>
       <Helmet>
-        <title>Amazona</title>
+        <title>JCPC SHOPS</title>
       </Helmet>
       <h1>Featured Products</h1>
+      <Canvas shadows camera={{ position: [3,3, 3], fov: 30 }}>
+          <AMD_PRODUCT_1/>
+          <Environment preset="sunset" />
+      </Canvas>
       <div className="products">
+
+  {/*
         {loading ? (
           <LoadingBox />
         ) : error ? (
@@ -62,6 +72,7 @@ function HomeScreen() {
             ))}
           </Row>
         )}
+            */}
       </div>
     </div>
   );
