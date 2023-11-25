@@ -40,7 +40,8 @@ import { Experience1 } from './components/3d-Render/components/Amd_Product1';
 import { Canvas } from '@react-three/fiber';
 import { Environment } from '@react-three/drei';
 import { JcpLogo } from './components/3d-Render/components/Logo';
-import AmdDetail from './screens/detail/AmdDetail';
+import SsdDetail from './screens/detail/SsdDetail';
+import PowerSupplyDetail from './screens/detail/PowerSupply';
 
 function App() {
   const { state, dispatch: ctxDispatch } = useContext(Store);
@@ -108,11 +109,12 @@ function App() {
                       <LinkContainer to="/detail/amd">
                         <NavDropdown.Item>Detail AMD</NavDropdown.Item>
                       </LinkContainer>
-                      <LinkContainer to="/orderhistory">
-                        <NavDropdown.Item>Order History</NavDropdown.Item>
+                      <LinkContainer to="/detail/ssd">
+                        <NavDropdown.Item>Detail SSD</NavDropdown.Item>
                       </LinkContainer>
-                      <NavDropdown.Divider />
-                     
+                      <LinkContainer to="/detail/powerSupply">
+                        <NavDropdown.Item>Detail POWERSUPPLY</NavDropdown.Item>
+                      </LinkContainer> 
                     </NavDropdown>
 
                 <Nav className="me-auto  w-100  justify-content-end">
@@ -210,7 +212,8 @@ function App() {
               <Route path="/search" element={<SearchScreen />} />
               <Route path="/signin" element={<SigninScreen />} />
               <Route path="/signup" element={<SignupScreen />} />
-              <Route path="/detail/amd" element={<AmdDetail />} />
+              <Route path="/detail/ssd" element={<SsdDetail />} />
+              <Route path="/detail/powerSupply" element={<PowerSupplyDetail />} />
               <Route
                 path="/forget-password"
                 element={<ForgetPasswordScreen />}
