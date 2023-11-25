@@ -40,6 +40,7 @@ import { Experience1 } from './components/3d-Render/components/Amd_Product1';
 import { Canvas } from '@react-three/fiber';
 import { Environment } from '@react-three/drei';
 import { JcpLogo } from './components/3d-Render/components/Logo';
+import AmdDetail from './screens/detail/AmdDetail';
 
 function App() {
   const { state, dispatch: ctxDispatch } = useContext(Store);
@@ -97,10 +98,23 @@ function App() {
                       <Environment preset="sunset" />
                 </Canvas>
               </LinkContainer>
+              
 
               <Navbar.Toggle aria-controls="basic-navbar-nav" />
               <Navbar.Collapse id="basic-navbar-nav">
                 <SearchBox />
+
+                <NavDropdown title="Detail"  >
+                      <LinkContainer to="/detail/amd">
+                        <NavDropdown.Item>Detail AMD</NavDropdown.Item>
+                      </LinkContainer>
+                      <LinkContainer to="/orderhistory">
+                        <NavDropdown.Item>Order History</NavDropdown.Item>
+                      </LinkContainer>
+                      <NavDropdown.Divider />
+                     
+                    </NavDropdown>
+
                 <Nav className="me-auto  w-100  justify-content-end">
                   <Link to="/cart" className="nav-link">
                     Cart
@@ -110,6 +124,10 @@ function App() {
                       </Badge>
                     )}
                   </Link>
+
+               
+             
+                   
                   {userInfo ? (
                     <NavDropdown title={userInfo.name} id="basic-nav-dropdown">
                       <LinkContainer to="/profile">
@@ -127,6 +145,7 @@ function App() {
                         Sign Out
                       </Link>
                     </NavDropdown>
+                    
                   ) : (
                     <Link className="nav-link" to="/signin">
                       Sign In
@@ -148,9 +167,16 @@ function App() {
                       </LinkContainer>
                     </NavDropdown>
                   )}
+
+      
                 </Nav>
               </Navbar.Collapse>
+     
+
+
             </Container>
+
+            
           </Navbar>
         </header>
         <div
@@ -184,6 +210,7 @@ function App() {
               <Route path="/search" element={<SearchScreen />} />
               <Route path="/signin" element={<SigninScreen />} />
               <Route path="/signup" element={<SignupScreen />} />
+              <Route path="/detail/amd" element={<AmdDetail />} />
               <Route
                 path="/forget-password"
                 element={<ForgetPasswordScreen />}
