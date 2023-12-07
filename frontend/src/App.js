@@ -85,6 +85,16 @@ function App() {
         <header>
           <Navbar bg="dark" variant="dark" expand="lg">
             <Container>
+
+            <Container style={{ width: '220px', height: '100px', marginTop: '20px'}}>
+                <LinkContainer to="/">
+                    <Canvas  shadows camera={{ position: [1,1, 1], fov: 100 }}>
+                          <JcpLogo/>
+                          <Environment preset="sunset" />
+                    </Canvas>
+                  </LinkContainer>
+              </Container>
+
               <Button
                 variant="dark"
                 onClick={() => setSidebarIsOpen(!sidebarIsOpen)}
@@ -92,12 +102,6 @@ function App() {
                 <i className="fas fa-bars"></i>
               </Button>
 
-              <LinkContainer to="/">
-                <Canvas shadows camera={{ position: [1,1, 1], fov: 60 }}>
-                      <JcpLogo/>
-                      <Environment preset="sunset" />
-                </Canvas>
-              </LinkContainer>
               
 
               <Navbar.Toggle aria-controls="basic-navbar-nav" />
