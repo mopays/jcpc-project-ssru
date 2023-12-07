@@ -8,6 +8,7 @@ import { useContext, useEffect, useState } from 'react';
 import { Store } from '../Store';
 import { toast } from 'react-toastify';
 import { getError } from '../utils';
+import './SigninScreen.css'
 
 export default function SigninScreen() {
   const navigate = useNavigate();
@@ -42,21 +43,23 @@ export default function SigninScreen() {
   }, [navigate, redirect, userInfo]);
 
   return (
-    <Container className="small-container">
-      <Helmet>
-        <title>Sign In</title>
-      </Helmet>
-      <h1 className="my-3">Sign In</h1>
+    <Container className="small-container" >
+        <Helmet >
+          <title>Sign In</title>
+        </Helmet>
+      <h1 className="my-3" style={{textAlign: 'center'}}>Sign In</h1>
       <Form onSubmit={submitHandler}>
-        <Form.Group className="mb-3" controlId="email">
-          <Form.Label>Email</Form.Label>
-          <Form.Control
+        <Form.Group className="mb-3 label-email" controlId="email">
+          <Form.Label className='label-email'>Email</Form.Label>
+          <Form.Control 
+            calssName="control-form"
+
             type="email"
             required
             onChange={(e) => setEmail(e.target.value)}
           />
         </Form.Group>
-        <Form.Group className="mb-3" controlId="password">
+        <Form.Group className="mb-3 label-email" controlId="password">
           <Form.Label>Password</Form.Label>
           <Form.Control
             type="password"
@@ -65,7 +68,7 @@ export default function SigninScreen() {
           />
         </Form.Group>
         <div className="mb-3">
-          <Button type="submit">Sign In</Button>
+          <Button className='Buttons' type="submit">Sign In</Button>
         </div>
         <div className="mb-3">
           New customer?{' '}

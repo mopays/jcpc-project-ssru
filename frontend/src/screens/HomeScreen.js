@@ -52,13 +52,10 @@ function HomeScreen() {
         <title>JCPC SHOPS</title>
       </Helmet>
       <h1>Featured Products</h1>
-      <Canvas shadows camera={{ position: [3,3, 3], fov: 30 }}>
-          <AMD_PRODUCT_1/>
-          <Environment preset="sunset" />
-      </Canvas>
+   
       <div className="products">
 
-  {/*
+  
         {loading ? (
           <LoadingBox />
         ) : error ? (
@@ -72,7 +69,7 @@ function HomeScreen() {
             ))}
           </Row>
         )}
-            */}
+         
       </div>
     </div>
   );

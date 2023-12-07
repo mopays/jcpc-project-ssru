@@ -1,0 +1,41 @@
+/* CSS สำหรับ Login Page */
+.small-container {
+  max-width: 400px;
+  margin: 0 auto;
+  padding: 20px;
+  border: 1px solid #ccc;
+  border-radius: 5px;
+  box-shadow: 0 0 10px rgba(0, 0, 0, 0.1);
+  background-color: #ffffff;
+}
+
+.headers{
+  text-align: center;
+  color: #333;
+}
+
+.label-email {
+  font-weight: bold;
+}
+
+.control-form {
+  border-radius: 3px;
+  border: 1px solid #9b9b9b;
+  padding: 8px;
+  width: 100%;
+  margin-bottom: 10px;
+}
+
+.Buttons {
+  width: 100%;
+  background-color: #007bff;
+  color: #fff;
+  border: none;
+  padding: 10px;
+  border-radius: 3px;
+}
+
+.Buttons:hover {
+  background-color: #0056b3;
+}
+
