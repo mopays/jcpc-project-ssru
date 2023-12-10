@@ -1,0 +1,3777 @@
+[{
+    "_id": {
+      "$oid": "657194d0f7ccf20cd03d89ba"
+    },
+    "name": "intel CPU Core i5-10400F 2.9 GHz",
+    "slug": "intel-CPU-Core-i5-10400F-2.9-GHz",
+    "image": "https://res.cloudinary.com/dr9hunugv/image/upload/v1701942569/lsvogdnsilosxcrurvey.jpg",
+    "images": [],
+    "brand": "Intel",
+    "category": "CPU",
+    "description": "Brand intel, CPU Series:intel Core 10th Gen Processors, CPU Model: Core i5-10400F, CPU Socket Type: intel LGA-1200, Core Name: Comet Lake, Cores:: 6 Core / 12 Threads, Operating Frequency:: 2.90 GHz upto 4.30 GHz, L2 Cache:: n/a, L3 Cache: 12 MB SmartCache, Manufacturing Tech: n/a, 64Bit Support: yes, Virtualization Technology Support: yes, Thermal Design Power: 65 W, Warranty:: 3 year",
+    "price": {
+      "$numberInt": "5900"
+    },
+    "countInStock": {
+      "$numberInt": "20"
+    },
+    "rating": {
+      "$numberInt": "0"
+    },
+    "numReviews": {
+      "$numberInt": "0"
+    },
+    "reviews": [],
+    "createdAt": {
+      "$date": {
+        "$numberLong": "1701942480932"
+      }
+    },
+    "updatedAt": {
+      "$date": {
+        "$numberLong": "1701942596115"
+      }
+    },
+    "__v": {
+      "$numberInt": "0"
+    }
+  },{
+    "_id": {
+      "$oid": ""
+    },
+    "name": "intel CPU Core i7-11700 2.5 GHz",
+    "slug": "intel-CPU-Core-i7-11700-2.5-GHz",
+    "image": "",
+    "images": [],
+    "brand": "Intel",
+    "category": "CPU",
+    "description": "Brand intel, CPU Series:intel Core 11th Gen Processors, CPU Model: Core i7-11700, CPU Socket Type: intel LGA-1200,  Core Name: Rocket Lake,  Cores: 8 Core / 16 Threads, Operating Frequency: 2.5 GHz Up to 4.9 GHz, L2 Cache: n/a, L3 Cache: 16 MB SmartCache, Manufacturing Tech: 14 nm, 64Bit Support: yes, Virtualization Technology Support: yes, Thermal Design Power: 65 W, Warranty:: 3 year",
+    "price": {
+      "$numberInt": "4930"
+    },
+    "countInStock": {
+      "$numberInt": "20"
+    },
+    "rating": {
+      "$numberInt": "0"
+    },
+    "numReviews": {
+      "$numberInt": "0"
+    },
+    "reviews": [],
+    "createdAt": {
+      "$date": {
+        "$numberLong": "1701942480932"
+      }
+    },
+    "updatedAt": {
+      "$date": {
+        "$numberLong": "1701942596115"
+      }
+    },
+    "__v": {
+      "$numberInt": "0"
+    }
+  },{
+    "_id": {
+      "$oid": ""
+    },
+    "name": "intel CPU Core i9-11900 2.5 GHz",
+    "slug": "intel-CPU-Core-i9-11900-2.5-GHz",
+    "image": "",
+    "images": [],
+    "brand": "Intel",
+    "category": "CPU",
+    "description": "Brand: intel CPU Series:intel Core 11th Gen Processors CPU Model:Core i9-11900 CPU Socket Type:intel LGA-1200 Core Name:Rocket Lake Cores::8 Core / 16 Threads: Operating Frequency:2.5 GHz Up to 5.2 GHz L2 Cache:n/a L3 Cache:16 MB SmartCache Manufacturing Tech:14 nm 64Bit Support:yes Virtualization Technology Support:yes Thermal Design Power:65 W Warranty::3 year",
+    "price": {
+      "$numberInt": "11900"
+    },
+    "countInStock": {
+      "$numberInt": "20"
+    },
+    "rating": {
+      "$numberInt": "0"
+    },
+    "numReviews": {
+      "$numberInt": "0"
+    },
+    "reviews": [],
+    "createdAt": {
+      "$date": {
+        "$numberLong": "1701942480932"
+      }
+    },
+    "updatedAt": {
+      "$date": {
+        "$numberLong": "1701942596115"
+      }
+    },
+    "__v": {
+      "$numberInt": "0"
+    }
+  },{
+    "_id": {
+      "$oid": ""
+    },
+    "name": "intel CPU Core i5-11600K 3.9 GHz",
+    "slug": "intel-CPU-Core-i5-11600K-3.9-GHz",
+    "image": "",
+    "images": [],
+    "brand": "Intel",
+    "category": "CPU",
+    "description": "CPU Brand:intel CPU Series:intel Core 11th Gen Processors CPU Model:Core i5-11600K CPU Socket Type:intel LGA-1200 Core Name:Rocket Lake Cores:6 Core / 12 Threads Operating Frequency:3.9 GHz Up to 4.9 GHz L2 Cache:n/a L3 Cache:12 MB SmartCache Manufacturing Tech:n/a 64Bit Support:yes Virtualization Technology Support:yes Thermal Design Power:95 W Warranty::3 year",
+    "price": {
+      "$numberInt": "16380"
+    },
+    "countInStock": {
+      "$numberInt": "20"
+    },
+    "rating": {
+      "$numberInt": "0"
+    },
+    "numReviews": {
+      "$numberInt": "0"
+    },
+    "reviews": [],
+    "createdAt": {
+      "$date": {
+        "$numberLong": "1701942480932"
+      }
+    },
+    "updatedAt": {
+      "$date": {
+        "$numberLong": "1701942596115"
+      }
+    },
+    "__v": {
+      "$numberInt": "0"
+    }
+  },{
+    "_id": {
+      "$oid": ""
+    },
+    "name": "intel CPU Core i7-11700F 2.5 GHz",
+    "slug": "intel-CPU-Core-i7-11700F-2.5-GHz",
+    "image": "",
+    "images": [],
+    "brand": "Intel",
+    "category": "CPU",
+    "description": "Brand: Intel CPU Series: Intel Core 11th Gen Processors CPU Model: Core i7-11700F CPU Socket Type: intel LGA-1200 Core Name: Rocket Lake Cores: 8 Core / 16 Threads Operating Frequency: 2.5 GHz Up to 4.9 GHz L2 Cache: n/a L3 Cache: 16 MB SmartCache Manufacturing Tech: 14 nm 64Bit Support: yes Virtualization Technology Support: yes Thermal Design Power: 65 W Warranty:: 3 year",
+    "price": {
+      "$numberInt": "7900"
+    },
+    "countInStock": {
+      "$numberInt": "20"
+    },
+    "rating": {
+      "$numberInt": "0"
+    },
+    "numReviews": {
+      "$numberInt": "0"
+    },
+    "reviews": [],
+    "createdAt": {
+      "$date": {
+        "$numberLong": "1701942480932"
+      }
+    },
+    "updatedAt": {
+      "$date": {
+        "$numberLong": "1701942596115"
+      }
+    },
+    "__v": {
+      "$numberInt": "0"
+    }
+  },{
+    "_id": {
+      "$oid": ""
+    },
+    "name": "intel CPU Core i9-11900F 2.5 GHz",
+    "slug": "intel-CPU-Core-i9-11900F-2.5-GHz",
+    "image": "",
+    "images": [],
+    "brand": "Intel",
+    "category": "CPU",
+    "description": "Brand: Intel CPU Series: Intel Core 11th Gen Processors CPU Model: Core i9-11900F CPU Socket Type: intel LGA-1200 Core Name: Rocket Lake Cores: 8 Core / 16 Threads Operating Frequency: 2.5 GHz Up to 5.2 GHz L2 Cache: n/a L3 Cache: 16 MB SmartCache Manufacturing Tech: n/a 64Bit Support: yes Virtualization Technology Support: yes Thermal Design Power: 65 W Warranty:: 3 year",
+    "price": {
+      "$numberInt": "9500"
+    },
+    "countInStock": {
+      "$numberInt": "20"
+    },
+    "rating": {
+      "$numberInt": "0"
+    },
+    "numReviews": {
+      "$numberInt": "0"
+    },
+    "reviews": [],
+    "createdAt": {
+      "$date": {
+        "$numberLong": "1701942480932"
+      }
+    },
+    "updatedAt": {
+      "$date": {
+        "$numberLong": "1701942596115"
+      }
+    },
+    "__v": {
+      "$numberInt": "0"
+    }
+  },{
+    "_id": {
+      "$oid": ""
+    },
+    "name": "intel CPU Core i7-11700K 3.6 GHz",
+    "slug": "intel-CPU-Core-i7-11700K-3.6-GHz",
+    "image": "",
+    "images": [],
+    "brand": "Intel",
+    "category": "CPU",
+    "description": "Brand: Intel CPU Series: Intel Core 11th Gen Processors CPU Model: Core i7-11700K CPU Socket Type: intel LGA-1200 Core Name: Rocket Lake Cores: 8 Core / 16 Threads Operating Frequency: 3.6 GHz Up to 5.0 GHz L2 Cache: n/a L3 Cache: 16 MB SmartCache Manufacturing Tech: n/a 64Bit Support: yes Virtualization Technology Support: yes Thermal Design Power: 95 W Warranty:: 3 year",
+    "price": {
+      "$numberInt": "13900"
+    },
+    "countInStock": {
+      "$numberInt": "20"
+    },
+    "rating": {
+      "$numberInt": "0"
+    },
+    "numReviews": {
+      "$numberInt": "0"
+    },
+    "reviews": [],
+    "createdAt": {
+      "$date": {
+        "$numberLong": "1701942480932"
+      }
+    },
+    "updatedAt": {
+      "$date": {
+        "$numberLong": "1701942596115"
+      }
+    },
+    "__v": {
+      "$numberInt": "0"
+    }
+  },{
+    "_id": {
+      "$oid": ""
+    },
+    "name": "intel CPU Core i9-11900K 3.5 GHz",
+    "slug": "intel-CPU-Core-i9-11900K-3.5-GHz",
+    "image": "",
+    "images": [],
+    "brand": "Intel",
+    "category": "CPU",
+    "description": "Brand: Intel CPU Series: Intel Core 11th Gen Processors CPU Model: Core i9-11900K CPU Socket Type: intel LGA-1200 Core Name: Rocket Lake Cores: 8 Core / 16 Threads Operating Frequency: 3.5 GHz Up to 5.3 GHz L2 Cache: n/a L3 Cache: 16 MB SmartCache Manufacturing Tech: 14 nm 64Bit Support: yes Virtualization Technology Support: yes Thermal Design Power: 95 W Warranty:: 3 year",
+    "price": {
+      "$numberInt": "11300"
+    },
+    "countInStock": {
+      "$numberInt": "20"
+    },
+    "rating": {
+      "$numberInt": "0"
+    },
+    "numReviews": {
+      "$numberInt": "0"
+    },
+    "reviews": [],
+    "createdAt": {
+      "$date": {
+        "$numberLong": "1701942480932"
+      }
+    },
+    "updatedAt": {
+      "$date": {
+        "$numberLong": "1701942596115"
+      }
+    },
+    "__v": {
+      "$numberInt": "0"
+    }
+  },{
+    "_id": {
+      "$oid": ""
+    },
+    "name": "AMD CPU AM4 RYZEN 5 Pro 4650G (NEXT) 3.7 GHz",
+    "slug": "AMD-CPU-AM4-RYZEN-5-Pro-4650G-(NEXT)-3.7-GHz",
+    "image": "",
+    "images": [],
+    "brand": "AMD",
+    "category": "CPU",
+    "description": "Brand: Box-Next Model: Ryzen 5 PRO 4650G Series: Ryzen 5 PRO Processors number: 6 Generation: 5 Socket: AM4 Cores: 6 Threads: 12 Frequency: 3.7 GHz Turbo Frequency: 4.2 GHz Level 1 Cache: 384 KB Level 2 Cache: 3 MB Level 3 Cache: 8 MB Integrated graphics: Radeon Graphics CPU Cooler: Included Package Dimension: (W x D x H) : 12.70 x 9.60 x 12.90 cm Gross Weight: 0.43 KG",
+    "price": {
+      "$numberInt": "16900"
+    },
+    "countInStock": {
+      "$numberInt": "20"
+    },
+    "rating": {
+      "$numberInt": "0"
+    },
+    "numReviews": {
+      "$numberInt": "0"
+    },
+    "reviews": [],
+    "createdAt": {
+      "$date": {
+        "$numberLong": "1701942480932"
+      }
+    },
+    "updatedAt": {
+      "$date": {
+        "$numberLong": "1701942596115"
+      }
+    },
+    "__v": {
+      "$numberInt": "0"
+    }
+  },{
+    "_id": {
+      "$oid": ""
+    },
+    "name": "AMD CPU AM4 RYZEN 7 5800X3D 3.4 GHz",
+    "slug": "AMD-CPU-AM4-RYZEN-7-5800X3D-3.4-GHz",
+    "image": "",
+    "images": [],
+    "brand": "AMD",
+    "category": "CPU",
+    "description": "Brand: AMD Model: Ryzen 7 5800X 3D Series: Ryzen 7 Processors number: 8 Generation: 5 Socket: AM4 Cores: 8 Threads: 16 Frequency: 3.4 GHz Turbo Frequency: 4.5 GHz Level 1 Cache: 512 KB Level 2 Cache: 4 MB Level 3 Cache: 96 MB Integrated graphics: None CPU Cooler: Not included Package Dimension: (W x D x H) : 13.00 x 13.00 x 9.00 cm Gross Weight: 0.31 KG",
+    "price": {
+      "$numberInt": "3890"
+    },
+    "countInStock": {
+      "$numberInt": "20"
+    },
+    "rating": {
+      "$numberInt": "0"
+    },
+    "numReviews": {
+      "$numberInt": "0"
+    },
+    "reviews": [],
+    "createdAt": {
+      "$date": {
+        "$numberLong": "1701942480932"
+      }
+    },
+    "updatedAt": {
+      "$date": {
+        "$numberLong": "1701942596115"
+      }
+    },
+    "__v": {
+      "$numberInt": "0"
+    }
+  },{
+    "_id": {
+      "$oid": ""
+    },
+    "name": "AMD CPU Ryzen 9 3900X 3.8 GHz",
+    "slug": "AMD-CPU-Ryzen-9-3900X-3.8-GHz",
+    "image": "",
+    "images": [],
+    "brand": "AMD",
+    "category": "CPU",
+    "description": "Brand: AMD Model: Ryzen 9 3900X Series: Ryzen 9 Processors number: 12 Generation: 3rd Gen Socket: AM4 Cores: 12 Threads: 24 Frequency: 3.8 GHz Turbo Frequency: 4.6 GHz Level 1 Cache: n/a Level 2 Cache: 6MB Level 3 Cache: 64MB Integrated graphics: None CPU Cooler: Included Package Dimension: (W x D x H) : 14.00 x 15.00 x 14.00 cm Gross Weight: 1.00 KG",
+    "price": {
+      "$numberInt": "11500"
+    },
+    "countInStock": {
+      "$numberInt": "20"
+    },
+    "rating": {
+      "$numberInt": "0"
+    },
+    "numReviews": {
+      "$numberInt": "0"
+    },
+    "reviews": [],
+    "createdAt": {
+      "$date": {
+        "$numberLong": "1701942480932"
+      }
+    },
+    "updatedAt": {
+      "$date": {
+        "$numberLong": "1701942596115"
+      }
+    },
+    "__v": {
+      "$numberInt": "0"
+    }
+  },{
+    "_id": {
+      "$oid": ""
+    },
+    "name": "AMD CPU AM5 RYZEN 9 7950X 4.5GHz",
+    "slug": "AMD-CPU-AM5-RYZEN-9-7950X-4.5GHz",
+    "image": "",
+    "images": [],
+    "brand": "AMD",
+    "category": "CPU",
+    "description": "Brand: AMD Model: Ryzen 9 7950X Socket: AM5 Cores: 16 Threads: 32 Frequency: 4.5GHz Turbo Frequency: Up to 5.7GHz Level 1 Cache: 1MB Level 2 Cache: 16MB Level 3 Cache: 64MB Integrated graphics: AMD Radeon™ Graphics Graphics Core Count: 2 Graphics Frequency: 2200 MHz GPU Base: 400 MHz CPU Cooler: Not included Package Dimension: (W x D x H) : 13.00 x 13.00 x 9.00 cm Gross Weight: 0.31 KG",
+    "price": {
+      "$numberInt": "14500"
+    },
+    "countInStock": {
+      "$numberInt": "20"
+    },
+    "rating": {
+      "$numberInt": "0"
+    },
+    "numReviews": {
+      "$numberInt": "0"
+    },
+    "reviews": [],
+    "createdAt": {
+      "$date": {
+        "$numberLong": "1701942480932"
+      }
+    },
+    "updatedAt": {
+      "$date": {
+        "$numberLong": "1701942596115"
+      }
+    },
+    "__v": {
+      "$numberInt": "0"
+    }
+  },{
+    "_id": {
+      "$oid": ""
+    },
+    "name": "AMD CPU AM5 RYZEN 9 7950X3D 4.2GHz",
+    "slug": "AMD-CPU-AM5-RYZEN-9-7950X3D-4.2GHz",
+    "image": "",
+    "images": [],
+    "brand": "AMD",
+    "category": "CPU",
+    "description": "Brand: AMD Model: Ryzen™ 9 7950X3D Series: Ryzen™ 9 Processors number: 16 Generation: ZEN4 Socket: AM5 Cores: 16 Threads: 32 Frequency: 4.2GHz Turbo Frequency: Up to 5.7GHz Level 1 Cache: 1MB Level 2 Cache: 16MB Level 3 Cache: 128MB Integrated graphics: AMD Radeon™ Graphics CPU Cooler: No",
+    "price": {
+      "$numberInt": "21500"
+    },
+    "countInStock": {
+      "$numberInt": "20"
+    },
+    "rating": {
+      "$numberInt": "0"
+    },
+    "numReviews": {
+      "$numberInt": "0"
+    },
+    "reviews": [],
+    "createdAt": {
+      "$date": {
+        "$numberLong": "1701942480932"
+      }
+    },
+    "updatedAt": {
+      "$date": {
+        "$numberLong": "1701942596115"
+      }
+    },
+    "__v": {
+      "$numberInt": "0"
+    }
+  },{
+    "_id": {
+      "$oid": ""
+    },
+    "name": "AMD CPU Ryzen Threadripper PRO 3975WX 3.5 GHz",
+    "slug": "AMD-CPU-Ryzen-Threadripper-PRO-3975WX-3.5-GHz",
+    "image": "",
+    "images": [],
+    "brand": "AMD",
+    "category": "CPU",
+    "description": "Brand: AMD CPU Series: AMD Ryzen Threadripper Pro CPU Model: Ryzen Threadripper PRO 3975WX CPU Socket Type: AMD sWRX8 Core Name: AMD Ryzen PRO Processors Cores: 32 Core / 64 Threads Operating Frequency: 3.5 GHz up to 4.2 GHz L2 Cache: 16 MB L3 Cache: 128 MB Manufacturing Tech: N/A 64Bit Support: Yes Virtualization Technology Support: Yes Thermal Design Power: 280 W Warranty:: 3 year",
+    "price": {
+      "$numberInt": "93500"
+    },
+    "countInStock": {
+      "$numberInt": "20"
+    },
+    "rating": {
+      "$numberInt": "0"
+    },
+    "numReviews": {
+      "$numberInt": "0"
+    },
+    "reviews": [],
+    "createdAt": {
+      "$date": {
+        "$numberLong": "1701942480932"
+      }
+    },
+    "updatedAt": {
+      "$date": {
+        "$numberLong": "1701942596115"
+      }
+    },
+    "__v": {
+      "$numberInt": "0"
+    }
+  },{
+    "_id": {
+      "$oid": ""
+    },
+    "name": "AMD CPU Ryzen Threadripper PRO 3995WX 2.7 GHz",
+    "slug": "AMD-CPU-Ryzen-Threadripper-PRO-3995WX-2.7-GHz",
+    "image": "",
+    "images": [],
+    "brand": "AMD",
+    "category": "CPU",
+    "description": "Brand: AMD CPU Series: AMD Ryzen Threadripper Pro CPU Model: Ryzen Threadripper PRO 3995WX CPU Socket Type: AMD sWRX8 Core Name: AMD Ryzen PRO Processors Cores: 64 Core / 128 Threads Operating Frequency: 2.7 GHz up to 4.2 GHz L2 Cache: 32 MB L3 Cache: 256 MB Manufacturing Tech: 7 nm 64Bit Support: Yes Virtualization Technology Support: Yes Thermal Design Power: 280 W Warranty:: 3 year",
+    "price": {
+      "$numberInt": "118300"
+    },
+    "countInStock": {
+      "$numberInt": "20"
+    },
+    "rating": {
+      "$numberInt": "0"
+    },
+    "numReviews": {
+      "$numberInt": "0"
+    },
+    "reviews": [],
+    "createdAt": {
+      "$date": {
+        "$numberLong": "1701942480932"
+      }
+    },
+    "updatedAt": {
+      "$date": {
+        "$numberLong": "1701942596115"
+      }
+    },
+    "__v": {
+      "$numberInt": "0"
+    }
+  },{
+    "_id": {
+      "$oid": ""
+    },
+    "name": "Gigabyte Mainboard Z590 VISION G LGA-1200",
+    "slug": "Gigabyte-Mainboard-Z590-VISION-G-LGA-1200",
+    "image": "",
+    "images": [],
+    "brand": "Gigabyte",
+    "category": "Mainboard",
+    "description": "CPU Socket Type: intel LGA-1200, CPU Type: 11th Gen intel Core Processors, Supported CPU Technologies: ,Chipset: Rocket Lake: intel Z590, Number of Memory Slots: 4x DIMM, Memory Standard: DDR4 support up to 4800(OC) MHz, Maximum Memory Supported: 128 GB, Expansion Slot: 3x PCIe x16 slot, Storage Devices: 4x M.2 slot, 6x SATA III port, Onboard Video Chipset: Integrated Graphic on Processor, Onboard Audio Chipset: Realtek ALC4080 codec, Audio Channels: 7.1 Channel HD Audio, Onboard LAN Chipset: intel 2.5GbE LAN chip (2.5 Gbit/1 Gbit/100 Mbit), Onboard LAN Speed: 2.5 Gbps, Real Panel Ports: 1x PS/2, 1x HDMI, 1x DP in, 2x USB-C 3.2, 2.5Gb LAN, HD Audio Connector, Onboard USB: 1x USB-C 3.2 header, 1x USB 3.2 header, 2x USB 2.0 header, Dimensions W x D x H: 30.5 x 24.4 cm, Case spec: ATX Form Factor, Power Pin: 1x 24-pin Main Connector, 1x 8-pin Power Connector, 1x 4-pin Power Connector, Warranty: 3 year",
+    "price": {
+      "$numberInt": "7500"
+    },
+    "countInStock": {
+      "$numberInt": "20"
+    },
+    "rating": {
+      "$numberInt": "0"
+    },
+    "numReviews": {
+      "$numberInt": "0"
+    },
+    "reviews": [],
+    "createdAt": {
+      "$date": {
+        "$numberLong": "1701942480932"
+      }
+    },
+    "updatedAt": {
+      "$date": {
+        "$numberLong": "1701942596115"
+      }
+    },
+    "__v": {
+      "$numberInt": "0"
+    }
+  },{
+    "_id": {
+      "$oid": ""
+    },
+    "name": "MSI Mainboard MAG B560 TORPEDO LGA-1200",
+    "slug": "MSI-Mainboard-MAG-B560-TORPEDO-LGA-1200",
+    "image": "",
+    "images": [],
+    "brand": "MSI",
+    "category": "Mainboard",
+    "description": "CPU Socket Type: intel LGA-1200, CPU Type: 11th Gen intel Core Processors, Supported CPU Technologies: Rocket Lake, Chipset: intel B560, Number of Memory Slots: 4x DIMM, Memory Standard: DDR4 up to 5066(OC) MHz, Maximum Memory Supported: 128 GB, Expansion Slot: 2x PCIe x16 slot, 1x PCIe x1 slot, Storage Devices: 3x M.2 slot, 6x SATA III, Onboard Video Chipset: Integrated Graphic on Processor, Onboard Audio Chipset: Realtek ALC897 Codec, Audio Channels: 7.1 Channel HD Audio, Onboard LAN Chipset: 1x Realtek RTL8125B, 1x intel I219V, Onboard LAN Speed: 2.5 Gbps, 10/100/1000 Mbps, Real Panel Ports: HDMI, DP, USB Type-C 3.2, Dual Gb LAN, HD Audio connector, Onboard USB: 1x USB 3.2 Gen2 port, 1x USB 3.2 Gen1 connector, 2x USB 2.0 connectors, Dimensions W x D x H: 30.5 x 24.4 cm, Case spec: ATX Form Factor, Warranty: 3 year",
+    "price": {
+      "$numberInt": "4500"
+    },
+    "countInStock": {
+      "$numberInt": "20"
+    },
+    "rating": {
+      "$numberInt": "0"
+    },
+    "numReviews": {
+      "$numberInt": "0"
+    },
+    "reviews": [],
+    "createdAt": {
+      "$date": {
+        "$numberLong": "1701942480932"
+      }
+    },
+    "updatedAt": {
+      "$date": {
+        "$numberLong": "1701942596115"
+      }
+    },
+    "__v": {
+      "$numberInt": "0"
+    }
+  },{
+    "_id": {
+      "$oid": ""
+    },
+    "name": "ASRock Mainboard B560 Pro4 LGA-1200",
+    "slug": "ASRock-Mainboard-B560-Pro4-LGA-1200",
+    "image": "",
+    "images": [],
+    "brand": "ASRock",
+    "category": "Mainboard",
+    "description": "CPU Socket Type: intel LGA-1200, CPU Type: 11th Gen intel Core Processors, Supported CPU Technologies: Rocket Lake, Chipset: intel B560, Number of Memory Slots: 4x DIMM, Memory Standard: DDR4 supports up to 4800(OC)MHz, Maximum Memory Supported: 128 GB, Expansion Slot: 1 x PCIe 4.0 x16, 1 x PCIe 3.0 x16, 2 x PCIe 3.0 x1, Storage Devices: 6 SATA3, 1 x Hyper M.2 (PCIe Gen4 x4), 1 x Ultra M.2 (PCIe Gen3 x4), 1 x M.2 (PCIe Gen3 x2 & SATA3), Onboard Video Chipset: Integrated Graphic on Processor, Onboard Audio Chipset: Realtek ALC897 Audio Codec, Nahimic Audio, Audio Channels: 7.1 Channel HD Audio, Onboard LAN Chipset: intel Gigabit LAN, Onboard LAN Speed: 10/100/1000 Mbps, Real Panel Ports: PS/2 , HDMI, DP, Gb LAN, HD Audio Jack, Onboard USB: 2x USB 3.2 Gen1 Headers, 1x Front Panel Type C USB 3.2 Gen1 Header, 1x USB 2.0 Header, Dimensions W x D x H: 30.5 x 24.4 cm, Case spec: ATX Form Factor, Power Pin: 1x 24-pin Main Connector, 1x 8-pin Power Connector, Warranty: 3 year",
+    "price": {
+      "$numberInt": "3790"
+    },
+    "countInStock": {
+      "$numberInt": "20"
+    },
+    "rating": {
+      "$numberInt": "0"
+    },
+    "numReviews": {
+      "$numberInt": "0"
+    },
+    "reviews": [],
+    "createdAt": {
+      "$date": {
+        "$numberLong": "1701942480932"
+      }
+    },
+    "updatedAt": {
+      "$date": {
+        "$numberLong": "1701942596115"
+      }
+    },
+    "__v": {
+      "$numberInt": "0"
+    }
+  },{
+    "_id": {
+      "$oid": ""
+    },
+    "name": "ASRock Mainboard B560M Pro4/ac LGA-1200",
+    "slug": "ASRock-Mainboard-B560M-Pro4/ac-LGA-1200",
+    "image": "",
+    "images": [],
+    "brand": "ASRock",
+    "category": "Mainboard",
+    "description": "CPU Socket Type: intel LGA-1200,  CPU Type: 11th Gen intel Core Processors, Supported CPU Technologies: Rocket Lake, Chipset: intel B560, Number of Memory Slots: 4x DIMM, Memory Standard: DDR4 support up to 4800+(OC) MHz, Maximum Memory Supported: 128 GB, Expansion Slot: 1 x PCIe 4.0 x16, 1 x PCIe 3.0 x16, 1 x PCIe 3.0 x1, Storage Devices: 1x Ultra M.2 , 1x Hyper M.2 , 6x SATA III, Onboard Video Chipset: Integrated Graphic on Processor, Onboard Audio Chipset: Realtek ALC897 Audio Codec, Audio Channels: 7.1 Channel HD Audio, Onboard LAN Chipset: intel Gigabit LAN, Onboard LAN Speed: 10/100/1000 Mbps, Real Panel Ports: 1x PS/2, HDMI, USB 3.2 , Gb LAN, Antenna WiFi AC, HD Audio Jack, Onboard USB: 1 x USB 3.2 Gen1 Header, 2 x USB 2.0 Headers, Dimensions W x D x H: 24.4 x 24.4 cm, Power Pin: 1x 24-pin, 1x 8-pin Power connector, Warranty: 3 year",
+    "price": {
+      "$numberInt": "3790"
+    },
+    "countInStock": {
+      "$numberInt": "20"
+    },
+    "rating": {
+      "$numberInt": "0"
+    },
+    "numReviews": {
+      "$numberInt": "0"
+    },
+    "reviews": [],
+    "createdAt": {
+      "$date": {
+        "$numberLong": "1701942480932"
+      }
+    },
+    "updatedAt": {
+      "$date": {
+        "$numberLong": "1701942596115"
+      }
+    },
+    "__v": {
+      "$numberInt": "0"
+    }
+  },{
+    "_id": {
+      "$oid": ""
+    },
+    "name": "Maxsun Mainboard iCraft B560M LGA-1200",
+    "slug": "Maxsun-Mainboard-iCraft-B560M-LGA-1200",
+    "image": "",
+    "images": [],
+    "brand": "Maxsun",
+    "category": "Mainboard",
+    "description": "CPU Socket Type: intel LGA-1200,  CPU Type: 11th Gen intel Core Processors, Supported CPU Technologies: Rocket Lake, Chipset: intel B560, Number of Memory Slots: 4x DIMM, Memory Standard: DDR4 support up to 4800+(OC) MHz, Maximum Memory Supported: 128 GB, Expansion Slot: 1 x PCIe 4.0 x16, 1 x PCIe 3.0 x16, 1 x PCIe 3.0 x1, Storage Devices: 1x Ultra M.2 , 1x Hyper M.2 , 6x SATA III, Onboard Video Chipset: Integrated Graphic on Processor, Onboard Audio Chipset: Realtek ALC897 Audio Codec, Audio Channels: 7.1 Channel HD Audio, Onboard LAN Chipset: intel Gigabit LAN, Onboard LAN Speed: 10/100/1000 Mbps, Real Panel Ports: 1x PS/2, HDMI, USB 3.2 , Gb LAN, Antenna WiFi AC, HD Audio Jack, Onboard USB: 1 x USB 3.2 Gen1 Header, 2 x USB 2.0 Headers, Dimensions W x D x H: 24.4 x 24.4 cm, Case spec: Micro-ATX Form Factor, Power Pin: 1x 24-pin, 1x 8-pin Power connector, Warranty: 3 year",
+    "price": {
+      "$numberInt": "3200"
+    },
+    "countInStock": {
+      "$numberInt": "20"
+    },
+    "rating": {
+      "$numberInt": "0"
+    },
+    "numReviews": {
+      "$numberInt": "0"
+    },
+    "reviews": [],
+    "createdAt": {
+      "$date": {
+        "$numberLong": "1701942480932"
+      }
+    },
+    "updatedAt": {
+      "$date": {
+        "$numberLong": "1701942596115"
+      }
+    },
+    "__v": {
+      "$numberInt": "0"
+    }
+  },{
+    "_id": {
+      "$oid": ""
+    },
+    "name": "ASRock Mainboard B560M-HDV LGA-1200",
+    "slug": "ASRock-Mainboard-B560M-HDV-LGA-1200",
+    "image": "",
+    "images": [],
+    "brand": "ASRock",
+    "category": "Mainboard",
+    "description": "CPU Socket Type: intel LGA-1200,  CPU Type: 11th Gen intel Core Processors, Supported CPU Technologies: Rocket Lake, Chipset: intel B560, Number of Memory Slots: 2x DIMM, Memory Standard: DDR4 supports DDR4 5000MHz (OC), Maximum Memory Supported: 64 GB, Storage Devices: 1 x Ultra M.2 Socket, 1 x Hyper M.2 (PCIe Gen4 x4), 4x SATA III, Onboard Video Chipset: Integrated Graphic on Processor, Onboard Audio Chipset: Realtek ALC897 Audio Codec, Audio Channels: 7.1 Channel Audio, Onboard LAN Chipset: Giga PHY intel I219V, Real Panel Ports: PS/2, HDMI, DVI-D, DSUB, Gb LAN, Audio Jack, Onboard USB: 1 x USB 3.2 Gen1 Header, 2 x USB 2.0 Headers, Dimensions W x D x H: 24.4 x 19.8 cm, Case spec: Micro-ATX Form Factor, Power Pin: 1x 24-pin, 1x 8-pin power connector, Warranty: 3 year",
+    "price": {
+      "$numberInt": "2740"
+    },
+    "countInStock": {
+      "$numberInt": "20"
+    },
+    "rating": {
+      "$numberInt": "0"
+    },
+    "numReviews": {
+      "$numberInt": "0"
+    },
+    "reviews": [],
+    "createdAt": {
+      "$date": {
+        "$numberLong": "1701942480932"
+      }
+    },
+    "updatedAt": {
+      "$date": {
+        "$numberLong": "1701942596115"
+      }
+    },
+    "__v": {
+      "$numberInt": "0"
+    }
+  },{
+    "_id": {
+      "$oid": ""
+    },
+    "name": "Maxsun Mainboard Meterstone B560M LGA-1200",
+    "slug": "Maxsun-Mainboard-Meterstone-B560M-LGA-1200",
+    "image": "",
+    "images": [],
+    "brand": "Maxsun",
+    "category": "Mainboard",
+    "description": "intel LGA-1200,  11th Gen intel Core Processors,  Rocket Lake,  2x DIMM,  DDR4 support up to 4800(OC) MHz,  64 GB,  1x PCIe 4.0 x16 slot, 1x PCIe 3.0 x4 slot, 1x PCIe 3.0 x1 slot,  2x M.2 slot, 6x SATA III port,  Integrated Graphic on Processor,  n/a,  7.1 Channel Audio,  2.5 Gbps,  1x PS/2, 1x VGA, 1x HDMI, 1x DisplayPort, 2.5Gb LAN, Audio Connector,  n/a,  Micro-ATX Form Factor,  1x 24-pin Main Connector, 1x 8-pin Power Connector,  3 year",
+    "price": {
+      "$numberInt": "2500"
+    },
+    "countInStock": {
+      "$numberInt": "20"
+    },
+    "rating": {
+      "$numberInt": "0"
+    },
+    "numReviews": {
+      "$numberInt": "0"
+    },
+    "reviews": [],
+    "createdAt": {
+      "$date": {
+        "$numberLong": "1701942480932"
+      }
+    },
+    "updatedAt": {
+      "$date": {
+        "$numberLong": "1701942596115"
+      }
+    },
+    "__v": {
+      "$numberInt": "0"
+    }
+  },{
+    "_id": {
+      "$oid": ""
+    },
+    "name": "ASUS Mainboard ProArt B550-CREATOR AM4",
+    "slug": "ASUS-Mainboard-ProArt-B550-CREATOR-AM4",
+    "image": "",
+    "images": [],
+    "brand": "ASUS",
+    "category": "Mainboard",
+    "description": "CPU Socket Type: AMD AM4,  CPU Type: AMD Ryzen 3000, 5000 Series Desktop Processors (not Support 3000G Series), Supported CPU Technologies: AMD Zen3, Chipset: AMD B550, Number of Memory Slots: 4x DIMM, Memory Standard: DDR4 up to 4866(OC) MHz, Maximum Memory Supported: 128 GB, Expansion Slot: 2x PCIe 4.0 x16 slot, 1x PCIe 3.0 x16 slot, 2x PCIe 3.0 x1 slot, Storage Devices: 2x M.2 slot, 4x SATA III port, Onboard Video Chipset: Integrated Graphic on Processor, Onboard Audio Chipset: S1220A, Audio Channels: n/a, Onboard LAN Chipset: 2 x intel I225-V 2.5Gb Ethernet, Onboard LAN Speed: 2.5 Gbps, Real Panel Ports: 1x PS/2, 1x HDMI, 1x DisplayPort, 2.5Gb LAN, HD Audio connector, Onboard USB: 1x USB3.2 Type-C, 1x USB3.2 header, 2x USB2.0 header, Dimensions W x D x H: 30.5 x 24.4 cm, Case spec: ATX Form Factor, Power Pin: 1x 24-pin Main Connector, 1x 8-pin Power Connector, 1x 4-pin Power Connector, Warranty: 3 year + 1 year (register)",
+    "price": {
+      "$numberInt": "6900"
+    },
+    "countInStock": {
+      "$numberInt": "20"
+    },
+    "rating": {
+      "$numberInt": "0"
+    },
+    "numReviews": {
+      "$numberInt": "0"
+    },
+    "reviews": [],
+    "createdAt": {
+      "$date": {
+        "$numberLong": "1701942480932"
+      }
+    },
+    "updatedAt": {
+      "$date": {
+        "$numberLong": "1701942596115"
+      }
+    },
+    "__v": {
+      "$numberInt": "0"
+    }
+  },{
+    "_id": {
+      "$oid": ""
+    },
+    "name": "Gigabyte Mainboard X570S UD (rev.1.0) AM4",
+    "slug": "Gigabyte-Mainboard-X570S-UD-(rev.1.0)-AM4",
+    "image": "",
+    "images": [],
+    "brand": "Gigabyte",
+    "category": "Mainboard",
+    "description": "CPU Socket Type: AMD AM4,  CPU Type: AMD Ryzen 3000, 5000 Series Desktop Processors, Supported CPU Technologies: AMD Zen3, Chipset: AMD X570, Number of Memory Slots: 4x DIMM, Memory Standard: DDR4 support up to 5100(OC) MHz, Maximum Memory Supported: 128 GB, Expansion Slot: 2x PCIe x16 slot, 2x PCIe 3.0 x1 slot, Storage Devices: 3x M.2 slot, 6x SATA III port, Onboard Video Chipset: Integrated Graphic on Processor, Onboard Audio Chipset: Realtek Audio CODEC High Definition Audio, Audio Channels: 7.1 Channel HD Audio, Onboard LAN Chipset: Realtek 2.5GbE LAN, Onboard LAN Speed: 2.5 Gbps, Real Panel Ports: 1x PS/2, 1x HDMI, 1x USB-C, 2.5Gb LAN, HD Audio connector, Onboard USB: 1x USB-C 3.2 Gen2 port, 4x USB3.2 port, 2x USB2.0 port, Dimensions W x D x H: 30.5 x 24.4 cm, Case spec: ATX Form Factor, Power Pin: 1x 24-pin Main Connector, 1x 8-pin Power Connector, Warranty: 3 year",
+    "price": {
+      "$numberInt": "5890"
+    },
+    "countInStock": {
+      "$numberInt": "20"
+    },
+    "rating": {
+      "$numberInt": "0"
+    },
+    "numReviews": {
+      "$numberInt": "0"
+    },
+    "reviews": [],
+    "createdAt": {
+      "$date": {
+        "$numberLong": "1701942480932"
+      }
+    },
+    "updatedAt": {
+      "$date": {
+        "$numberLong": "1701942596115"
+      }
+    },
+    "__v": {
+      "$numberInt": "0"
+    }
+  },{
+    "_id": {
+      "$oid": ""
+    },
+    "name": "ASUS Mainboard TUF GAMING X570-PLUS (WI-FI) AM4",
+    "slug": "ASUS-Mainboard-TUF-GAMING-X570-PLUS-(WI-FI)-AM4",
+    "image": "",
+    "images": [],
+    "brand": "ASUS",
+    "category": "Mainboard",
+    "description": "CPU Socket Type: AMD AM4,  CPU Type: AMD Ryzen 3000, 5000 Series Desktop Processors, Supported CPU Technologies: AMD Zen3, Chipset: AMD X570, Number of Memory Slots: 4x DIMM, Memory Standard: DDR4 up to 5100(OC) MHz, Maximum Memory Supported: 128 GB, Expansion Slot: 2x PCIe x16 slot, 2x PCIe x1 slot, Storage Devices: 2x M.2 slot , 8x SATA III port, Onboard Video Chipset: Integrated Graphic on Processor, Onboard Audio Chipset: Realtek ALC S1200A 8-Channel High Definition Audio CODEC, Audio Channels: 7.1 Channel HD Audio, Onboard LAN Chipset: Realtek L8200A , intel Wireless-AC 9260, Onboard LAN Speed: 10/100/1000 Mbps, Real Panel Ports: 1x PS/2, 1x HDMI, 1x DisplayPort, 1x USB-C, Antenna connector, Audio connector, Onboard USB: 1x USB3.2 connector, 2x USB2.0 connector, Dimensions W x D x H: 30.5 x 24.4 cm, Case spec: ATX Form Factor, Power Pin: 1x 24-pin Main Connector, 1x 8-pin Power Connector, 1x 4-pin Power Connector, Warranty: 3 year + 1 year (register)",
+    "price": {
+      "$numberInt": "8390"
+    },
+    "countInStock": {
+      "$numberInt": "20"
+    },
+    "rating": {
+      "$numberInt": "0"
+    },
+    "numReviews": {
+      "$numberInt": "0"
+    },
+    "reviews": [],
+    "createdAt": {
+      "$date": {
+        "$numberLong": "1701942480932"
+      }
+    },
+    "updatedAt": {
+      "$date": {
+        "$numberLong": "1701942596115"
+      }
+    },
+    "__v": {
+      "$numberInt": "0"
+    }
+  },{
+    "_id": {
+      "$oid": ""
+    },
+    "name": "Gigabyte Mainboard B650 AORUS ELITE AX (AM5)",
+    "slug": "Gigabyte-Mainboard-B650-AORUS-ELITE-AX-(AM5)",
+    "image": "",
+    "images": [],
+    "brand": "Gigabyte",
+    "category": "Mainboard",
+    "description": "CPU Socket Type: AMD AM5,  CPU Type: AMD Ryzen 7000 Series Processors, Supported CPU Technologies: Raphael, Chipset: AMD B650, Number of Memory Slots: 4x DIMM, Memory Standard: DDR5 Support up to 6600(OC) MHz, Maximum Memory Supported: 128 GB, Expansion Slot: 1x PCIe 4.0 x16 slot, 2x PCIe 3.0 x16 slot(running at x1), Storage Devices: 1x M.2 PCIe 5.0 x4 slot(Support M.2 25110), 2x M.2 PCIe 4.0 x4 slot, 4x SATA III port, Onboard Video Chipset: Integrated Graphic on Processors, Onboard Audio Chipset: Realtek Audio CODEC, Audio Channels: 7.1 Channel HD Audio, Onboard LAN Chipset: Realtek 2.5GbE LAN chip + AMD Wi-Fi 6E RZ616 (MT7922A22M), Onboard LAN Speed: 2.5 Gbps, Real Panel Ports: 1x HDMI, 1x DisplayPort, 1x USBC3.2 gen2 port, 2.5Gb LAN, WiFi Antenna, HD Audio connector, Onboard USB: 1x USBC3.2 gen2x2 port, 1x USB3.2 header, 2x USB2.0 header, Dimensions W x D x H: 30.5 x 24.4 cm, Case spec: ATX Form Factor, Power Pin: 1x 24-pin Main Connector, 1x 8-pin Power Connector, 1x 4-pin Power Connector, Warranty: 3 year",
+    "price": {
+      "$numberInt": "7990"
+    },
+    "countInStock": {
+      "$numberInt": "20"
+    },
+    "rating": {
+      "$numberInt": "0"
+    },
+    "numReviews": {
+      "$numberInt": "0"
+    },
+    "reviews": [],
+    "createdAt": {
+      "$date": {
+        "$numberLong": "1701942480932"
+      }
+    },
+    "updatedAt": {
+      "$date": {
+        "$numberLong": "1701942596115"
+      }
+    },
+    "__v": {
+      "$numberInt": "0"
+    }
+  },{
+    "_id": {
+      "$oid": ""
+    },
+    "name": "MSI Mainboard PRO A620M-E DRR5 AM5",
+    "slug": "MSI-Mainboard-PRO-A620M-E-DRR5-AM5",
+    "image": "",
+    "images": [],
+    "brand": "MSI",
+    "category": "Mainboard",
+    "description": "CPU Socket Type: AMD AM5,  CPU Type: Ryzen 7000 Series Processors, Supported CPU Technologies: Raphael, Chipset: AMD A620, Number of Memory Slots: 2x DIMM, Memory Standard: DDR5 Support up to 6000(OC) MHz, Maximum Memory Supported: 96 GB, Expansion Slot: 1x PCIe 4.0 x16 slot, 1x PCIe 3.0 x 1 slot, Storage Devices: 1x M.2 PCIe 4.0 x4 slot, 4x SATA III port, Onboard Video Chipset: n/a, Onboard Audio Chipset: Realtek ALC897 Codec, Audio Channels: 7.1 Channel HD Audio, Onboard LAN Chipset: Realtek RTL8111H, Onboard LAN Speed: 1x 10/100/1000 Mbps port, Real Panel Ports: 1x HDM , 1x D-Sub, 4x USB-A 3.2 , 2x USB 2.0 , Gb LAN , Audio Connectors, Onboard USB: 2x USB-A 3.2 ports , 4x USB 2.0 ports, Dimensions W x D x H: 21.1 cm. x 24.4 cm, Case spec: Micro-ATX Form Factor, Power Pin: 1x 24-pin Main Connector, 1x 8-pin Power Connector, Warranty: 3 year",
+    "price": {
+      "$numberInt": "3190"
+    },
+    "countInStock": {
+      "$numberInt": "20"
+    },
+    "rating": {
+      "$numberInt": "0"
+    },
+    "numReviews": {
+      "$numberInt": "0"
+    },
+    "reviews": [],
+    "createdAt": {
+      "$date": {
+        "$numberLong": "1701942480932"
+      }
+    },
+    "updatedAt": {
+      "$date": {
+        "$numberLong": "1701942596115"
+      }
+    },
+    "__v": {
+      "$numberInt": "0"
+    }
+  },{
+    "_id": {
+      "$oid": ""
+    },
+    "name": "ASUS PRO-WS-WRX80E-SAGE-SE-WIF",
+    "slug": "ASUS-PRO-WS-WRX80E-SAGE-SE-WIF",
+    "image": "",
+    "images": [],
+    "brand": "ASUS",
+    "category": "Mainboard",
+    "description": "Brand: ASUS, Model: Pro WS WRX80E-SAGE SE WIFI, CPU Support:AMD® Ryzen™ Threadripper™ Pro Processors, Socket: sWRX8, Chipset:: AMD WRX80, Memory Support: Memory Channels:8DDR4 (Eight Channel)Max Memory Size:2048GB, Memory Type: DDR4, Memory Bus: 3200 / 3000 / 2933 / 2800 / 2667 / 2400 / 2133 MHz, Memory Slot: 8 Slots, Graphics: None,Multi Graphic Support: n/a, Audio: Relatek ALC4080 7.1 Surround Sound High Definition Audio CODEC, Expansion Slot:s: AMD Ryzen™ Threadripper™ PRO Series Processors 7 x PCIe 4.0/3.0 x16 slot(s) Support PCIe bandwidth bifurcation for RAID on CPU function., Storage: Supports 3 x M.2 slots and 8 x SATA 6Gb/s ports, USB: Front USB:1 x USB 3.2 Gen 1 connector (suppports USB Type-C®) 1 x USB 3.2 Gen 1 header supports additional 2 USB 3.2 Gen 1 ports 2 x USB 2.0 headers support additional 4 USB 2.0 ports, Form Factor: Extended ATX 30.98cm x 33.02cm, H/W Monitoring: n/a, BIOS: n/a, Special Features: n/a, Software Features: n/a, Operating System Support: n/a, Dimension:(W x D x H) : 33.02 x 30.98 x 4.20 cm, Net Weight: 2.98 KG, Package Dimension: (W x D x H) : 36.20 x 37.80 x 10.30 cm, Gross Weight: 5.15 KG",
+    "price": {
+      "$numberInt": "39900"
+    },
+    "countInStock": {
+      "$numberInt": "20"
+    },
+    "rating": {
+      "$numberInt": "0"
+    },
+    "numReviews": {
+      "$numberInt": "0"
+    },
+    "reviews": [],
+    "createdAt": {
+      "$date": {
+        "$numberLong": "1701942480932"
+      }
+    },
+    "updatedAt": {
+      "$date": {
+        "$numberLong": "1701942596115"
+      }
+    },
+    "__v": {
+      "$numberInt": "0"
+    }
+  },{
+    "_id": {
+      "$oid": ""
+    },
+    "name": "ASRock Mainboard WRX80 Creator R2.0 sWRX8",
+    "slug": "ASRock-Mainboard-WRX80-Creator-R2.0-sWRX8",
+    "image": "",
+    "images": [],
+    "brand": "ASRock",
+    "category": "Mainboard",
+    "description": "CPU Socket Type: AMD sWRX8,  CPU Type: AMD Ryzen Threadripper PRO 5000WX Series, Supported CPU Technologies: AMD Zen4, Chipset: AMD WRX80, Number of Memory Slots: 8x DIMM, Memory Standard: DDR4 Support up to 4400(OC) MHz, Supports DDR4 ECC & non-ECC ,buffered and un-buffered memory (R-DIMM and 3DS R-DIMM), Maximum Memory Supported: 2048 GB, Expansion Slot: 7x PCIe 4.0 x16 slot (running at x16, x16, x16, x8, x16, x8, x16), Storage Devices: 2x M.2 PCIe Gen 4.0 slot, 8x SATA III port, Onboard Video Chipset: Aspeed AST2500 BMC Controller (Supports D-Sub with max. resolution up to 1920x1200 @ 60Hz, Onboard Audio Chipset: Realtek ALC4050H+ALC1220 + Nahimic Audio, Audio Channels: 7.1 Channel HD Audio, Onboard LAN Chipset: 2 x 10 Gigabit LAN (Marvell (Aquantia) AQC113CS), Onboard LAN Speed: 2x 10 Gigabit LAN, Real Panel Ports: 1x D-Sub, 2x Mini DP, 2x Thunderbolt 4, 2x USB3.2 gen2, 2x RJ45 (10Gb LAN), Antenna Port, Clear CMOS button, HD Audio Jack, Onboard USB: 1x USB-C3.2 Gen2 header, 2x USB3.2 header, 1x USB2.0 header, Dimensions W x D x H: 30.5 x 27.2 cm, Case spec: E-ATX Form Factor, Power Pin: 1x 24-pin Main Connector, 2x 8-pin Power Connector, 1x 6-pin Power Connector, Warranty: 3 year",
+    "price": {
+      "$numberInt": "37500"
+    },
+    "countInStock": {
+      "$numberInt": "20"
+    },
+    "rating": {
+      "$numberInt": "0"
+    },
+    "numReviews": {
+      "$numberInt": "0"
+    },
+    "reviews": [],
+    "createdAt": {
+      "$date": {
+        "$numberLong": "1701942480932"
+      }
+    },
+    "updatedAt": {
+      "$date": {
+        "$numberLong": "1701942596115"
+      }
+    },
+    "__v": {
+      "$numberInt": "0"
+    }
+  },{
+    "_id": {
+      "$oid": ""
+    },
+    "name": "G.Skill Ram PC DDR4 64GB/3200MHz.CL16 (16GBx4) Trident Z RGB",
+    "slug": "G.Skill-Ram-PC-DDR4-64GB/3200MHz.CL16-(16GBx4)-Trident-Z-RGB",
+    "image": "",
+    "images": [],
+    "brand": "G.Skill",
+    "category": "Ram",
+    "description": "Capacity: 64 GB (4x16GB), Speed: 3200 MHz, Cas Latency: CL16, Timing: 16-18-18-38, Voltage: 1.20 V, Color: Black, Heat Spreader: yes, Type: DDR4, Warranty:: Lifetime",
+    "price": {
+      "$numberInt": "7990"
+    },
+    "countInStock": {
+      "$numberInt": "20"
+    },
+    "rating": {
+      "$numberInt": "0"
+    },
+    "numReviews": {
+      "$numberInt": "0"
+    },
+    "reviews": [],
+    "createdAt": {
+      "$date": {
+        "$numberLong": "1701942480932"
+      }
+    },
+    "updatedAt": {
+      "$date": {
+        "$numberLong": "1701942596115"
+      }
+    },
+    "__v": {
+      "$numberInt": "0"
+    }
+  },{
+    "_id": {
+      "$oid": ""
+    },
+    "name": "Corsair Ram PC DDR5 32GB/4800MHz CL40 (16GBx2) Vengeance (Black)",
+    "slug": "Corsair-Ram-PC-DDR5-32GB/4800MHz-CL40-(16GBx2)-Vengeance-(Black)",
+    "image": "",
+    "images": [],
+    "brand": "Corsair",
+    "category": "Ram",
+    "description": "Capacity: 32 GB (2x16GB), Speed: 4800 MHz, Cas Latency: CL40, Timing: 40-40-40-77, Voltage: 1.10 V, Color: Black, Heat Spreader: yes, Type: DDR5, Warranty:: Lifetime",
+    "price": {
+      "$numberInt": "12490"
+    },
+    "countInStock": {
+      "$numberInt": "20"
+    },
+    "rating": {
+      "$numberInt": "0"
+    },
+    "numReviews": {
+      "$numberInt": "0"
+    },
+    "reviews": [],
+    "createdAt": {
+      "$date": {
+        "$numberLong": "1701942480932"
+      }
+    },
+    "updatedAt": {
+      "$date": {
+        "$numberLong": "1701942596115"
+      }
+    },
+    "__v": {
+      "$numberInt": "0"
+    }
+  },{
+    "_id": {
+      "$oid": ""
+    },
+    "name": "Thermaltake Ram PC DDR5 32GB/4800MHz CL40 (2x16GB) TOUGHRAM RC",
+    "slug": "Thermaltake-Ram-PC-DDR5-32GB/4800MHz-CL40-(2x16GB)-TOUGHRAM RC",
+    "image": "",
+    "images": [],
+    "brand": "Thermaltake",
+    "category": "Ram",
+    "description": "Capacity: 32 GB (2x16GB), Speed: 4800 MHz, Cas Latency: CL40, Timing: 40-40-40-77, Voltage: 1.10 V, Color: Black, Heat Spreader: yes, Type: DDR5, Warranty:: Lifetime",
+    "price": {
+      "$numberInt": "15490"
+    },
+    "countInStock": {
+      "$numberInt": "20"
+    },
+    "rating": {
+      "$numberInt": "0"
+    },
+    "numReviews": {
+      "$numberInt": "0"
+    },
+    "reviews": [],
+    "createdAt": {
+      "$date": {
+        "$numberLong": "1701942480932"
+      }
+    },
+    "updatedAt": {
+      "$date": {
+        "$numberLong": "1701942596115"
+      }
+    },
+    "__v": {
+      "$numberInt": "0"
+    }
+  },{
+    "_id": {
+      "$oid": ""
+    },
+    "name": "v-color Ram PC DDR4 64GB/4400MHz.CL19 (32GBx2) Skywalker Plus non RGB Golden Armis",
+    "slug": "v-color-Ram-PC-DDR4-64GB/4400MHz.CL19-(32GBx2)-Skywalker-Plus-non-RGB-Golden-Armis",
+    "image": "",
+    "images": [],
+    "brand": "v-color",
+    "category": "Ram",
+    "description": "Capacity: 64 GB (2x32GB), Speed: 4400 MHz, Cas Latency: CL19, Timing: 19-26-26-46, Voltage: 1.5 V, Color: Gold, Heat Spreader: yes, Type: DDR4, Warranty:: Lifetime",
+    "price": {
+      "$numberInt": "10190"
+    },
+    "countInStock": {
+      "$numberInt": "20"
+    },
+    "rating": {
+      "$numberInt": "0"
+    },
+    "numReviews": {
+      "$numberInt": "0"
+    },
+    "reviews": [],
+    "createdAt": {
+      "$date": {
+        "$numberLong": "1701942480932"
+      }
+    },
+    "updatedAt": {
+      "$date": {
+        "$numberLong": "1701942596115"
+      }
+    },
+    "__v": {
+      "$numberInt": "0"
+    }
+  },{
+    "_id": {
+      "$oid": ""
+    },
+    "name": "Thermaltake Ram PC DDR4 16GB/4600MHz. CL19 (8GBX2) TOUGHRAM XG RGB Black",
+    "slug": "Thermaltake-Ram-PC-DDR4-16GB/4600MHz.-CL19-(8GBX2)-TOUGHRAM-XG-RGB-Black",
+    "image": "",
+    "images": [],
+    "brand": "Thermaltake",
+    "category": "Ram",
+    "description": "Capacity: 16 GB (2x8GB), Speed: 4600 MHz, Cas Latency: CL19, Timing: 19-26-26-45, Voltage: 1.50 V, Color: Black, Heat Spreader: yes, Type: DDR4, Warranty:: Lifetime",
+    "price": {
+      "$numberInt": "8350"
+    },
+    "countInStock": {
+      "$numberInt": "20"
+    },
+    "rating": {
+      "$numberInt": "0"
+    },
+    "numReviews": {
+      "$numberInt": "0"
+    },
+    "reviews": [],
+    "createdAt": {
+      "$date": {
+        "$numberLong": "1701942480932"
+      }
+    },
+    "updatedAt": {
+      "$date": {
+        "$numberLong": "1701942596115"
+      }
+    },
+    "__v": {
+      "$numberInt": "0"
+    }
+  },{
+    "_id": {
+      "$oid": ""
+    },
+    "name": "Thermaltake Ram PC DDR4 16GB/4000MHz. CL19 (8GBX2) TOUGHRAM XG RGB Black",
+    "slug": "Thermaltake-Ram-PC-DDR4-16GB/4000MHz.-CL19-(8GBX2)-TOUGHRAM-XG-RGB-Black",
+    "image": "",
+    "images": [],
+    "brand": "Thermaltake",
+    "category": "Ram",
+    "description": "Capacity: 16 GB (2x8GB), Speed: 4000 MHz, Cas Latency: CL19, Timing: 19-23-23-42, Voltage: 1.35 V, Color: Black, Heat Spreader: yes, Type: DDR4, Warranty:: Lifetime",
+    "price": {
+      "$numberInt": "6160"
+    },
+    "countInStock": {
+      "$numberInt": "20"
+    },
+    "rating": {
+      "$numberInt": "0"
+    },
+    "numReviews": {
+      "$numberInt": "0"
+    },
+    "reviews": [],
+    "createdAt": {
+      "$date": {
+        "$numberLong": "1701942480932"
+      }
+    },
+    "updatedAt": {
+      "$date": {
+        "$numberLong": "1701942596115"
+      }
+    },
+    "__v": {
+      "$numberInt": "0"
+    }
+  },{
+    "_id": {
+      "$oid": ""
+    },
+    "name": "Thermaltake Ram PC DDR4 16GB/4400MHz CL19 (8GBx2) TOUGHRAM RGB (Black)",
+    "slug": "Thermaltake-Ram-PC-DDR4-16GB/4400MHz-CL19-(8GBx2)-TOUGHRAM-RGB-(Black)",
+    "image": "",
+    "images": [],
+    "brand": "Thermaltake",
+    "category": "Ram",
+    "description": "Capacity: 16 GB (2x8GB), Speed: 4400 MHz, Cas Latency: CL19, Timing: 19-25-25-45, Voltage: 1.35 V, Color: Black, Heat Spreader: yes, Type: DDR4, Warranty:: Lifetime",
+    "price": {
+      "$numberInt": "2930"
+    },
+    "countInStock": {
+      "$numberInt": "20"
+    },
+    "rating": {
+      "$numberInt": "0"
+    },
+    "numReviews": {
+      "$numberInt": "0"
+    },
+    "reviews": [],
+    "createdAt": {
+      "$date": {
+        "$numberLong": "1701942480932"
+      }
+    },
+    "updatedAt": {
+      "$date": {
+        "$numberLong": "1701942596115"
+      }
+    },
+    "__v": {
+      "$numberInt": "0"
+    }
+  },{
+    "_id": {
+      "$oid": ""
+    },
+    "name": "PNY Ram PC DDR4 16GB/4000MHz CL18 (8GBx2) XLR8 RGB",
+    "slug": "PNY-Ram-PC-DDR4-16GB/4000MHz-CL18-(8GBx2)-XLR8-RGB",
+    "image": "",
+    "images": [],
+    "brand": "PNY",
+    "category": "Ram",
+    "description": "Capacity: 16 GB (2x8GB), Speed: 4000 MHz, Cas Latency: CL18, Timing: 18-22-22, Voltage: 1.35 V, Color: Black, Heat Spreader: yes, Type: DDR4, Warranty:: Lifetime",
+    "price": {
+      "$numberInt": "3750"
+    },
+    "countInStock": {
+      "$numberInt": "20"
+    },
+    "rating": {
+      "$numberInt": "0"
+    },
+    "numReviews": {
+      "$numberInt": "0"
+    },
+    "reviews": [],
+    "createdAt": {
+      "$date": {
+        "$numberLong": "1701942480932"
+      }
+    },
+    "updatedAt": {
+      "$date": {
+        "$numberLong": "1701942596115"
+      }
+    },
+    "__v": {
+      "$numberInt": "0"
+    }
+  },{
+    "_id": {
+      "$oid": ""
+    },
+    "name": "Crucial Ram PC DDR5 64GB/4800MHz.CL40 (2x32GB) UDIMM Kit Green",
+    "slug": "Crucial-Ram-PC-DDR5-64GB/4800MHz.CL40-(2x32GB)-UDIMM-Kit-Green",
+    "image": "",
+    "images": [],
+    "brand": "Crucial",
+    "category": "Ram",
+    "description": "Capacity: 64 GB (2x32GB), Speed: 4800 MHz, Cas Latency: CL40, Timing: n/a, Voltage: 1.10 V, Color: Green, Heat Spreader: No, Type: DDR5, Warranty:: Lifetime",
+    "price": {
+      "$numberInt": "18470"
+    },
+    "countInStock": {
+      "$numberInt": "20"
+    },
+    "rating": {
+      "$numberInt": "0"
+    },
+    "numReviews": {
+      "$numberInt": "0"
+    },
+    "reviews": [],
+    "createdAt": {
+      "$date": {
+        "$numberLong": "1701942480932"
+      }
+    },
+    "updatedAt": {
+      "$date": {
+        "$numberLong": "1701942596115"
+      }
+    },
+    "__v": {
+      "$numberInt": "0"
+    }
+  },{
+    "_id": {
+      "$oid": ""
+    },
+    "name": "G.Skill Ram PC DDR4 64GB/3200MHz.CL16 (32GBx2) Trident Z RGB",
+    "slug": "G.Skill-Ram-PC-DDR4-64GB/3200MHz.CL16-(32GBx2)-Trident-Z-RGB",
+    "image": "",
+    "images": [],
+    "brand": "G.Skill",
+    "category": "Ram",
+    "description": "Capacity: 64 GB (2x32GB), Speed: 3200 MHz, Cas Latency: CL16, Timing: 16-18-18-38, Voltage: 1.20 V, Color: Black, Heat Spreader: yes, Type: DDR4, Warranty:: Lifetime",
+    "price": {
+      "$numberInt": "7490"
+    },
+    "countInStock": {
+      "$numberInt": "20"
+    },
+    "rating": {
+      "$numberInt": "0"
+    },
+    "numReviews": {
+      "$numberInt": "0"
+    },
+    "reviews": [],
+    "createdAt": {
+      "$date": {
+        "$numberLong": "1701942480932"
+      }
+    },
+    "updatedAt": {
+      "$date": {
+        "$numberLong": "1701942596115"
+      }
+    },
+    "__v": {
+      "$numberInt": "0"
+    }
+  },{
+    "_id": {
+      "$oid": ""
+    },
+    "name": "Corsair Ram PC DDR4 32GB/3200MHz CL16 (16GBx2) Vengeance RGB RT (White)",
+    "slug": "Corsair-Ram-PC-DDR4-32GB/3200MHz-CL16-(16GBx2)-Vengeance-RGB-RT-(White)",
+    "image": "",
+    "images": [],
+    "brand": "Corsair",
+    "category": "Ram",
+    "description": "Capacity: 32 GB (2x16GB), Speed: 3200 MHz, Cas Latency: CL16, Timing: 16-20-20-38, Voltage: 1.35 V, Color: Black White, Heat Spreader: yes, Type: DDR4, Warranty:: Lifetime",
+    "price": {
+      "$numberInt": "6590"
+    },
+    "countInStock": {
+      "$numberInt": "20"
+    },
+    "rating": {
+      "$numberInt": "0"
+    },
+    "numReviews": {
+      "$numberInt": "0"
+    },
+    "reviews": [],
+    "createdAt": {
+      "$date": {
+        "$numberLong": "1701942480932"
+      }
+    },
+    "updatedAt": {
+      "$date": {
+        "$numberLong": "1701942596115"
+      }
+    },
+    "__v": {
+      "$numberInt": "0"
+    }
+  },{
+    "_id": {
+      "$oid": ""
+    },
+    "name": "Corsair Ram PC DDR4 32GB/3200MHz. CL16 (16GBX2) Vengeance RGB PRO SL (White)",
+    "slug": "Corsair-Ram-PC-DDR4-32GB/3200MHz.-CL16-(16GBX2)-Vengeance-RGB-PRO-SL-(White)",
+    "image": "",
+    "images": [],
+    "brand": "Corsair",
+    "category": "Ram",
+    "description": "Capacity: 32 GB (2x16GB), Speed: 3200 MHz, Cas Latency: CL16, Timing: 16-20-20-38, Voltage: 1.35 V, Color: White, Heat Spreader: yes, Type: DDR4, Warranty:: Lifetime",
+    "price": {
+      "$numberInt": "6420"
+    },
+    "countInStock": {
+      "$numberInt": "20"
+    },
+    "rating": {
+      "$numberInt": "0"
+    },
+    "numReviews": {
+      "$numberInt": "0"
+    },
+    "reviews": [],
+    "createdAt": {
+      "$date": {
+        "$numberLong": "1701942480932"
+      }
+    },
+    "updatedAt": {
+      "$date": {
+        "$numberLong": "1701942596115"
+      }
+    },
+    "__v": {
+      "$numberInt": "0"
+    }
+  },{
+    "_id": {
+      "$oid": ""
+    },
+    "name": "Corsair Ram PC DDR4 32GB/3200MHz CL16 (16GBx2) Vengeance RGB Pro SL (Black)",
+    "slug": "Corsair Ram PC DDR4 32GB/3200MHz CL16 (16GBx2) Vengeance RGB Pro SL (Black)",
+    "image": "",
+    "images": [],
+    "brand": "Corsair",
+    "category": "Ram",
+    "description": "Capacity: 32 GB (2x16GB), Speed: 3200 MHz, Cas Latency: CL16, Timing: 16-20-20-38, Voltage: 1.35 V, Color: Black, Heat Spreader: yes, Type: DDR4, Warranty:: Lifetime",
+    "price": {
+      "$numberInt": "5950"
+    },
+    "countInStock": {
+      "$numberInt": "20"
+    },
+    "rating": {
+      "$numberInt": "0"
+    },
+    "numReviews": {
+      "$numberInt": "0"
+    },
+    "reviews": [],
+    "createdAt": {
+      "$date": {
+        "$numberLong": "1701942480932"
+      }
+    },
+    "updatedAt": {
+      "$date": {
+        "$numberLong": "1701942596115"
+      }
+    },
+    "__v": {
+      "$numberInt": "0"
+    }
+  },{
+    "_id": {
+      "$oid": ""
+    },
+    "name": "Kingston Ram PC DDR4 32GB/3200MHz CL16 (16GBx2) FURY Beast (Black)",
+    "slug": "Kingston-Ram-PC-DDR4-32GB/3200MHz-CL16-(16GBx2)-FURY Beast-(Black)",
+    "image": "",
+    "images": [],
+    "brand": "Kingston",
+    "category": "Ram",
+    "description": "Capacity: 32 GB (2x16GB), Speed: 3200 MHz, Cas Latency: CL16, Timing: 16-18-18, Voltage: 1.35 V, Color: Black, Heat Spreader: yes, Type: DDR4, Warranty:: Lifetime",
+    "price": {
+      "$numberInt": "5930"
+    },
+    "countInStock": {
+      "$numberInt": "20"
+    },
+    "rating": {
+      "$numberInt": "0"
+    },
+    "numReviews": {
+      "$numberInt": "0"
+    },
+    "reviews": [],
+    "createdAt": {
+      "$date": {
+        "$numberLong": "1701942480932"
+      }
+    },
+    "updatedAt": {
+      "$date": {
+        "$numberLong": "1701942596115"
+      }
+    },
+    "__v": {
+      "$numberInt": "0"
+    }
+  },{
+    "_id": {
+      "$oid": ""
+    },
+    "name": "Corsair Ram PC DDR4 32GB/3200MHz CL16 (16GBx2) Vengeance RGB RS (Black)",
+    "slug": "Corsair-Ram-PC-DDR4-32GB/3200MHz-CL16-(16GBx2)-Vengeance-RGB-RS-(Black)",
+    "image": "",
+    "images": [],
+    "brand": "Corsair",
+    "category": "Ram",
+    "description": "Capacity: 32 GB (2x16GB), Speed: 3200 MHz, Cas Latency: CL16, Timing: 16-20-20-38, Voltage: 1.35 V, Color: Black, Heat Spreader: yes, Type: DDR4, Warranty:: Lifetime",
+    "price": {
+      "$numberInt": "5890"
+    },
+    "countInStock": {
+      "$numberInt": "20"
+    },
+    "rating": {
+      "$numberInt": "0"
+    },
+    "numReviews": {
+      "$numberInt": "0"
+    },
+    "reviews": [],
+    "createdAt": {
+      "$date": {
+        "$numberLong": "1701942480932"
+      }
+    },
+    "updatedAt": {
+      "$date": {
+        "$numberLong": "1701942596115"
+      }
+    },
+    "__v": {
+      "$numberInt": "0"
+    }
+  },{
+    "_id": {
+      "$oid": ""
+    },
+    "name": "GALAX VGA GeForce RTX 4090 SG White 1-Click OC 24GB GDDR6X 384-bit",
+    "slug": "GALAX-VGA-GeForce-RTX-4090-SG-White-1-Click-OC-24GB-GDDR6X-384-bit",
+    "image": "",
+    "images": [],
+    "brand": "GALAX",
+    "category": "GPU",
+    "description": "Chipset: Manufacturer: NVIDIA GeForce, GPU: GeForce RTX 4090, Core Clock: 2235 MHz, Boost Clock: 2580 MHz (1-Click-OC Clock: 2595 MHz), Stream Processors: 16384 Units, Memory Clock: 21.0 Gbps, Memory Size: 24 GB, Memory Interface: 384-bit, Memory Type: GDDR6X, Interface: PCIe 4.0 x16, OpenGL: 4.6, HDMI: 1x HDMI v2.1, Display Port: 3x DisplayPort 1.4a, DVI: No, CrossFireX SLI Support: No, Cooler: 3x 102 mm Cooling fans (WING 2.0 with Fan stop), Dual Link DVI Support: No, System Requirements: PSU 850 W, Power Connector: 1x 16-pin Power Connector, Warranty:: 3 year",
+    "price": {
+      "$numberInt": "68900"
+    },
+    "countInStock": {
+      "$numberInt": "20"
+    },
+    "rating": {
+      "$numberInt": "0"
+    },
+    "numReviews": {
+      "$numberInt": "0"
+    },
+    "reviews": [],
+    "createdAt": {
+      "$date": {
+        "$numberLong": "1701942480932"
+      }
+    },
+    "updatedAt": {
+      "$date": {
+        "$numberLong": "1701942596115"
+      }
+    },
+    "__v": {
+      "$numberInt": "0"
+    }
+  },{
+    "_id": {
+      "$oid": ""
+    },
+    "name": "MSI VGA GeForce RTX 4090 SUPRIM 24GB GDDR6X 384-bit",
+    "slug": "MSI-VGA-GeForce-RTX-4090-SUPRIM-24GB-GDDR6X-384-bit",
+    "image": "",
+    "images": [],
+    "brand": "MSI",
+    "category": "GPU",
+    "description": "Chipset: Manufacturer: NVIDIA GeForce, GPU: GeForce RTX 4090, Core Clock: 2235 MHz, Boost Clock: 2595 MHz (Extreme Performance: 2610 MHz with MSI Center), Stream Processors: 16384 Units, Memory Clock: 21.0 Gbps, Memory Size: 24 GB, Memory Interface: 384-bit, Memory Type: GDDR6X, Interface: PCIe 4.0 x16, OpenGL: 4.6, HDMI: 1x HDMI v2.1a, Display Port: 3x DisplayPort 1.4a, DVI: No, CrossFireX SLI Support: No, Cooler: TRI FROZR 3S, Dual Link DVI Support: No, System Requirements: PSU 1000 W, Power Connector: 1x 16-pin Power Connector, Warranty:: 3 year",
+    "price": {
+      "$numberInt": "68900"
+    },
+    "countInStock": {
+      "$numberInt": "20"
+    },
+    "rating": {
+      "$numberInt": "0"
+    },
+    "numReviews": {
+      "$numberInt": "0"
+    },
+    "reviews": [],
+    "createdAt": {
+      "$date": {
+        "$numberLong": "1701942480932"
+      }
+    },
+    "updatedAt": {
+      "$date": {
+        "$numberLong": "1701942596115"
+      }
+    },
+    "__v": {
+      "$numberInt": "0"
+    }
+  },{
+    "_id": {
+      "$oid": ""
+    },
+    "name": "MSI VGA GeForce RTX 4090 SUPRIM 24GB GDDR6X 384-bit",
+    "slug": "MSI-VGA-GeForce-RTX-4090-SUPRIM-24GB-GDDR6X-384-bit",
+    "image": "",
+    "images": [],
+    "brand": "MSI",
+    "category": "GPU",
+    "description": "Chipset: Manufacturer: NVIDIA GeForce, GPU: GeForce RTX 4090, Core Clock: 2235 MHz, Boost Clock: 2595 MHz (Extreme Performance: 2610 MHz with MSI Center), Stream Processors: 16384 Units, Memory Clock: 21.0 Gbps, Memory Size: 24 GB, Memory Interface: 384-bit, Memory Type: GDDR6X, Interface: PCIe 4.0 x16, OpenGL: 4.6, HDMI: 1x HDMI v2.1a, Display Port: 3x DisplayPort 1.4a, DVI: No, CrossFireX SLI Support: No, Cooler: TRI FROZR 3S, Dual Link DVI Support: No, System Requirements: PSU 1000 W, Power Connector: 1x 16-pin Power Connector, Warranty:: 3 year",
+    "price": {
+      "$numberInt": "67900"
+    },
+    "countInStock": {
+      "$numberInt": "20"
+    },
+    "rating": {
+      "$numberInt": "0"
+    },
+    "numReviews": {
+      "$numberInt": "0"
+    },
+    "reviews": [],
+    "createdAt": {
+      "$date": {
+        "$numberLong": "1701942480932"
+      }
+    },
+    "updatedAt": {
+      "$date": {
+        "$numberLong": "1701942596115"
+      }
+    },
+    "__v": {
+      "$numberInt": "0"
+    }
+  },{
+    "_id": {
+      "$oid": ""
+    },
+    "name": "COLORFUL VGA RTX 4090 Vulcan OC-V 24GB GDDR6X 384-bit",
+    "slug": "COLORFUL-VGA-RTX-4090-Vulcan-OC-V-24GB-GDDR6X-384-bit",
+    "image": "",
+    "images": [],
+    "brand": "COLORFUL",
+    "category": "GPU",
+    "description": "Chipset: Manufacturer: NVIDIA GeForce, GPU: GeForce RTX 4090, Core Clock: 2235 MHz, Boost Clock: 2520 MHz (One-Key OC : 2625 MHz), Stream Processors: 16384 Units, Memory Clock: 21.0 Gbps, Memory Size: 24 GB, Memory Interface: 384-bit, Memory Type: GDDR6X, Interface: PCIe 4.0 x16, OpenGL: 4.6, HDMI: 1x HDMI 2.1, Display Port: 3x DisplayPort 1.4a, DVI: No, CrossFireX SLI Support: No, Cooler: 3 FAN, Dual Link DVI Support: No, System Requirements: PSU 1000 W, Power Connector: 1x 16-pin Power Connector (12VHPWR), Warranty:: 3 year",
+    "price": {
+      "$numberInt": "67380"
+    },
+    "countInStock": {
+      "$numberInt": "20"
+    },
+    "rating": {
+      "$numberInt": "0"
+    },
+    "numReviews": {
+      "$numberInt": "0"
+    },
+    "reviews": [],
+    "createdAt": {
+      "$date": {
+        "$numberLong": "1701942480932"
+      }
+    },
+    "updatedAt": {
+      "$date": {
+        "$numberLong": "1701942596115"
+      }
+    },
+    "__v": {
+      "$numberInt": "0"
+    }
+  },{
+    "_id": {
+      "$oid": ""
+    },
+    "name": "GALAX VGA RTX 4090 SG (1-Click OC) 24GB GDDR6X 384-bit",
+    "slug": "GALAX-VGA-RTX-4090-SG-(1-Click OC)-24GB-GDDR6X-384-bit",
+    "image": "",
+    "images": [],
+    "brand": "GALAX",
+    "category": "GPU",
+    "description": "Chipset: Manufacturer: NVIDIA GeForce, GPU: GeForce RTX 4090, Core Clock: 2235 MHz, Boost Clock: 2580 MHz (1-Click OC Clock: 2595 MHz), Stream Processors: 16384 Units, Memory Clock: 21.0 Gbps, Memory Size: 24 GB, Memory Interface: 384-bit, Memory Type: GDDR6X, Interface: PCIe 4.0 x16, OpenGL: 4.6, HDMI: 1x HDMI v2.1, Display Port: 3x DisplayPort 1.4a, DVI: No, CrossFireX SLI Support: No, Cooler: 3x 102 mm Cooling fans (WING 2.0 with Fan stop), Dual Link DVI Support: No, System Requirements: PSU 850 W, Power Connector: 1x 16-pin Power Connector (12VHPWR), Warranty:: 3 year",
+    "price": {
+      "$numberInt": "64900"
+    },
+    "countInStock": {
+      "$numberInt": "20"
+    },
+    "rating": {
+      "$numberInt": "0"
+    },
+    "numReviews": {
+      "$numberInt": "0"
+    },
+    "reviews": [],
+    "createdAt": {
+      "$date": {
+        "$numberLong": "1701942480932"
+      }
+    },
+    "updatedAt": {
+      "$date": {
+        "$numberLong": "1701942596115"
+      }
+    },
+    "__v": {
+      "$numberInt": "0"
+    }
+  },{
+    "_id": {
+      "$oid": ""
+    },
+    "name": "COLORFUL VGA RTX 4090 Advanced OC-V 24GB GDDR6X 384-bit",
+    "slug": "COLORFUL-VGA-RTX-4090-Advanced-OC-V-24GB-GDDR6X-384-bit",
+    "image": "",
+    "images": [],
+    "brand": "COLORFUL",
+    "category": "GPU",
+    "description": "Chipset: Manufacturer: NVIDIA GeForce, GPU: GeForce RTX 4090, Core Clock: 2235 MHz, Boost Clock: 2520 MHz (One-Key OC: 2610 MHz), Stream Processors: 16384 Units, Memory Clock: 21.0 Gbps, Memory Size: 24 GB, Memory Interface: 384-bit, Memory Type: GDDR6X, Interface: PCIe 4.0 x16, OpenGL: 4.6, HDMI: 1x HDMI v2.1, Display Port: 3x DisplayPort 1.4a, DVI: No, CrossFireX SLI Support: No, Cooler: 3 Fan with HeatSink, Dual Link DVI Support: No, System Requirements: PSU 1000 W, Power Connector: 1x 16-pin Power Connector (12VHPWR), Warranty:: 3 year",
+    "price": {
+      "$numberInt": "63980"
+    },
+    "countInStock": {
+      "$numberInt": "20"
+    },
+    "rating": {
+      "$numberInt": "0"
+    },
+    "numReviews": {
+      "$numberInt": "0"
+    },
+    "reviews": [],
+    "createdAt": {
+      "$date": {
+        "$numberLong": "1701942480932"
+      }
+    },
+    "updatedAt": {
+      "$date": {
+        "$numberLong": "1701942596115"
+      }
+    },
+    "__v": {
+      "$numberInt": "0"
+    }
+  },{
+    "_id": {
+      "$oid": ""
+    },
+    "name": "COLORFUL VGA RTX 4090 NB EX-V 24GB GDDR6X 384-bit",
+    "slug": "COLORFUL-VGA-RTX-4090-NB-EX-V-24GB-GDDR6X-384-bit",
+    "image": "",
+    "images": [],
+    "brand": "COLORFUL",
+    "category": "GPU",
+    "description": "Chipset: Manufacturer: NVIDIA GeForce, GPU: GeForce RTX 4090, Core Clock: 2235 MHz, Boost Clock: No, Stream Processors: 16384 Units, Memory Clock: 21.0 Gbps, Memory Size: 24 GB, Memory Interface: 384-bit, Memory Type: GDDR6X, Interface: PCIe 4.0 x16, OpenGL: 4.6, HDMI: 1x HDMI v2.1, Display Port: 3x DisplayPort 1.4a, DVI: No, CrossFireX SLI Support: No, Cooler: 3 FAN with HeatSink, Dual Link DVI Support: No, System Requirements: PSU 1000 W, Power Connector: 1x 16-pin Power Connector (12VHPWR), Warranty:: 3 year",
+    "price": {
+      "$numberInt": "63780"
+    },
+    "countInStock": {
+      "$numberInt": "20"
+    },
+    "rating": {
+      "$numberInt": "0"
+    },
+    "numReviews": {
+      "$numberInt": "0"
+    },
+    "reviews": [],
+    "createdAt": {
+      "$date": {
+        "$numberLong": "1701942480932"
+      }
+    },
+    "updatedAt": {
+      "$date": {
+        "$numberLong": "1701942596115"
+      }
+    },
+    "__v": {
+      "$numberInt": "0"
+    }
+  },{
+    "_id": {
+      "$oid": ""
+    },
+    "name": "COLORFUL VGA iGame RTX 4080 Vulcan OC-V 16GB GDDR6X 256-bit",
+    "slug": "COLORFUL-VGA-iGame-RTX-4080-Vulcan-OC-V-16GB-GDDR6X-256-bit",
+    "image": "",
+    "images": [],
+    "brand": "COLORFUL",
+    "category": "GPU",
+    "description": "Chipset: Manufacturer: NVIDIA GeForce, GPU: GeForce RTX 4080, Core Clock: 2205 MHz, Boost Clock: 2505 MHz (One-Key OC: 2640 MHz), Stream Processors: 9728 Units, Memory Clock: 22.4 Gbps, Memory Size: 16 GB, Memory Interface: 256-bit, Memory Type: GDDR6X, Interface: PCIe 4.0 x16, OpenGL: 4.6, HDMI: 1x HDMI v2.1, Display Port: 3x DisplayPort 1.4a, DVI: No, CrossFireX SLI Support: No, Cooler: 3 FAN, Dual Link DVI Support: No, System Requirements: PSU 850 W, Power Connector: 1x 16-pin Power Connector (12VHPWR), Warranty:: 3 year",
+    "price": {
+      "$numberInt": "47980"
+    },
+    "countInStock": {
+      "$numberInt": "20"
+    },
+    "rating": {
+      "$numberInt": "0"
+    },
+    "numReviews": {
+      "$numberInt": "0"
+    },
+    "reviews": [],
+    "createdAt": {
+      "$date": {
+        "$numberLong": "1701942480932"
+      }
+    },
+    "updatedAt": {
+      "$date": {
+        "$numberLong": "1701942596115"
+      }
+    },
+    "__v": {
+      "$numberInt": "0"
+    }
+  },{
+    "_id": {
+      "$oid": ""
+    },
+    "name": "COLORFUL VGA iGame RTX 4070 Ti Vulcan OC-V 12GB GDDR6X 192-bit",
+    "slug": "COLORFUL-VGA-iGame-RTX -070-Ti-Vulcan-OC-V-12GB-GDDR6X-192-bit",
+    "image": "",
+    "images": [],
+    "brand": "COLORFUL",
+    "category": "GPU",
+    "description": "Chipset: Manufacturer: NVIDIA GeForce, GPU: GeForce RTX 4070 Ti, Core Clock: 2310 MHz, Boost Clock: 2610 MHz (One-Key OC: 2775 MHz), Stream Processors: 7680 Units, Memory Clock: 21.0 Gbps, Memory Size: 12 GB, Memory Interface: 192-bit, Memory Type: GDDR6X, Interface: PCIe 4.0 x16, OpenGL: 4.6, HDMI: 1x HDMI v2.1, Display Port: 3x DisplayPort 1.4a, DVI: No, CrossFireX SLI Support: No, Cooler: 3 FAN, Dual Link DVI Support: No, System Requirements: PSU 750 W, Power Connector: 1x 16-pin Power Connector (12VHPWR), Warranty:: 3 year",
+    "price": {
+      "$numberInt": "34900"
+    },
+    "countInStock": {
+      "$numberInt": "20"
+    },
+    "rating": {
+      "$numberInt": "0"
+    },
+    "numReviews": {
+      "$numberInt": "0"
+    },
+    "reviews": [],
+    "createdAt": {
+      "$date": {
+        "$numberLong": "1701942480932"
+      }
+    },
+    "updatedAt": {
+      "$date": {
+        "$numberLong": "1701942596115"
+      }
+    },
+    "__v": {
+      "$numberInt": "0"
+    }
+  },{
+    "_id": {
+      "$oid": ""
+    },
+    "name": "MSI VGA RX 6950 XT GAMING X TRIO 16GB GDDR6 256-bit",
+    "slug": "MSI-VGA-RX-6950-XT-GAMING-X-TRIO-16GB-GDDR6-256-bit",
+    "image": "",
+    "images": [],
+    "brand": "MSI",
+    "category": "GPU",
+    "description": "Chipset: Manufacturer: AMD Radeon, GPU: Radeon RX 6950 XT, Core Clock: 1925 MHz, Boost Clock: 2454 MHz, Stream Processors: 5120 Units, Memory Clock: 18.0 Gbps, Memory Size: 16 GB, Memory Interface: 256-bit, Memory Type: GDDR6, Interface: PCIe 4.0 x16, OpenGL: 4.6, HDMI: 1x HDMI v2.1, Display Port: 3x DisplayPort 1.4, DVI: No, CrossFireX SLI Support: No, Cooler: TRI FROZR 2 Thermal Design, Dual Link DVI Support: No, System Requirements: PSU 850 W, Power Connector: 3x 8-pin Power Connector, Warranty:: 3 year",
+    "price": {
+      "$numberInt": "35900"
+    },
+    "countInStock": {
+      "$numberInt": "20"
+    },
+    "rating": {
+      "$numberInt": "0"
+    },
+    "numReviews": {
+      "$numberInt": "0"
+    },
+    "reviews": [],
+    "createdAt": {
+      "$date": {
+        "$numberLong": "1701942480932"
+      }
+    },
+    "updatedAt": {
+      "$date": {
+        "$numberLong": "1701942596115"
+      }
+    },
+    "__v": {
+      "$numberInt": "0"
+    }
+  },{
+    "_id": {
+      "$oid": ""
+    },
+    "name": "ASRock VGA RX 6900 XT OC Formula 16GB GDDR6 256-bit",
+    "slug": "ASRock-VGA-RX-6900-XT-OC-Formula-16GB-GDDR6-256-bit",
+    "image": "",
+    "images": [],
+    "brand": "ASRock",
+    "category": "GPU",
+    "description": "Chipset: Manufacturer: AMD Radeon, GPU: Radeon RX 6900 XT, Core Clock: 2125 MHz, Boost Clock: 2475 MHz, Stream Processors: 5120 Units, Memory Clock: 16.0 Gbps, Memory Size: 16 GB, Memory Interface: 256-bit, Memory Type: GDDR6, Interface: PCIe 4.0 x16, OpenGL: 4.6, HDMI: 1x HDMI 2.1, Display Port: 3x DisplayPort v1.4, DVI: No, CrossFireX SLI Support: n/a, Cooler: 3 Fan , OC Formula 3X Cooling System, Dual Link DVI Support: n/a, System Requirements: PSU 1000 W, Power Connector: 3x 8-pin Power Connector, Warranty:: 3 year",
+    "price": {
+      "$numberInt": "28900"
+    },
+    "countInStock": {
+      "$numberInt": "20"
+    },
+    "rating": {
+      "$numberInt": "0"
+    },
+    "numReviews": {
+      "$numberInt": "0"
+    },
+    "reviews": [],
+    "createdAt": {
+      "$date": {
+        "$numberLong": "1701942480932"
+      }
+    },
+    "updatedAt": {
+      "$date": {
+        "$numberLong": "1701942596115"
+      }
+    },
+    "__v": {
+      "$numberInt": "0"
+    }
+  },{
+    "_id": {
+      "$oid": ""
+    },
+    "name": "MSI VGA RX 6900 XT GAMING Z TRIO 16G GDDR6 256-bit",
+    "slug": "MSI-VGA-RX-6900-XT-GAMING-Z-TRIO-16G-GDDR6-256-bit",
+    "image": "",
+    "images": [],
+    "brand": "MSI",
+    "category": "GPU",
+    "description": "Chipset: Manufacturer: AMD Radeon, GPU: Radeon RX 6900 XT, Core Clock: 1825 MHz, Boost Clock: 2425 MHz, Stream Processors: 5120 Units, Memory Clock: 16.0 Gbps, Memory Size: 16 GB, Memory Interface: 256-bit, Memory Type: GDDR6, Interface: PCIe 4.0 x16, OpenGL: 4.6, HDMI: 1x HDMI 2.1, Display Port: 3x DisplayPort 1.4, DVI: No, CrossFireX SLI Support: No, Cooler: 3 Fan, Dual Link DVI Support: No, System Requirements: PSU 850 W, Power Connector: 3x 8-pin Power Connector, Warranty:: 3 year",
+    "price": {
+      "$numberInt": "25900"
+    },
+    "countInStock": {
+      "$numberInt": "20"
+    },
+    "rating": {
+      "$numberInt": "0"
+    },
+    "numReviews": {
+      "$numberInt": "0"
+    },
+    "reviews": [],
+    "createdAt": {
+      "$date": {
+        "$numberLong": "1701942480932"
+      }
+    },
+    "updatedAt": {
+      "$date": {
+        "$numberLong": "1701942596115"
+      }
+    },
+    "__v": {
+      "$numberInt": "0"
+    }
+  },{
+    "_id": {
+      "$oid": ""
+    },
+    "name": "AsRock VGA Radeon RX 6900 XT Phantom Gaming D OC 16GB GDDR6 256-bit",
+    "slug": "AsRock-VGA-Radeon-RX-6900-XT-Phantom-Gaming-D-OC-16GB-GDDR6-256-bit",
+    "image": "",
+    "images": [],
+    "brand": "ASRock",
+    "category": "GPU",
+    "description": "Chipset: Manufacturer: AMD Radeon, GPU: Radeon RX 6900 XT, Core Clock: 1925 MHz, Boost Clock: 2340 MHz, Stream Processors: 5120 Units, Memory Clock: 16.0 Gbps, Memory Size: 16 GB, Memory Interface: 256-bit, Memory Type: GDDR6, Interface: PCIe 4.0 x16, OpenGL: 4.6, HDMI: 1x HDMI 2.1, Display Port: 3x DisplayPort v1.4, DVI: No, CrossFireX SLI Support: yes, Cooler: Phantom Gaming 3X Cooling System, Dual Link DVI Support: n/a, System Requirements: PSU 900 W, Power Connector: 3x 8-pin Power Connector, Warranty:: 3 year",
+    "price": {
+      "$numberInt": "25900"
+    },
+    "countInStock": {
+      "$numberInt": "20"
+    },
+    "rating": {
+      "$numberInt": "0"
+    },
+    "numReviews": {
+      "$numberInt": "0"
+    },
+    "reviews": [],
+    "createdAt": {
+      "$date": {
+        "$numberLong": "1701942480932"
+      }
+    },
+    "updatedAt": {
+      "$date": {
+        "$numberLong": "1701942596115"
+      }
+    },
+    "__v": {
+      "$numberInt": "0"
+    }
+  },{
+    "_id": {
+      "$oid": ""
+    },
+    "name": "POWER COLOR VGA Red Devil AMD Radeon RX 6800 XT 16GB GDDR6 256-bit",
+    "slug": "POWER-COLOR-VGA-Red-Devil-AMD-Radeon-RX-6800-XT-16GB-GDDR6-256-bit",
+    "image": "",
+    "images": [],
+    "brand": "AMD",
+    "category": "GPU",
+    "description": "Chipset: Manufacturer: AMD Radeon, GPU: Radeon RX 6800 XT, Core Clock: 2090 MHz, Boost Clock: 2340 MHz, Stream Processors: 4608 Units, Memory Clock: 16.0 Gbps, Memory Size: 16 GB, Memory Interface: 256-bit, Memory Type: GDDR6, Interface: PCIe 4.0 x16, OpenGL: 4.6, HDMI: 1x HDMI 2.1, Display Port: 3x DisplayPort v1.4, DVI: No, CrossFireX SLI Support: yes, Cooler: Triple Fan, Dual Link DVI Support: n/a, System Requirements: PSU 850 W, Power Connector: 2x 8-pin Power Connector, Warranty:: 3 year",
+    "price": {
+      "$numberInt": "19900"
+    },
+    "countInStock": {
+      "$numberInt": "20"
+    },
+    "rating": {
+      "$numberInt": "0"
+    },
+    "numReviews": {
+      "$numberInt": "0"
+    },
+    "reviews": [],
+    "createdAt": {
+      "$date": {
+        "$numberLong": "1701942480932"
+      }
+    },
+    "updatedAt": {
+      "$date": {
+        "$numberLong": "1701942596115"
+      }
+    },
+    "__v": {
+      "$numberInt": "0"
+    }
+  },{
+    "_id": {
+      "$oid": ""
+    },
+    "name": "ASRock VGA RX 6700 XT Challenger D 12GB GDDR6 192-bit",
+    "slug": "ASRock-VGA-RX-6700-XT-Challenger-D-12GB-GDDR6-192-bit",
+    "image": "",
+    "images": [],
+    "brand": "ASRock",
+    "category": "GPU",
+    "description": "Chipset: Manufacturer: AMD Radeon, GPU: Radeon RX 6700 XT, Core Clock: 2321 MHz, Boost Clock: 2581 MHz, Stream Processors: 2560 Units, Memory Clock: 16.0 Gbps, Memory Size: 12 GB, Memory Interface: 192-bit, Memory Type: GDDR6, Interface: PCIe 4.0 x16, OpenGL: 4.6, HDMI: 1x HDMI 2.1, Display Port: 3x DisplayPort v1.4, DVI: No, CrossFireX SLI Support: yes, Cooler: 2 FAN, Dual Link DVI Support: n/a, System Requirements: PSU 650 W, Power Connector: 2x 8-pin Power Connector, Warranty:: 3 year",
+    "price": {
+      "$numberInt": "13900"
+    },
+    "countInStock": {
+      "$numberInt": "20"
+    },
+    "rating": {
+      "$numberInt": "0"
+    },
+    "numReviews": {
+      "$numberInt": "0"
+    },
+    "reviews": [],
+    "createdAt": {
+      "$date": {
+        "$numberLong": "1701942480932"
+      }
+    },
+    "updatedAt": {
+      "$date": {
+        "$numberLong": "1701942596115"
+      }
+    },
+    "__v": {
+      "$numberInt": "0"
+    }
+  },{
+    "_id": {
+      "$oid": ""
+    },
+    "name": "MSI VGA RX 6600 XT GAMING 8GB GDDR6 128-bit",
+    "slug": "MSI-VGA-RX-6600-XT-GAMING-8GB-GDDR6-128-bit",
+    "image": "",
+    "images": [],
+    "brand": "MSI",
+    "category": "GPU",
+    "description": "Chipset: Manufacturer: AMD Radeon, GPU: Radeon RX 6600 XT, Core Clock: 1968 MHz, Boost Clock: 2589 MHz, Stream Processors: 2048 Units, Memory Clock: 16.0 Gbps, Memory Size: 8 GB, Memory Interface: 128-bit, Memory Type: GDDR6, Interface: PCIe 4.0 x8, OpenGL: 4.6, HDMI: 1x HDMI 2.1, Display Port: 3x DisplayPort 1.4, DVI: No, CrossFireX SLI Support: No, Cooler: TWIN FROZR 8, Dual Link DVI Support: No, System Requirements: PSU 500 W, Power Connector: 1x 8-pin Power Connector, Warranty:: 3 year",
+    "price": {
+      "$numberInt": "11500"
+    },
+    "countInStock": {
+      "$numberInt": "20"
+    },
+    "rating": {
+      "$numberInt": "0"
+    },
+    "numReviews": {
+      "$numberInt": "0"
+    },
+    "reviews": [],
+    "createdAt": {
+      "$date": {
+        "$numberLong": "1701942480932"
+      }
+    },
+    "updatedAt": {
+      "$date": {
+        "$numberLong": "1701942596115"
+      }
+    },
+    "__v": {
+      "$numberInt": "0"
+    }
+  },{
+    "_id": {
+      "$oid": ""
+    },
+    "name": "SilverStone Power Supply DA1650 1650Watt 80 Plus Gold",
+    "slug": "SilverStone-Power-Supply-DA1650-1650Watt-80-Plus-Gold",
+    "image": "",
+    "images": [],
+    "brand": "SilverStone",
+    "category": "Powersupply",
+    "description": "Type: Fully Modular, Maximum Power: 1650 W, PCI-Express Connector: x8, SATA Power Connector: x16, Fans: 135 mm, Input voltage: 100-240 Vac, Input Current: 20 A, Input Frequency Range: 50-60 Hz, Complies With ATX 24 Pin: yes, Complies with ATX 12V: yes, SLI: yes, CrossFire: yes, Energy Efficient: 80 Plus Gold, Dimensions W x D x H:: 15.0 x 18.0 x 8.6 cm, Weight: 2.09 Kg, Warranty:: 5 year, Option: n/a",
+    "price": {
+      "$numberInt": "10170"
+    },
+    "countInStock": {
+      "$numberInt": "20"
+    },
+    "rating": {
+      "$numberInt": "0"
+    },
+    "numReviews": {
+      "$numberInt": "0"
+    },
+    "reviews": [],
+    "createdAt": {
+      "$date": {
+        "$numberLong": "1701942480932"
+      }
+    },
+    "updatedAt": {
+      "$date": {
+        "$numberLong": "1701942596115"
+      }
+    },
+    "__v": {
+      "$numberInt": "0"
+    }
+  },{
+    "_id": {
+      "$oid": ""
+    },
+    "name": "Asus Power Supply ROG-STRIX-1000G Aura-Gaming",
+    "slug": "Asus-Power-Supply-ROG-STRIX-1000G-Aura-Gaming",
+    "image": "",
+    "images": [],
+    "brand": "ASUS",
+    "category": "Powersupply",
+    "description": "Type: Fully Modular, Maximum Power: 1000 W, PCI-Express Connector: x4 (6+2 pin), x1 (12+4 pin), SATA Power Connector: x5, Fans: 135 mm, Input voltage: 100-240 Vac, Input Current: 22 A, Input Frequency Range: 50-60 Hz, Complies With ATX 24 Pin: yes, Complies with ATX 12V: yes, SLI: yes, CrossFire: yes, Energy Efficient: 80 Plus Gold, Dimensions W x D x H:: 15.0 x 18.0 x 8.6 cm, Weight: 3.03 Kg, Warranty:: 10 year, Option: Protection: OCP, OVP, UVP, OPP, SCP, OTP",
+    "price": {
+      "$numberInt": "9990"
+    },
+    "countInStock": {
+      "$numberInt": "20"
+    },
+    "rating": {
+      "$numberInt": "0"
+    },
+    "numReviews": {
+      "$numberInt": "0"
+    },
+    "reviews": [],
+    "createdAt": {
+      "$date": {
+        "$numberLong": "1701942480932"
+      }
+    },
+    "updatedAt": {
+      "$date": {
+        "$numberLong": "1701942596115"
+      }
+    },
+    "__v": {
+      "$numberInt": "0"
+    }
+  },{
+    "_id": {
+      "$oid": ""
+    },
+    "name": "Thermaltake Power Supply Toughpower GF3 1350Watt 80 Plus Gold Premium Edition",
+    "slug": "Thermaltake-Power-Supply-Toughpower-GF3-1350Watt-80-Plus-Gold-Premium-Edition",
+    "image": "",
+    "images": [],
+    "brand": "Thermaltake",
+    "category": "Powersupply",
+    "description": "Type: Fully Modular, Maximum Power: 1350 W, PCI-Express Connector: x1 (12+4 pin), x6 (6+2 pin), SATA Power Connector: x12, Fans: 140 mm, Input voltage: 100-240 Vac, Input Current: 16.0 A - 8.0 A, Input Frequency Range: 50-60 Hz, Complies With ATX 24 Pin: yes, Complies with ATX 12V: yes, SLI: yes, CrossFire: yes, Energy Efficient: 80 Plus Gold, Dimensions W x D x H:: 15.0 x 16.0 x 8.6 cm, Weight: 1.83 Kg, Warranty:: 10 year, Option: Protection OCP, OVP, UVP, OPP, SCP, OTP",
+    "price": {
+      "$numberInt": "9690"
+    },
+    "countInStock": {
+      "$numberInt": "20"
+    },
+    "rating": {
+      "$numberInt": "0"
+    },
+    "numReviews": {
+      "$numberInt": "0"
+    },
+    "reviews": [],
+    "createdAt": {
+      "$date": {
+        "$numberLong": "1701942480932"
+      }
+    },
+    "updatedAt": {
+      "$date": {
+        "$numberLong": "1701942596115"
+      }
+    },
+    "__v": {
+      "$numberInt": "0"
+    }
+  },{
+    "_id": {
+      "$oid": ""
+    },
+    "name": "Asus Power Supply TUF-Gaming-1200G 1200Watt 80 Plus Gold",
+    "slug": "Asus-Power-Supply-TUF-Gaming-1200G-1200Watt-80-Plus-Gold",
+    "image": "",
+    "images": [],
+    "brand": "ASUS",
+    "category": "Powersupply",
+    "description": "Type: Fully Modular, Maximum Power: 1200 W, PCI-Express Connector: x3 (6+2 pin), x2 (16-pin), SATA Power Connector: x5, Fans: 135 mm, Input voltage: 100-240 Vac, Input Current: n/a, Input Frequency Range: 50-60 Hz, Complies With ATX 24 Pin: yes, Complies with ATX 12V: yes, SLI: yes, CrossFire: yes, Energy Efficient: 80 Plus Gold, Dimensions W x D x H:: 15.0 x 15.0 x 8.6 cm , Weight: 2.66 Kg, Warranty:: 10 year, Option: Protection: OCP, OVP, UVP, OPP, SCP, OTP",
+    "price": {
+      "$numberInt": "8990"
+    },
+    "countInStock": {
+      "$numberInt": "20"
+    },
+    "rating": {
+      "$numberInt": "0"
+    },
+    "numReviews": {
+      "$numberInt": "0"
+    },
+    "reviews": [],
+    "createdAt": {
+      "$date": {
+        "$numberLong": "1701942480932"
+      }
+    },
+    "updatedAt": {
+      "$date": {
+        "$numberLong": "1701942596115"
+      }
+    },
+    "__v": {
+      "$numberInt": "0"
+    }
+  },{
+    "_id": {
+      "$oid": ""
+    },
+    "name": "Be Quiet Power Supply Dark Power 12 1000Watt",
+    "slug": "Be-Quiet-Power-Supply-Dark-Power-12-1000Watt",
+    "image": "",
+    "images": [],
+    "brand": "Be Quiet",
+    "category": "Powersupply",
+    "description": "Type: Fully Modular, Maximum Power: 1000 W, PCI-Express Connector: x8 (6+2 pin), SATA Power Connector: x13, Fans: 135 mm, Input voltage: 100-240 Vac, Input Current: 14 A, Input Frequency Range: 50-60 Hz, Complies With ATX 24 Pin: yes, Complies with ATX 12V: yes, SLI: yes, CrossFire: n/a, Energy Efficient: 80 Plus Titanium, Dimensions W x D x H:: 20.0 x 15.0 x 8.6 cm, Weight: 2.41 Kg, Warranty:: 10 year, Option: 80 PLUS certification Titanium",
+    "price": {
+      "$numberInt": "8990"
+    },
+    "countInStock": {
+      "$numberInt": "20"
+    },
+    "rating": {
+      "$numberInt": "0"
+    },
+    "numReviews": {
+      "$numberInt": "0"
+    },
+    "reviews": [],
+    "createdAt": {
+      "$date": {
+        "$numberLong": "1701942480932"
+      }
+    },
+    "updatedAt": {
+      "$date": {
+        "$numberLong": "1701942596115"
+      }
+    },
+    "__v": {
+      "$numberInt": "0"
+    }
+  },{
+    "_id": {
+      "$oid": ""
+    },
+    "name": "Thermaltake Power Supply TOUGHPOWER PF1 ARGB 1050W",
+    "slug": "Thermaltake-Power-Supply-TOUGHPOWER-PF1-ARGB-1050W",
+    "image": "",
+    "images": [],
+    "brand": "Thermaltake",
+    "category": "Powersupply",
+    "description": "Type: Fully Modular, Maximum Power: 1050 W, PCI-Express Connector: x8 (6+2 pin), SATA Power Connector: n/a, Fans: 140 mm, Input voltage: 100-240 Vac, Input Current: 13 A, Input Frequency Range: 50-60 Hz, Complies With ATX 24 Pin: yes, Complies with ATX 12V: yes, SLI: yes, CrossFire: yes, Energy Efficient: 80 Plus Platinum, Dimensions W x D x H:: 15.0 x 8.6 x 18.0 cm, Weight: n/a, Warranty:: 10 year, Option: Protection OCP, OVP, UVP, OPP, SCP, OTP",
+    "price": {
+      "$numberInt": "8690"
+    },
+    "countInStock": {
+      "$numberInt": "20"
+    },
+    "rating": {
+      "$numberInt": "0"
+    },
+    "numReviews": {
+      "$numberInt": "0"
+    },
+    "reviews": [],
+    "createdAt": {
+      "$date": {
+        "$numberLong": "1701942480932"
+      }
+    },
+    "updatedAt": {
+      "$date": {
+        "$numberLong": "1701942596115"
+      }
+    },
+    "__v": {
+      "$numberInt": "0"
+    }
+  },{
+    "_id": {
+      "$oid": ""
+    },
+    "name": "Deepcool Power Supply PX1200G 1200Watt 80 Plus Gold",
+    "slug": "Deepcool-Power-Supply-PX1200G-1200Watt-80-Plus-Gold",
+    "image": "",
+    "images": [],
+    "brand": "Deepcool",
+    "category": "Powersupply",
+    "description": "Type: Fully Modular, Maximum Power: 1200 W, PCI-Express Connector: x1 (12VHPWR - 16Pin), x3 (6+2Pin), SATA Power Connector: x2, Fans: 135 mm, Input voltage: 100-240 Vac, Input Current: n/a, Input Frequency Range: 47-63 Hz, Complies With ATX 24 Pin: yes, Complies with ATX 12V: yes, SLI: No, CrossFire: No, Energy Efficient: 80 Plus Gold, Dimensions W x D x H:: 15.0 x 16.0 x 8.6 cm, Weight: 1.5 Kg, Warranty:: 10 year, Option: Protection: OPP, OVP, SCP, OTP, OCP, UVP",
+    "price": {
+      "$numberInt": "8490"
+    },
+    "countInStock": {
+      "$numberInt": "20"
+    },
+    "rating": {
+      "$numberInt": "0"
+    },
+    "numReviews": {
+      "$numberInt": "0"
+    },
+    "reviews": [],
+    "createdAt": {
+      "$date": {
+        "$numberLong": "1701942480932"
+      }
+    },
+    "updatedAt": {
+      "$date": {
+        "$numberLong": "1701942596115"
+      }
+    },
+    "__v": {
+      "$numberInt": "0"
+    }
+  },{
+    "_id": {
+      "$oid": ""
+    },
+    "name": "NZXT Power Supply C1200 1200Watt GOLD",
+    "slug": "NZXT-Power-Supply-C1200-1200Watt-GOLD",
+    "image": "",
+    "images": [],
+    "brand": "NZXT",
+    "category": "Powersupply",
+    "description": "Type: Fully Modular, Maximum Power: 1200 W, PCI-Express Connector: x2 (6+2 pin), x1 16-pin (12VHPWR), SATA Power Connector: x8, Fans: 135 mm, Input voltage: 100-240 Vac, Input Current: 14-7 A, Input Frequency Range: 50-60 Hz, Complies With ATX 24 Pin: yes, Complies with ATX 12V: yes, SLI: yes, CrossFire: yes, Energy Efficient: 80 Plus Gold, Dimensions W x D x H:: 15.0 x 15.0 x 8.6 cm, Weight: 1.64 Kg, Warranty:: 10 year, Option: Protection: OCP, OVP, UVP, OPP, SCP, OTP",
+    "price": {
+      "$numberInt": "8190"
+    },
+    "countInStock": {
+      "$numberInt": "20"
+    },
+    "rating": {
+      "$numberInt": "0"
+    },
+    "numReviews": {
+      "$numberInt": "0"
+    },
+    "reviews": [],
+    "createdAt": {
+      "$date": {
+        "$numberLong": "1701942480932"
+      }
+    },
+    "updatedAt": {
+      "$date": {
+        "$numberLong": "1701942596115"
+      }
+    },
+    "__v": {
+      "$numberInt": "0"
+    }
+  },{
+    "_id": {
+      "$oid": ""
+    },
+    "name": "Corsair Power Supply AX1600i 1600Watt 80 Plus Titanium",
+    "slug": "Corsair-Power-Supply-AX1600i-1600Watt-80-Plus-Titanium",
+    "image": "",
+    "images": [],
+    "brand": "Corsair",
+    "category": "Powersupply",
+    "description": "Type: Fully Modular, Maximum Power: 1600 W, PCI-Express Connector: x10 (6+2 pin), SATA Power Connector: x16, Fans: 140 mm, Input voltage: 100-240 Vac, Input Current: 15A-9A, Input Frequency Range: 50-60 Hz, Complies With ATX 24 Pin: yes, Complies with ATX 12V: yes, SLI: yes, CrossFire: yes, Energy Efficient: 80 Plus Titanium, Dimensions W x D x H:: 15.0 x 20.0 x 8.6 cm, Weight: 2.3 Kg, Warranty:: 10 year, Option: Protection: OCP, OVP, UVP, OPP, SCP, OTP",
+    "price": {
+      "$numberInt": "20990"
+    },
+    "countInStock": {
+      "$numberInt": "20"
+    },
+    "rating": {
+      "$numberInt": "0"
+    },
+    "numReviews": {
+      "$numberInt": "0"
+    },
+    "reviews": [],
+    "createdAt": {
+      "$date": {
+        "$numberLong": "1701942480932"
+      }
+    },
+    "updatedAt": {
+      "$date": {
+        "$numberLong": "1701942596115"
+      }
+    },
+    "__v": {
+      "$numberInt": "0"
+    }
+  },{
+    "_id": {
+      "$oid": ""
+    },
+    "name": "Thermaltake Power Supply Toughpower TF1 1550Watt",
+    "slug": "Thermaltake-Power-Supply-Toughpower-TF1-1550Watt",
+    "image": "",
+    "images": [],
+    "brand": "Thermaltake",
+    "category": "Powersupply",
+    "description": "Type: Fully Modular, Maximum Power: 1550 W, PCI-Express Connector: x8, SATA Power Connector: x12, Fans: 140 mm, Input voltage: 100-240 Vac, Input Current: 18 A, Input Frequency Range: 50-60 Hz, Complies With ATX 24 Pin: yes, Complies with ATX 12V: yes, SLI: yes, CrossFire: yes, Energy Efficient: 80 Plus Titanium, Dimensions W x D x H:: 15.0 x 18.0x 8.6 cm, Weight: 5.0 Kg, Warranty:: 10 year, Option: Protection CE/cTUVus/TÜV/FCC/BSMI/EAC/CCC",
+    "price": {
+      "$numberInt": "14900"
+    },
+    "countInStock": {
+      "$numberInt": "20"
+    },
+    "rating": {
+      "$numberInt": "0"
+    },
+    "numReviews": {
+      "$numberInt": "0"
+    },
+    "reviews": [],
+    "createdAt": {
+      "$date": {
+        "$numberLong": "1701942480932"
+      }
+    },
+    "updatedAt": {
+      "$date": {
+        "$numberLong": "1701942596115"
+      }
+    },
+    "__v": {
+      "$numberInt": "0"
+    }
+  },{
+    "_id": {
+      "$oid": ""
+    },
+    "name": "Be Quiet Power Supply Dark Power Pro 12 1500Watt",
+    "slug": "Be-Quiet-Power-Supply-Dark-Power-Pro-12-1500Watt",
+    "image": "",
+    "images": [],
+    "brand": "Be Quiet",
+    "category": "Powersupply",
+    "description": "Type: Fully Modular, Maximum Power: 1500 W, PCI-Express Connector: x10 (6+2 pin), SATA Power Connector: x16, Fans: 135 mm, Input voltage: 100-240 Vac, Input Current: 17 A, Input Frequency Range: 50-60 Hz, Complies With ATX 24 Pin: yes, Complies with ATX 12V: yes, SLI: yes, CrossFire: n/a, Energy Efficient: 80 Plus Titanium, Dimensions W x D x H:: 20.0 x 15.0 x 8.6 cm, Weight: 2.41 Kg, Warranty:: 10 year, Option: 80 PLUS certification Titanium",
+    "price": {
+      "$numberInt": "15990"
+    },
+    "countInStock": {
+      "$numberInt": "20"
+    },
+    "rating": {
+      "$numberInt": "0"
+    },
+    "numReviews": {
+      "$numberInt": "0"
+    },
+    "reviews": [],
+    "createdAt": {
+      "$date": {
+        "$numberLong": "1701942480932"
+      }
+    },
+    "updatedAt": {
+      "$date": {
+        "$numberLong": "1701942596115"
+      }
+    },
+    "__v": {
+      "$numberInt": "0"
+    }
+  },{
+    "_id": {
+      "$oid": ""
+    },
+    "name": "Thermaltake Power Supply Toughpower GF3 1650Watt 80 Plus Gold",
+    "slug": "Thermaltake-Power-Supply-Toughpower-GF3-1650Watt-80-Plus-Gold",
+    "image": "",
+    "images": [],
+    "brand": "Thermaltake",
+    "category": "Powersupply",
+    "description": "Type: Fully Modular, Maximum Power: 1650 W, PCI-Express Connector: x2 (12+4 pin), x9 (6+2 pin), SATA Power Connector: x16, Fans: 140 mm, Input voltage: 100-250 Vac, Input Current: 20.0 A - 16.0 A, Input Frequency Range: 50-60 Hz, Complies With ATX 24 Pin: yes, Complies with ATX 12V: yes, SLI: yes, CrossFire: yes, Energy Efficient: 80 Plus Gold, Dimensions W x D x H:: 18.0 x 15.0 x 8.6 cm, Weight: 2.15 Kg, Warranty:: 10 year, Option: Protection: OCP, OVP, UVP, OPP, SCP, OTP",
+    "price": {
+      "$numberInt": "12990"
+    },
+    "countInStock": {
+      "$numberInt": "20"
+    },
+    "rating": {
+      "$numberInt": "0"
+    },
+    "numReviews": {
+      "$numberInt": "0"
+    },
+    "reviews": [],
+    "createdAt": {
+      "$date": {
+        "$numberLong": "1701942480932"
+      }
+    },
+    "updatedAt": {
+      "$date": {
+        "$numberLong": "1701942596115"
+      }
+    },
+    "__v": {
+      "$numberInt": "0"
+    }
+  },{
+    "_id": {
+      "$oid": ""
+    },
+    "name": "Be Quiet Power Supply Dark Power Pro 12 1200Watt",
+    "slug": "Be-Quiet-Power-Supply-Dark-Power-Pro-12-1200Watt",
+    "image": "",
+    "images": [],
+    "brand": "Be Quiet",
+    "category": "Powersupply",
+    "description": "Type: Fully Modular, Maximum Power: 1200 W, PCI-Express Connector: x10 (6+2 pin), SATA Power Connector: x16, Fans: 135 mm, Input voltage: 100-240 Vac, Input Current: 16 A, Input Frequency Range: 50-60 Hz, Complies With ATX 24 Pin: yes, Complies with ATX 12V: yes, SLI: yes, CrossFire: n/a, Energy Efficient: 80 Plus Titanium, Dimensions W x D x H:: 20.0 x 15.0 x 8.6 cm, Weight: 2.41 Kg, Warranty:: 10 year, Option: 80 PLUS certification Titanium",
+    "price": {
+      "$numberInt": "12490"
+    },
+    "countInStock": {
+      "$numberInt": "20"
+    },
+    "rating": {
+      "$numberInt": "0"
+    },
+    "numReviews": {
+      "$numberInt": "0"
+    },
+    "reviews": [],
+    "createdAt": {
+      "$date": {
+        "$numberLong": "1701942480932"
+      }
+    },
+    "updatedAt": {
+      "$date": {
+        "$numberLong": "1701942596115"
+      }
+    },
+    "__v": {
+      "$numberInt": "0"
+    }
+  },{
+    "_id": {
+      "$oid": ""
+    },
+    "name": "Thermaltake Power Supply Toughpower GF A3 1050Watt 80 Plus Gold",
+    "slug": "Thermaltake-Power-Supply-Toughpower-GF-A3-1050Watt-80-Plus-Gold",
+    "image": "",
+    "images": [],
+    "brand": "Thermaltake",
+    "category": "Powersupply",
+    "description": "Type: Fully Modular, Maximum Power: 1050 W, PCI-Express Connector: x1 (12+4 pin), x5 (6+2 pin), SATA Power Connector: x12, Fans: 120 mm, Input voltage: 100-240 Vac, Input Current: 15 A, Input Frequency Range: 50-60 Hz, Complies With ATX 24 Pin: yes, Complies with ATX 12V: yes, SLI: n/a, CrossFire: n/a, Energy Efficient: 80 Plus Gold, Dimensions W x D x H:: 15.0 x 14.0 x 8.6 cm, Weight: 1.88 Kg, Warranty:: 10 year, Option: n/a",
+    "price": {
+      "$numberInt": "6290"
+    },
+    "countInStock": {
+      "$numberInt": "20"
+    },
+    "rating": {
+      "$numberInt": "0"
+    },
+    "numReviews": {
+      "$numberInt": "0"
+    },
+    "reviews": [],
+    "createdAt": {
+      "$date": {
+        "$numberLong": "1701942480932"
+      }
+    },
+    "updatedAt": {
+      "$date": {
+        "$numberLong": "1701942596115"
+      }
+    },
+    "__v": {
+      "$numberInt": "0"
+    }
+  },{
+    "_id": {
+      "$oid": ""
+    },
+    "name": "Cooler Master Computer Case HAF 700 EVO Black",
+    "slug": "Cooler-Master-Computer-Case-HAF-700-EVO-Black",
+    "image": "",
+    "images": [],
+    "brand": "Cooler Master",
+    "category": "Case",
+    "description": "Type: Full-Tower, Color: Black, With Power Supply: No, Motherboard Compatibility: E-ATX, ATX, Micro-ATX, Mini-ITX, Dimensions W x D x H:: 29.1 x 66.6 x 62.6 cm, Warranty:: 2 year",
+    "price": {
+      "$numberInt": "18900"
+    },
+    "countInStock": {
+      "$numberInt": "20"
+    },
+    "rating": {
+      "$numberInt": "0"
+    },
+    "numReviews": {
+      "$numberInt": "0"
+    },
+    "reviews": [],
+    "createdAt": {
+      "$date": {
+        "$numberLong": "1701942480932"
+      }
+    },
+    "updatedAt": {
+      "$date": {
+        "$numberLong": "1701942596115"
+      }
+    },
+    "__v": {
+      "$numberInt": "0"
+    }
+  },{
+    "_id": {
+      "$oid": ""
+    },
+    "name": "InWin Computer Case 909 Black",
+    "slug": "InWin-Computer-Case-909-Black",
+    "image": "",
+    "images": [],
+    "brand": "InWin",
+    "category": "Case",
+    "description": "Type: Full-Tower, Color: Black, With Power Supply: No, Motherboard Compatibility: E-ATX, ATX, Micro-ATX, Mini-ITX, Dimensions W x D x H:: 23.0 x 57.5 x 54.0 cm, Warranty:: 2 year",
+    "price": {
+      "$numberInt": "11190"
+    },
+    "countInStock": {
+      "$numberInt": "20"
+    },
+    "rating": {
+      "$numberInt": "0"
+    },
+    "numReviews": {
+      "$numberInt": "0"
+    },
+    "reviews": [],
+    "createdAt": {
+      "$date": {
+        "$numberLong": "1701942480932"
+      }
+    },
+    "updatedAt": {
+      "$date": {
+        "$numberLong": "1701942596115"
+      }
+    },
+    "__v": {
+      "$numberInt": "0"
+    }
+  },{
+    "_id": {
+      "$oid": ""
+    },
+    "name": "NZXT Computer Case H9 ELITE WHITE : CM-H91EW-01",
+    "slug": "NZXT-Computer-Case-H9-ELITE-WHITE-:-CM-H91EW-01",
+    "image": "",
+    "images": [],
+    "brand": "NZXT",
+    "category": "Case",
+    "description": "Type: Mid-Tower, Color: White, With Power Supply: No, Motherboard Compatibility: ATX, Micro-ATX, Mini-ITX, Dimensions W x D x H:: 29.0 x 46.6 x 49.5 cm, Warranty:: 2 year",
+    "price": {
+      "$numberInt": "8790"
+    },
+    "countInStock": {
+      "$numberInt": "20"
+    },
+    "rating": {
+      "$numberInt": "0"
+    },
+    "numReviews": {
+      "$numberInt": "0"
+    },
+    "reviews": [],
+    "createdAt": {
+      "$date": {
+        "$numberLong": "1701942480932"
+      }
+    },
+    "updatedAt": {
+      "$date": {
+        "$numberLong": "1701942596115"
+      }
+    },
+    "__v": {
+      "$numberInt": "0"
+    }
+  },{
+    "_id": {
+      "$oid": ""
+    },
+    "name": "NZXT Computer Case H9 ELITE BLACK : CM-H91EB-01",
+    "slug": "NZXT-Computer-Case-H9-ELITE-BLACK-:-CM-H91EW-01",
+    "image": "",
+    "images": [],
+    "brand": "NZXT",
+    "category": "Case",
+    "description": "Type: Mid-Tower, Color: Black, With Power Supply: No, Motherboard Compatibility: ATX, Micro-ATX, Mini-ITX, Dimensions W x D x H:: 29.0 x 46.6 x 49.5 cm, Warranty:: 2 year",
+    "price": {
+      "$numberInt": "8790"
+    },
+    "countInStock": {
+      "$numberInt": "20"
+    },
+    "rating": {
+      "$numberInt": "0"
+    },
+    "numReviews": {
+      "$numberInt": "0"
+    },
+    "reviews": [],
+    "createdAt": {
+      "$date": {
+        "$numberLong": "1701942480932"
+      }
+    },
+    "updatedAt": {
+      "$date": {
+        "$numberLong": "1701942596115"
+      }
+    },
+    "__v": {
+      "$numberInt": "0"
+    }
+  },{
+    "_id": {
+      "$oid": ""
+    },
+    "name": "Thermaltake Computer Case Core P8 TG Black",
+    "slug": "Thermaltake-Computer-Case-Core-P8-TG-Black",
+    "image": "",
+    "images": [],
+    "brand": "Thermaltake",
+    "category": "Case",
+    "description": "Type: Full-Tower, Color: Black, With Power Supply: No, Motherboard Compatibility: E-ATX, ATX, Micro-ATX, Mini-ITX, Dimensions W x D x H:: 26.0 x 66.0 x 62.6 cm, Warranty:: 2 year",
+    "price": {
+      "$numberInt": "7990"
+    },
+    "countInStock": {
+      "$numberInt": "20"
+    },
+    "rating": {
+      "$numberInt": "0"
+    },
+    "numReviews": {
+      "$numberInt": "0"
+    },
+    "reviews": [],
+    "createdAt": {
+      "$date": {
+        "$numberLong": "1701942480932"
+      }
+    },
+    "updatedAt": {
+      "$date": {
+        "$numberLong": "1701942596115"
+      }
+    },
+    "__v": {
+      "$numberInt": "0"
+    }
+  },{
+    "_id": {
+      "$oid": ""
+    },
+    "name": "Thermaltake Computer Case A500 TG Black",
+    "slug": "Thermaltake-Computer-Case-A500-TG-Black",
+    "image": "",
+    "images": [],
+    "brand": "Thermaltake",
+    "category": "Case",
+    "description": "Type: Mid-Tower, Color: Black, With Power Supply: No, Motherboard Compatibility: ATX, Micro-ATX, Mini-ITX, Dimensions W x D x H:: 23.6 x 56.0 x 51.0 cm, Warranty:: 2 year",
+    "price": {
+      "$numberInt": "7990"
+    },
+    "countInStock": {
+      "$numberInt": "20"
+    },
+    "rating": {
+      "$numberInt": "0"
+    },
+    "numReviews": {
+      "$numberInt": "0"
+    },
+    "reviews": [],
+    "createdAt": {
+      "$date": {
+        "$numberLong": "1701942480932"
+      }
+    },
+    "updatedAt": {
+      "$date": {
+        "$numberLong": "1701942596115"
+      }
+    },
+    "__v": {
+      "$numberInt": "0"
+    }
+  },{
+    "_id": {
+      "$oid": ""
+    },
+    "name": "NZXT Computer Case H7 Elite White",
+    "slug": "NZXT-Computer-Case-H7-Elite-White",
+    "image": "",
+    "images": [],
+    "brand": "NZXT",
+    "category": "Case",
+    "description": "Type: Mid-Tower, Color: White, With Power Supply: No, Motherboard Compatibility: E-ATX, ATX, Micro-ATX, Mini-ITX, Dimensions W x D x H:: 23.0 x 50.5 x 48.0 cm, Warranty:: 2 year",
+    "price": {
+      "$numberInt": "7890"
+    },
+    "countInStock": {
+      "$numberInt": "20"
+    },
+    "rating": {
+      "$numberInt": "0"
+    },
+    "numReviews": {
+      "$numberInt": "0"
+    },
+    "reviews": [],
+    "createdAt": {
+      "$date": {
+        "$numberLong": "1701942480932"
+      }
+    },
+    "updatedAt": {
+      "$date": {
+        "$numberLong": "1701942596115"
+      }
+    },
+    "__v": {
+      "$numberInt": "0"
+    }
+  },{
+    "_id": {
+      "$oid": ""
+    },
+    "name": "NZXT Computer Case H7 Elite Black",
+    "slug": "NZXT-Computer-Case-H7-Elite-Black",
+    "image": "",
+    "images": [],
+    "brand": "NZXT",
+    "category": "Case",
+    "description": "Type: Mid-Tower, Color: Black, With Power Supply: No, Motherboard Compatibility: E-ATX, ATX, Micro-ATX, Mini-ITX, Dimensions W x D x H:: 23.0 x 50.5 x 48.0 cm, Warranty:: 2 year",
+    "price": {
+      "$numberInt": "7890"
+    },
+    "countInStock": {
+      "$numberInt": "20"
+    },
+    "rating": {
+      "$numberInt": "0"
+    },
+    "numReviews": {
+      "$numberInt": "0"
+    },
+    "reviews": [],
+    "createdAt": {
+      "$date": {
+        "$numberLong": "1701942480932"
+      }
+    },
+    "updatedAt": {
+      "$date": {
+        "$numberLong": "1701942596115"
+      }
+    },
+    "__v": {
+      "$numberInt": "0"
+    }
+  },{
+    "_id": {
+      "$oid": ""
+    },
+    "name": "InWin Computer Case 905 ARGB",
+    "slug": "InWin-Computer-Case-905-ARGB",
+    "image": "",
+    "images": [],
+    "brand": "NZXT",
+    "category": "Case",
+    "description": "Type: Mid-Tower, Color: Silver, With Power Supply: No, Motherboard Compatibility: ATX, Micro-ATX, Mini-ITX, Dimensions W x D x H:: 50.2 x 21.5 x 50.8 cm, Warranty:: 2 year",
+    "price": {
+      "$numberInt": "7890"
+    },
+    "countInStock": {
+      "$numberInt": "20"
+    },
+    "rating": {
+      "$numberInt": "0"
+    },
+    "numReviews": {
+      "$numberInt": "0"
+    },
+    "reviews": [],
+    "createdAt": {
+      "$date": {
+        "$numberLong": "1701942480932"
+      }
+    },
+    "updatedAt": {
+      "$date": {
+        "$numberLong": "1701942596115"
+      }
+    },
+    "__v": {
+      "$numberInt": "0"
+    }
+  },{
+    "_id": {
+      "$oid": ""
+    },
+    "name": "Corsair Computer Case iCUE 5000X RGB TG White",
+    "slug": "Corsair-Computer-Case-iCUE-5000X-RGB-TG-White",
+    "image": "",
+    "images": [],
+    "brand": "Corsair",
+    "category": "Case",
+    "description": "Type: Mid-Tower, Color: White, With Power Supply: No, Motherboard Compatibility: ATX, Micro-ATX, Mini-ITX, Dimensions W x D x H:: 52 x 24.5 x 52 cm, Warranty:: 2 year",
+    "price": {
+      "$numberInt": "7290"
+    },
+    "countInStock": {
+      "$numberInt": "20"
+    },
+    "rating": {
+      "$numberInt": "0"
+    },
+    "numReviews": {
+      "$numberInt": "0"
+    },
+    "reviews": [],
+    "createdAt": {
+      "$date": {
+        "$numberLong": "1701942480932"
+      }
+    },
+    "updatedAt": {
+      "$date": {
+        "$numberLong": "1701942596115"
+      }
+    },
+    "__v": {
+      "$numberInt": "0"
+    }
+  },{
+    "_id": {
+      "$oid": ""
+    },
+    "name": "Thermaltake Computer Case CTE C750 TG ARGB Snow",
+    "slug": "Thermaltake-Computer-Case-CTE-C750-TG-ARGB-Snow",
+    "image": "",
+    "images": [],
+    "brand": "Thermaltake",
+    "category": "Case",
+    "description": "Type: Full-Tower, Color: Snow, With Power Supply: No, Motherboard Compatibility: E-ATX, ATX, Micro-ATX, Mini-ITX, Dimensions W x D x H:: 32.7 x 56.5 x 59.9 cm, Warranty:: 2 year",
+    "price": {
+      "$numberInt": "6690"
+    },
+    "countInStock": {
+      "$numberInt": "20"
+    },
+    "rating": {
+      "$numberInt": "0"
+    },
+    "numReviews": {
+      "$numberInt": "0"
+    },
+    "reviews": [],
+    "createdAt": {
+      "$date": {
+        "$numberLong": "1701942480932"
+      }
+    },
+    "updatedAt": {
+      "$date": {
+        "$numberLong": "1701942596115"
+      }
+    },
+    "__v": {
+      "$numberInt": "0"
+    }
+  },{
+    "_id": {
+      "$oid": ""
+    },
+    "name": "Lian Li Computer Case O11DXL-W Dynamic XL ROG - White",
+    "slug": "Lian-Li-Computer-Case-O11DXL-W-Dynamic-XL-ROG-White",
+    "image": "",
+    "images": [],
+    "brand": "Lian Li",
+    "category": "Case",
+    "description": "Type: Full-Tower, Color: White, With Power Supply: No, Motherboard Compatibility: E-ATX, ATX, Micro-ATX, Mini-ITX, Dimensions W x D x H:: 28.5 x 47.1 x 51.3 cm, Warranty:: 1 year",
+    "price": {
+      "$numberInt": "6690"
+    },
+    "countInStock": {
+      "$numberInt": "20"
+    },
+    "rating": {
+      "$numberInt": "0"
+    },
+    "numReviews": {
+      "$numberInt": "0"
+    },
+    "reviews": [],
+    "createdAt": {
+      "$date": {
+        "$numberLong": "1701942480932"
+      }
+    },
+    "updatedAt": {
+      "$date": {
+        "$numberLong": "1701942596115"
+      }
+    },
+    "__v": {
+      "$numberInt": "0"
+    }
+  },{
+    "_id": {
+      "$oid": ""
+    },
+    "name": "In Win Computer Case 315 Black",
+    "slug": "In-Win-Computer-Case-315-Black",
+    "image": "",
+    "images": [],
+    "brand": "InWin",
+    "category": "Case",
+    "description": "Type: Mid-Tower, Color: Black, With Power Supply: No, Motherboard Compatibility: E-ATX, ATX, Micro-ATX, Mini-ITX, Dimensions W x D x H:: 49.4 x 22.5 x 50.5 cm, Warranty:: 2 year",
+    "price": {
+      "$numberInt": "6640"
+    },
+    "countInStock": {
+      "$numberInt": "20"
+    },
+    "rating": {
+      "$numberInt": "0"
+    },
+    "numReviews": {
+      "$numberInt": "0"
+    },
+    "reviews": [],
+    "createdAt": {
+      "$date": {
+        "$numberLong": "1701942480932"
+      }
+    },
+    "updatedAt": {
+      "$date": {
+        "$numberLong": "1701942596115"
+      }
+    },
+    "__v": {
+      "$numberInt": "0"
+    }
+  },{
+    "_id": {
+      "$oid": ""
+    },
+    "name": "Lian Li Computer Case O11DXL-X Dynamic XL ROG - Black",
+    "slug": "Lian-Li-Computer-Case-O11DXL-X-Dynamic-XL-ROG-Black",
+    "image": "",
+    "images": [],
+    "brand": "Lian Li",
+    "category": "Case",
+    "description": "Type: Full-Tower, Color: Black, With Power Supply: No, Motherboard Compatibility: E-ATX, ATX, Micro-ATX, Mini-ITX, Dimensions W x D x H:: 28.5 x 47.1 x 51.3 cm, Warranty:: 1 year",
+    "price": {
+      "$numberInt": "6490"
+    },
+    "countInStock": {
+      "$numberInt": "20"
+    },
+    "rating": {
+      "$numberInt": "0"
+    },
+    "numReviews": {
+      "$numberInt": "0"
+    },
+    "reviews": [],
+    "createdAt": {
+      "$date": {
+        "$numberLong": "1701942480932"
+      }
+    },
+    "updatedAt": {
+      "$date": {
+        "$numberLong": "1701942596115"
+      }
+    },
+    "__v": {
+      "$numberInt": "0"
+    }
+  },{
+    "_id": {
+      "$oid": ""
+    },
+    "name": "Thermaltake Computer Case CTE C750 AIR Snow",
+    "slug": "Thermaltake-Computer-Case-CTE-C750-AIR-Snow",
+    "image": "",
+    "images": [],
+    "brand": "Thermaltake",
+    "category": "Case",
+    "description": "Type: Full-Tower, Color: Snow, With Power Supply: No, Motherboard Compatibility: E-ATX, ATX, Micro-ATX, Mini-ITX, Dimensions W x D x H:: 32.7 x 56.5 x 59.9 cm, Warranty:: 2 year",
+    "price": {
+      "$numberInt": "6190"
+    },
+    "countInStock": {
+      "$numberInt": "20"
+    },
+    "rating": {
+      "$numberInt": "0"
+    },
+    "numReviews": {
+      "$numberInt": "0"
+    },
+    "reviews": [],
+    "createdAt": {
+      "$date": {
+        "$numberLong": "1701942480932"
+      }
+    },
+    "updatedAt": {
+      "$date": {
+        "$numberLong": "1701942596115"
+      }
+    },
+    "__v": {
+      "$numberInt": "0"
+    }
+  },{
+    "_id": {
+      "$oid": ""
+    },
+    "name": "WD_BLACK 1TB SN850X NVMe Internal Gaming SSD Solid State Drive - Gen4 PCIe, M.2 2280, Up to 7,300 MB/s - WDS100T2X0E",
+    "slug": "WD_BLACK-1TB-SN850X-NVMe-Internal-Gaming-SSD-Solid-State-Drive-Gen4-PCIe,-M.2-2280,-Up-to-7,300-MB/s-WDS100T2X0E",
+    "image": "",
+    "images": [],
+    "brand": "WD",
+    "category": "SSD",
+    "description": "Model : WDS100T2X0E , Brand : WD , Random Write (Up To) : 1,100,000 IOPS , Random Read (Up To) : 800,000 IOPS , Sequential Write (Up To) : 6,300 MB/s , Sequential Read (Up To) : 7,300 MB/s , ขนาด SSD : 20x22x2.38mm , ความจุ 1.00 TB , Interface : PCIe 4.0 ,  การรับประกัน 5 ปี",
+    "price": {
+      "$numberInt": "5790"
+    },
+    "countInStock": {
+      "$numberInt": "20"
+    },
+    "rating": {
+      "$numberInt": "0"
+    },
+    "numReviews": {
+      "$numberInt": "0"
+    },
+    "reviews": [],
+    "createdAt": {
+      "$date": {
+        "$numberLong": "1701942480932"
+      }
+    },
+    "updatedAt": {
+      "$date": {
+        "$numberLong": "1701942596115"
+      }
+    },
+    "__v": {
+      "$numberInt": "0"
+    }
+  },{
+    "_id": {
+      "$oid": ""
+    },
+    "name": "WD_BLACK 2TB SN770 NVMe Internal Gaming SSD Solid State Drive - Gen4 PCIe, M.2 2280, Up to 5,150 MB/s - WDS200T3X0E",
+    "slug": "WD_BLACK-2TB-SN770-NVMe-Internal-Gaming-SSD-Solid-State-Drive-Gen4-PCIe,-M.2-2280,-Up-to-5,150-MB/s-WDS200T3X0E",
+    "image": "",
+    "images": [],
+    "brand": "WD",
+    "category": "SSD",
+    "description": "Model : WDS200T3X0E , Brand : WD , Random Write (Up to) : 800,000 IOPS , Random Read (Up to) : 650,000 IOPS , Sequential Write (Up To) : 4,850 MB/s , Sequential Read (Up To) : 5,150 MB/s , ขนาด SSD : 20x22x2.38mm , ความจุ : 2.00 TB , Interface : PCIe 2.0 PCIe 3.0 PCIe 4.0  PCIe 5.0 , การรับประกัน : 5 ปี",
+    "price": {
+      "$numberInt": "4590"
+    },
+    "countInStock": {
+      "$numberInt": "20"
+    },
+    "rating": {
+      "$numberInt": "0"
+    },
+    "numReviews": {
+      "$numberInt": "0"
+    },
+    "reviews": [],
+    "createdAt": {
+      "$date": {
+        "$numberLong": "1701942480932"
+      }
+    },
+    "updatedAt": {
+      "$date": {
+        "$numberLong": "1701942596115"
+      }
+    },
+    "__v": {
+      "$numberInt": "0"
+    }
+  },{
+    "_id": {
+      "$oid": ""
+    },
+    "name": "SK hynix Platinum P41 1TB PCIe NVMe Gen4 M.2 2280 Internal Gaming SSD, Up to 7,000MB/S, Compact M.2 SSD Form Factor SSD - Internal Solid State Drive with 176-Layer NAND Flash",
+    "slug": "SK-hynix-Platinum-P41-1TB-PCIe-NVMe-Gen4-M.2-2280-Internal-Gaming-SSD,-Up-to-7,000MB/S,-Compact-M.2-SSD-Form-Factor-SSD-Internal-Solid-State-Drive-with-176-Layer-NAND-Flash",
+    "image": "",
+    "images": [],
+    "brand": "SK hynix",
+    "category": "SSD",
+    "description": "Model : SHPP41-1000GM-2 , Brand : SK hynix , Random Write (Up To) : 1,300,000 IOPS , Random Read (Up To) : 1,400,000 IOPS , Sequential Write (Up To) : 6,500 MB/s  , Sequential Read (Up To) : 7,000 MB/s  , ขนาด SSD : 22x80x2.38mm , ความจุ 1.00 TB",
+    "price": {
+      "$numberInt": "7168"
+    },
+    "countInStock": {
+      "$numberInt": "20"
+    },
+    "rating": {
+      "$numberInt": "0"
+    },
+    "numReviews": {
+      "$numberInt": "0"
+    },
+    "reviews": [],
+    "createdAt": {
+      "$date": {
+        "$numberLong": "1701942480932"
+      }
+    },
+    "updatedAt": {
+      "$date": {
+        "$numberLong": "1701942596115"
+      }
+    },
+    "__v": {
+      "$numberInt": "0"
+    }
+  },{
+    "_id": {
+      "$oid": ""
+    },
+    "name": "SABRENT Rocket 2230 NVMe 4.0 512GB High Performance PCIe 4.0 M.2 2230 SSD [SB-2130-512GB]",
+    "slug": "SABRENT-Rocket-2230-NVMe-4.0-512GB-High-Performance-PCIe-4.0-M.2-2230-SSD-[SB-2130-512GB]",
+    "image": "",
+    "images": [],
+    "brand": "SABRENT",
+    "category": "SSD",
+    "description": "Model: SB-2130-512, Brand: SABRENT, Random Write (Up To): 800,000 IOPS, Random Read (Up To): 800,000 IOPS, Sequential Write (Up To): 4300 MB/s, Sequential Read (Up To): 4750 MB/s, ขนาด SSD: 30 x 22 x 2.032 mm, ความจุ: 512GB, การรับประกัน: -",
+    "price": {
+      "$numberInt": "2683"
+    },
+    "countInStock": {
+      "$numberInt": "20"
+    },
+    "rating": {
+      "$numberInt": "0"
+    },
+    "numReviews": {
+      "$numberInt": "0"
+    },
+    "reviews": [],
+    "createdAt": {
+      "$date": {
+        "$numberLong": "1701942480932"
+      }
+    },
+    "updatedAt": {
+      "$date": {
+        "$numberLong": "1701942596115"
+      }
+    },
+    "__v": {
+      "$numberInt": "0"
+    }
+  },{
+    "_id": {
+      "$oid": ""
+    },
+    "name": "Silicon Power 1TB XS70 Nvme PCIe Gen4 M.2 2280 SSD R/W Up to 7,300/6,000 MB/s, DRAM Cache, with Built-in PS5 Heatsink, Compatible with Playstation 5 (SP01KGBP44XS7005)",
+    "slug": "Silicon-Power-1TB-XS70-Nvme-PCIe-Gen4-M.2-2280-SSD-R/W-Up-to-7,300/6,000-MB/s,-DRAM-Cache,-with-Built-in-PS5-Heatsink,-Compatible-with-Playstation-5-(SP01KGBP44XS7005)",
+    "image": "",
+    "images": [],
+    "brand": "Silicon Power",
+    "category": "SSD",
+    "description": "Model: SP Silicon Power, Brand: SP01KGBP44XS7005, Random Write (Up To): 1,000,000 IOPS, Random Read (Up To): 750,000 IOPS, Sequential Write (Up To): 6,000MB/s, Sequential Read (Up To): 7,300MB/s, ขนาด SSD: 127 x 88 x 10 mm, ความจุ: 1.00 TB, การรับประกัน: 5 ปี",
+    "price": {
+      "$numberInt": "2289"
+    },
+    "countInStock": {
+      "$numberInt": "20"
+    },
+    "rating": {
+      "$numberInt": "0"
+    },
+    "numReviews": {
+      "$numberInt": "0"
+    },
+    "reviews": [],
+    "createdAt": {
+      "$date": {
+        "$numberLong": "1701942480932"
+      }
+    },
+    "updatedAt": {
+      "$date": {
+        "$numberLong": "1701942596115"
+      }
+    },
+    "__v": {
+      "$numberInt": "0"
+    }
+  },{
+    "_id": {
+      "$oid": ""
+    },
+    "name": "1 TB SSD SEAGATE FIRECUDA 530 - PCIe 4/NVMe M.2 2280 (ZP1000GM3A013)",
+    "slug": "1-TB-SSD-SEAGATE-FIRECUDA-530-PCIe-4/NVMe-M.2-2280-(ZP1000GM3A013)",
+    "image": "",
+    "images": [],
+    "brand": "Seagate",
+    "category": "SSD",
+    "description": "Model: FireCuda 530, Brand: Seagate, Random Write (Up To): 1,000,000 IOPS, Random Read (Up To): 800,000 IOPS, Sequential Write (Up To): 6,000 MB/s, Sequential Read (Up To): 7,300 MB/s, ขนาด SSD: 22 x 80 x 2.03 mm, ความจุ: 1.00 TB, การรับประกัน: 5 ปี",
+    "price": {
+      "$numberInt": "9790"
+    },
+    "countInStock": {
+      "$numberInt": "20"
+    },
+    "rating": {
+      "$numberInt": "0"
+    },
+    "numReviews": {
+      "$numberInt": "0"
+    },
+    "reviews": [],
+    "createdAt": {
+      "$date": {
+        "$numberLong": "1701942480932"
+      }
+    },
+    "updatedAt": {
+      "$date": {
+        "$numberLong": "1701942596115"
+      }
+    },
+    "__v": {
+      "$numberInt": "0"
+    }
+  },{
+    "_id": {
+      "$oid": ""
+    },
+    "name": "1 TB SSD SAMSUNG 990 PRO WITH HEATSINK - PCIe 4x4/NVMe M.2 2280 (MZ-V9P1T0CW)",
+    "slug": "1-TB-SSD-SAMSUNG-990-PRO-WITH-HEATSINK-PCIe-4x4/NVMe-M.2-2280-(MZ-V9P1T0CW)",
+    "image": "",
+    "images": [],
+    "brand": "SAMSUNG",
+    "category": "SSD",
+    "description": "Model: 990 PRO with Heatsink, Brand: SAMSUNG, Random Write (Up To): 1,550,000 IOPS, Random Read (Up To): 1,200,000 IOPS, Sequential Write (Up To): 6,900 MB/s, Sequential Read (Up To): 7,450 MB/s, ขนาด SSD: 80 x 22 x 2.3 mm, ความจุ: 1.00 TB, การรับประกัน: 5 ปี",
+    "price": {
+      "$numberInt": "4990"
+    },
+    "countInStock": {
+      "$numberInt": "20"
+    },
+    "rating": {
+      "$numberInt": "0"
+    },
+    "numReviews": {
+      "$numberInt": "0"
+    },
+    "reviews": [],
+    "createdAt": {
+      "$date": {
+        "$numberLong": "1701942480932"
+      }
+    },
+    "updatedAt": {
+      "$date": {
+        "$numberLong": "1701942596115"
+      }
+    },
+    "__v": {
+      "$numberInt": "0"
+    }
+  },{
+    "_id": {
+      "$oid": ""
+    },
+    "name": "Crucial T700 1TB PCIe Gen5 NVMe M.2 SSD with heatsink",
+    "slug": "Crucial-T700-1TB-PCIe-Gen5-NVMe-M.2-SSD-with-heatsink",
+    "image": "",
+    "images": [],
+    "brand": "Crucial",
+    "category": "SSD",
+    "description": "Model: CT1000T700SSD5, Brand: Crucial, Random Write (Up To): 1,400,000 IOPS, Random Read (Up To): 1,350,000 IOPS, Sequential Write (Up To): 9,500 MB/s, Sequential Read (Up To): 11,700 MB/s, ความจุ: 1.00 TB, การรับประกัน: 3 ปี",
+    "price": {
+      "$numberInt": "7513"
+    },
+    "countInStock": {
+      "$numberInt": "20"
+    },
+    "rating": {
+      "$numberInt": "0"
+    },
+    "numReviews": {
+      "$numberInt": "0"
+    },
+    "reviews": [],
+    "createdAt": {
+      "$date": {
+        "$numberLong": "1701942480932"
+      }
+    },
+    "updatedAt": {
+      "$date": {
+        "$numberLong": "1701942596115"
+      }
+    },
+    "__v": {
+      "$numberInt": "0"
+    }
+  },{
+    "_id": {
+      "$oid": ""
+    },
+    "name": "SABRENT Rocket 4 Plus SSD with Heatsink 1TB PCIe Gen 4 NVMe M.2 2280 Internal Solid State Drive, Extreme Speed, Heat Management [SB-RKT4P-HTSP-1TB]",
+    "slug": "SABRENT-Rocket-4-Plus-SSD-with-Heatsink-1TB-PCIe-Gen-4-NVMe-M.2-2280-Internal-Solid-State-Drive,-Extreme-Speed,-Heat-Management-[SB-RKT4P-HTSP-1TB]",
+    "image": "",
+    "images": [],
+    "brand": "SABRENT",
+    "category": "SSD",
+    "description": "Model: SB-RKT4P-HTSP-1TB, Brand: SABRENT, Random Write (Up To): N/A, Random Read (Up To): N/A, Sequential Write (Up To): 5,800 MB/s, Sequential Read (Up To): 7,000 MB/s, ขนาด SSD: 83.82 x 22.86 x 24.38 mm, ความจุ: 1.00 TB, การรับประกัน: 5 ปี",
+    "price": {
+      "$numberInt": "3577"
+    },
+    "countInStock": {
+      "$numberInt": "20"
+    },
+    "rating": {
+      "$numberInt": "0"
+    },
+    "numReviews": {
+      "$numberInt": "0"
+    },
+    "reviews": [],
+    "createdAt": {
+      "$date": {
+        "$numberLong": "1701942480932"
+      }
+    },
+    "updatedAt": {
+      "$date": {
+        "$numberLong": "1701942596115"
+      }
+    },
+    "__v": {
+      "$numberInt": "0"
+    }
+  },{
+    "_id": {
+      "$oid": ""
+    },
+    "name": "1 TB SSD KINGSTON FURY RENEGADE - PCIe 4/NVMe M.2 2280 (SFYRS/1000G)",
+    "slug": "1-TB-SSD-KINGSTON-FURY-RENEGADE-PCIe-4/NVMe-M.2-2280-(SFYRS/1000G)",
+    "image": "",
+    "images": [],
+    "brand": "Kingston",
+    "category": "SSD",
+    "description": "Model: FURY Renegade, Brand: Kingston, Random Write (Up To): 1,000,000 IOPS, Random Read (Up To): 900,000 IOPS, Sequential Write (Up To): 6,000 MB/s, Sequential Read (Up To): 7,300 MB/s, ขนาด SSD: 22 x 80 x 2.21mm, ความจุ: 1.00 TB, การรับประกัน: 5 ปี",
+    "price": {
+      "$numberInt": "3290"
+    },
+    "countInStock": {
+      "$numberInt": "20"
+    },
+    "rating": {
+      "$numberInt": "0"
+    },
+    "numReviews": {
+      "$numberInt": "0"
+    },
+    "reviews": [],
+    "createdAt": {
+      "$date": {
+        "$numberLong": "1701942480932"
+      }
+    },
+    "updatedAt": {
+      "$date": {
+        "$numberLong": "1701942596115"
+      }
+    },
+    "__v": {
+      "$numberInt": "0"
+    }
+  },{
+    "_id": {
+      "$oid": ""
+    },
+    "name": "1 TB SSD CORSAIR MP600 PRO LPX - PCIe 4/NVMe M.2 2280 (CSSD-F1000GBMP600PLP)",
+    "slug": "1-TB-SSD-CORSAIR-MP600-PRO-LPX-PCIe-4/NVMe-M.2-2280-(CSSD-F1000GBMP600PLP)",
+    "image": "",
+    "images": [],
+    "brand": "Corsair",
+    "category": "SSD",
+    "description": "Model: MP600 Pro LPX, Brand: Corsair, Random Write (Up To): N/A, Random Read (Up To): N/A, Sequential Write (Up To): 5,800 MB/s, Sequential Read (Up To): 7,100 MB/s, ขนาด SSD: 22 x 80 x 11 mm, ความจุ: 1.00 TB, การรับประกัน: 5 ปี",
+    "price": {
+      "$numberInt": "6900"
+    },
+    "countInStock": {
+      "$numberInt": "20"
+    },
+    "rating": {
+      "$numberInt": "0"
+    },
+    "numReviews": {
+      "$numberInt": "0"
+    },
+    "reviews": [],
+    "createdAt": {
+      "$date": {
+        "$numberLong": "1701942480932"
+      }
+    },
+    "updatedAt": {
+      "$date": {
+        "$numberLong": "1701942596115"
+      }
+    },
+    "__v": {
+      "$numberInt": "0"
+    }
+  },{
+    "_id": {
+      "$oid": ""
+    },
+    "name": "SSD M.2 PCIe 1.TB (5Y) T-FORCE CARDEA Z440",
+    "slug": "SSD-M.2-PCIe-1.TB-(5Y)-T-FORCE-CARDEA-Z440",
+    "image": "",
+    "images": [],
+    "brand": "CARDEA",
+    "category": "SSD",
+    "description": "Model: CARDEA ZERO Z440, Brand: T-FORCE, Random Write (Up To): 750,000 IOPS, Random Read (Up To): 750,000 IOPS, Sequential Write (Up To): 4,400 MB/s, Sequential Read (Up To): 5,000 MB/s, ขนาด SSD: 22 x 80 x 3.7 mm, ความจุ: 1.00 TB, การรับประกัน: 5 ปี",
+    "price": {
+      "$numberInt": "3150"
+    },
+    "countInStock": {
+      "$numberInt": "20"
+    },
+    "rating": {
+      "$numberInt": "0"
+    },
+    "numReviews": {
+      "$numberInt": "0"
+    },
+    "reviews": [],
+    "createdAt": {
+      "$date": {
+        "$numberLong": "1701942480932"
+      }
+    },
+    "updatedAt": {
+      "$date": {
+        "$numberLong": "1701942596115"
+      }
+    },
+    "__v": {
+      "$numberInt": "0"
+    }
+  },{
+    "_id": {
+      "$oid": ""
+    },
+    "name": "1 TB SSD KINGSTON NV2 - PCIe 4/NVMe M.2 2280 (SNV2S/1000G)",
+    "slug": "1-TB-SSD-KINGSTON-NV2-PCIe-4/NVMe-M.2-2280-(SNV2S/1000G)",
+    "image": "",
+    "images": [],
+    "brand": "Kingston",
+    "category": "SSD",
+    "description": "Model: NV2, Brand: Kingston, Random Write (Up To): N/A, Random Read (Up To): N/A, Sequential Write (Up To): 2,100 MB/s, Sequential Read (Up To): 3,500 MB/s, ขนาด SSD: 22 x 80 x 2.2 มม., ความจุ: 1.00 TB, การรับประกัน: 3 ปี",
+    "price": {
+      "$numberInt": "1690"
+    },
+    "countInStock": {
+      "$numberInt": "20"
+    },
+    "rating": {
+      "$numberInt": "0"
+    },
+    "numReviews": {
+      "$numberInt": "0"
+    },
+    "reviews": [],
+    "createdAt": {
+      "$date": {
+        "$numberLong": "1701942480932"
+      }
+    },
+    "updatedAt": {
+      "$date": {
+        "$numberLong": "1701942596115"
+      }
+    },
+    "__v": {
+      "$numberInt": "0"
+    }
+  }
+    
+  ]
