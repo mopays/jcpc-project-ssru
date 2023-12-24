@@ -6,10 +6,7 @@ import Product from "../components/Product";
 import { Helmet } from "react-helmet-async";
 import LoadingBox from "../components/LoadingBox";
 import MessageBox from "../components/MessageBox";
-import { Canvas } from "@react-three/fiber";
 
-import { Environment } from "@react-three/drei";
-import { AMD_PRODUCT_1 } from "../components/3d-Render/3d/AMD-Product1";
 // import data from '../data';
 
 const reducer = (state, action) => {

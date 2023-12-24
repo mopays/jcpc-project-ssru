@@ -1,0 +1,5 @@
+npx gltfjsx@6.2.15 public/model/case.glb -o src/components/case.js -k -r public 
+npx gltfjsx@6.2.15 public/model/cpu.glb -o src/components/cpu.js -k -r public 
+npx gltfjsx@6.2.15 public/model/gpu.glb -o src/components/gpu.js -k -r public 
+npx gltfjsx@6.2.15 public/model/Mainboard.glb -o src/components/mainboard.js -k -r public 
+npx gltfjsx@6.2.15 public/model/power.glb -o src/components/porweSupply.js -k -r public 

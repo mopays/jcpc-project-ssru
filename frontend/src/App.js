@@ -36,11 +36,16 @@ import UserEditScreen from './screens/UserEditScreen';
 import MapScreen from './screens/MapScreen';
 import ForgetPasswordScreen from './screens/ForgetPasswordScreen';
 import ResetPasswordScreen from './screens/ResetPasswordScreen';
-import { Experience1 } from './components/3d-Render/components/Amd_Product1';
 import { Canvas } from '@react-three/fiber';
 import { Environment } from '@react-three/drei';
 import { JcpLogo } from './components/3d-Render/components/Logo';
-import AmdDetail from './screens/detail/AmdDetail';
+import DetailCase from './screens/detail/DetailCase';
+import DetailCpu from './screens/detail/DetailCpu';
+import DetailGpu from './screens/detail/DetailGpu';
+import DetailMainboard from './screens/detail/DetailMainboard';
+import DetailPowerSupply from './screens/detail/DetailPowerSupply';
+import DetailRam from './screens/detail/DetailRam';
+import DetailSsd from './screens/detail/DetailSsd';
 
 function App() {
   const { state, dispatch: ctxDispatch } = useContext(Store);
@@ -168,7 +173,29 @@ function App() {
                       </LinkContainer>
                     </NavDropdown>
                   )}
-
+                   <NavDropdown title="Detail" id="admin-nav-dropdown">
+                      <LinkContainer to="/detail/case">
+                        <NavDropdown.Item>Case</NavDropdown.Item>
+                      </LinkContainer>
+                      <LinkContainer to="/detail/cpu">
+                        <NavDropdown.Item>Cpu</NavDropdown.Item>
+                      </LinkContainer>
+                      <LinkContainer to="/detail/gpu">
+                        <NavDropdown.Item>Gpu</NavDropdown.Item>
+                      </LinkContainer>
+                      <LinkContainer to="/detail/mainboard">
+                        <NavDropdown.Item>Mainboard</NavDropdown.Item>
+                      </LinkContainer>
+                      <LinkContainer to="/detail/powersupply">
+                        <NavDropdown.Item>PowerSupply</NavDropdown.Item>
+                      </LinkContainer>
+                      <LinkContainer to="/detail/ram">
+                        <NavDropdown.Item>Ram</NavDropdown.Item>
+                      </LinkContainer>
+                      <LinkContainer to="/detail/ssd">
+                        <NavDropdown.Item>Ssd</NavDropdown.Item>
+                      </LinkContainer>
+                    </NavDropdown>
       
                 </Nav>
               </Navbar.Collapse>
@@ -211,7 +238,6 @@ function App() {
               <Route path="/search" element={<SearchScreen />} />
               <Route path="/signin" element={<SigninScreen />} />
               <Route path="/signup" element={<SignupScreen />} />
-              <Route path="/detail/amd" element={<AmdDetail />} />
               <Route
                 path="/forget-password"
                 element={<ForgetPasswordScreen />}
@@ -308,6 +334,13 @@ function App() {
                   </AdminRoute>
                 }
               ></Route>
+              <Route path="/detail/case"element={ <DetailCase />}></Route>
+              <Route path="/detail/cpu"element={ <DetailCpu />}></Route>
+              <Route path="/detail/gpu"element={ <DetailGpu />}></Route>
+              <Route path="/detail/mainboard"element={ <DetailMainboard />}></Route>
+              <Route path="/detail/powersupply"element={ <DetailPowerSupply />}></Route>
+              <Route path="/detail/ram"element={ <DetailRam />}></Route>
+              <Route path="/detail/ssd"element={ <DetailSsd />}></Route>
 
               <Route path="/" element={<HomeScreen />} />
             </Routes>

@@ -6,7 +6,7 @@ Command: npx gltfjsx@6.2.15 public/model/ram.glb -o src/components/3d-Render/3d/
 import React, { useRef } from 'react'
 import { useGLTF } from '@react-three/drei'
 
-export function Ram(props) {
+export function Rams(props) {
   const { nodes, materials } = useGLTF('/model/ram.glb')
   return (
     <group {...props} dispose={null}>
