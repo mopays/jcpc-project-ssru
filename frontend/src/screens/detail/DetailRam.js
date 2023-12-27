@@ -1,13 +1,13 @@
 import { Environment } from '@react-three/drei'
 import { Canvas } from '@react-three/fiber'
 import React from 'react'
-import { Rams } from '../../components/3d-Render/3d/ram'
+import Ram from '../../components/3d-Render/components/ram'
 
 function DetailRam() {
   return (
     <>
       <Canvas  shadows camera={{ position: [1,1, 1], fov: 100 }}>
-                    <Rams/>
+            <Ram/>
         <Environment preset="sunset" />
     </Canvas>
     <div className="container">
