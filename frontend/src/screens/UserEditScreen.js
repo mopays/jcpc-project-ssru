@@ -10,6 +10,7 @@ import LoadingBox from '../components/LoadingBox';
 import MessageBox from '../components/MessageBox';
 import { Store } from '../Store';
 import { getError } from '../utils';
+import "../App.css";
 
 const reducer = (state, action) => {
   switch (action.type) {
@@ -92,9 +93,9 @@ export default function UserEditScreen() {
   return (
     <Container className="small-container">
       <Helmet>
-        <title>Edit User ${userId}</title>
+        <title className="title-edit-user">Edit User ${userId}</title>
       </Helmet>
-      <h1>Edit User {userId}</h1>
+      <h1 className="title-edit-user">Edit User {userId}</h1>
 
       {loading ? (
         <LoadingBox></LoadingBox>

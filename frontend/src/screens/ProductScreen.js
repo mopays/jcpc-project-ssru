@@ -135,7 +135,7 @@ function ProductScreen() {
           <ListGroup variant="flush">
             <ListGroup.Item>
               <Helmet>
-                <title>{product.name}</title>
+                <title className="title-edit-user">{product.name}</title>
               </Helmet>
               <h1>{product.name}</h1>
             </ListGroup.Item>
