@@ -30,7 +30,7 @@ export default function ProfileScreen() {
   const [confirmPassword, setConfirmPassword] = useState('');
 
   const [{ loadingUpdate }, dispatch] = useReducer(reducer, {
-    loadingUpdate: true,
+    loadingUpdate: false,
   });
 
   const submitHandler = async (e) => {
@@ -47,19 +47,12 @@ export default function ProfileScreen() {
           headers: { Authorization: `Bearer ${userInfo.token}` },
         }
       );
-      if(password !== confirmPassword){
-        toast.error('password and confirmPassword is not match ');
-      }else{
-  
-
-        dispatch({
-          type: 'UPDATE_SUCCESS',
-          
-        });
-        ctxDispatch({ type: 'USER_SIGNIN', payload: data });
-        localStorage.setItem('userInfo', JSON.stringify(data));
-        toast.success('User updated successfully');
-      }
+      dispatch({
+        type: 'UPDATE_SUCCESS',
+      });
+      ctxDispatch({ type: 'USER_SIGNIN', payload: data });
+      localStorage.setItem('userInfo', JSON.stringify(data));
+      toast.success('User updated successfully');
     } catch (err) {
       dispatch({
         type: 'FETCH_FAIL',
