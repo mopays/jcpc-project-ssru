@@ -10,36 +10,33 @@ export function Case(props) {
   const { nodes, materials } = useGLTF('/model/case.glb')
   return (
     <group {...props} dispose={null}>
-      <mesh name="main" geometry={nodes.main.geometry} material={nodes.main.material} position={[0.016, 0.281, 0.063]} rotation={[Math.PI / 2, -Math.PI / 2, 0]} />
-      <group name="ram" position={[0.016, 0, 0]}>
-        <mesh name="mesh_1" geometry={nodes.mesh_1.geometry} material={nodes.mesh_1.material} />
-        <mesh name="mesh_1_1" geometry={nodes.mesh_1_1.geometry} material={nodes.mesh_1_1.material} />
-        <mesh name="mesh_1_2" geometry={nodes.mesh_1_2.geometry} material={nodes.mesh_1_2.material} />
+      <group name="Sketchfab_model" position={[-0.172, -1.753, 0.449]} rotation={[-1.773, -0.101, 2.024]} scale={0.059}>
+        <mesh name="Object_33" geometry={nodes.Object_33.geometry} material={materials['material_0.003']} />
+        <mesh name="Object_34" geometry={nodes.Object_34.geometry} material={materials['material_0.003']} />
+        <mesh name="Object_35" geometry={nodes.Object_35.geometry} material={materials['material_0.003']} />
+        <mesh name="Object_36" geometry={nodes.Object_36.geometry} material={materials['material_0.003']} />
+        <mesh name="Object_10" geometry={nodes.Object_10.geometry} material={materials['material_6.002']} />
+        <mesh name="Object_11" geometry={nodes.Object_11.geometry} material={materials['material_7.002']} />
+        <mesh name="Object_7" geometry={nodes.Object_7.geometry} material={materials['material_0.003']} />
+        <mesh name="Object_8" geometry={nodes.Object_8.geometry} material={materials['material_8.002']} />
+        <mesh name="Object_5" geometry={nodes.Object_5.geometry} material={materials['material_9.002']} />
+        <mesh name="Object_3" geometry={nodes.Object_3.geometry} material={materials['material_6.002']} />
+        <mesh name="Object_28" geometry={nodes.Object_28.geometry} material={materials['material_0.003']} />
+        <mesh name="Object_29" geometry={nodes.Object_29.geometry} material={materials['material_1.002']} />
+        <mesh name="Object_30" geometry={nodes.Object_30.geometry} material={materials['material_1.002']} />
+        <mesh name="Object_31" geometry={nodes.Object_31.geometry} material={materials['material_1.002']} />
+        <mesh name="Object_25" geometry={nodes.Object_25.geometry} material={materials['material_2.002']} />
+        <mesh name="Object_26" geometry={nodes.Object_26.geometry} material={materials['material_1.002']} />
+        <mesh name="Object_23" geometry={nodes.Object_23.geometry} material={materials['material_3.002']} />
+        <mesh name="Object_20" geometry={nodes.Object_20.geometry} material={materials['material_0.003']} />
+        <mesh name="Object_21" geometry={nodes.Object_21.geometry} material={materials['material_4.002']} />
+        <mesh name="Object_13" geometry={nodes.Object_13.geometry} material={materials['material_4.002']} />
+        <mesh name="Object_14" geometry={nodes.Object_14.geometry} material={materials['material_5.002']} />
+        <mesh name="Object_15" geometry={nodes.Object_15.geometry} material={materials['material_5.002']} />
+        <mesh name="Object_16" geometry={nodes.Object_16.geometry} material={materials['material_5.002']} />
+        <mesh name="Object_17" geometry={nodes.Object_17.geometry} material={materials['material_5.002']} />
+        <mesh name="Object_18" geometry={nodes.Object_18.geometry} material={materials['material_5.002']} />
       </group>
-      <group name="ram_1" position={[0.016, 0, 0]}>
-        <mesh name="mesh_2" geometry={nodes.mesh_2.geometry} material={nodes.mesh_2.material} />
-        <mesh name="mesh_2_1" geometry={nodes.mesh_2_1.geometry} material={nodes.mesh_2_1.material} />
-        <mesh name="mesh_2_2" geometry={nodes.mesh_2_2.geometry} material={nodes.mesh_2_2.material} />
-      </group>
-      <mesh name="ssd" geometry={nodes.ssd.geometry} material={nodes.ssd.material} position={[0.05, 0.219, 0.031]} rotation={[-Math.PI / 2, 0, 1.588]} />
-      <mesh name="ssd_1" geometry={nodes.ssd_1.geometry} material={nodes.ssd_1.material} position={[0.113, 0.344, 0.031]} rotation={[3.072, -0.017, 1.57]} />
-      <mesh name="psw" geometry={nodes.psw.geometry} material={nodes.psw.material} />
-      <mesh name="psw_1" geometry={nodes.psw_1.geometry} material={nodes.psw_1.material} />
-      <mesh name="cube" geometry={nodes.cube.geometry} material={nodes.cube.material} />
-      <group name="cube_1" position={[0, 0.25, 0]} rotation={[-Math.PI / 2, 0, 0]}>
-        <mesh name="mesh_8" geometry={nodes.mesh_8.geometry} material={nodes.mesh_8.material} />
-        <mesh name="mesh_8_1" geometry={nodes.mesh_8_1.geometry} material={nodes.mesh_8_1.material} />
-        <mesh name="mesh_8_2" geometry={nodes.mesh_8_2.geometry} material={nodes.mesh_8_2.material} />
-      </group>
-      <group name="cube_2" rotation={[0, 0, -Math.PI / 2]}>
-        <mesh name="mesh_9" geometry={nodes.mesh_9.geometry} material={nodes.mesh_9.material} />
-        <mesh name="mesh_9_1" geometry={nodes.mesh_9_1.geometry} material={nodes.mesh_9_1.material} />
-        <mesh name="mesh_9_2" geometry={nodes.mesh_9_2.geometry} material={nodes.mesh_9_2.material} />
-      </group>
-      <mesh name="cube_3" geometry={nodes.cube_3.geometry} material={nodes.cube_3.material} rotation={[0, 0, -Math.PI / 2]} />
-      <mesh name="cube_4" geometry={nodes.cube_4.geometry} material={nodes.cube_4.material} />
-      <mesh name="hdd_1" geometry={nodes.hdd_1.geometry} material={nodes.hdd_1.material} />
-      <mesh name="cube_5" geometry={nodes.cube_5.geometry} material={nodes.cube_5.material} />
     </group>
   )
 }

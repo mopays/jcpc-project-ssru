@@ -1,12 +1,13 @@
 import { OrbitControls } from "@react-three/drei";
-import { PorweSupply } from "../3d/porweSupply";
+import { Power } from "../3d/powerSupply";
+
 
 
 export const ModelPowerSupply = () => {
   return (
     <>
     <OrbitControls/>
-      <PorweSupply/>
+      <Power/>
     </>
   );
 };

@@ -1,5 +1,5 @@
 import { OrbitControls } from "@react-three/drei";
-import { Case } from "../3d/case";
+import {Case}from "../3d/case"
 
 
 export const ModelCase = () => {
