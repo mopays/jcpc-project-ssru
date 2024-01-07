@@ -1,7 +1,6 @@
 import { Environment } from '@react-three/drei'
 import { Canvas } from '@react-three/fiber'
 import React from 'react'
-import { Mainboard } from '../../components/3d-Render/3d/mainboard'
 import { ModelMainBoard } from '../../components/3d-Render/components/mainboard'
 
 function DetailMainboard() {
