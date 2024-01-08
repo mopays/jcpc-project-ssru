@@ -187,6 +187,32 @@ export default function OrderScreen() {
     }
   }
 
+  // const uploadFileHandler = async (e, forImages) => {
+  //   const file = e.target.files[0];
+  //   const bodyFormData = new FormData();
+  //   bodyFormData.append('file', file);
+  //   try {
+  //     dispatch({ type: 'UPLOAD_REQUEST' });
+  //     const { data } = await axios.post('/api/upload', bodyFormData, {
+  //       headers: {
+  //         'Content-Type': 'multipart/form-data',
+  //         authorization: `Bearer ${userInfo.token}`,
+  //       },
+  //     });
+  //     dispatch({ type: 'UPLOAD_SUCCESS' });
+
+  //     if (forImages) {
+  //       setImages([...images, data.secure_url]);
+  //     } else {
+  //       setImage(data.secure_url);
+  //     }
+  //     toast.success('Image uploaded successfully. click Update to apply it');
+  //   } catch (err) {
+  //     toast.error(getError(err));
+  //     dispatch({ type: 'UPLOAD_FAIL', payload: getError(err) });
+  //   }
+  // };
+
   return loading ? (
     <LoadingBox></LoadingBox>
   ) : error ? (
@@ -329,8 +355,16 @@ export default function OrderScreen() {
                   </ListGroup.Item>
                 )}
               </ListGroup>
+              {/* <Form.Group className="mb-3" controlId="image">
+            <Form.Label>Image File</Form.Label>
+            <Form.Control
+              value={image}
+              onChange={(e) => setImage(e.target.value)}
+              required
+            /> */}
             </Card.Body>
           </Card>
+         
         </Col>
       </Row>
     </div>

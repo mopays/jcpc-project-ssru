@@ -6,7 +6,6 @@ import axios from 'axios';
 import { useContext } from 'react';
 import { Store } from '../Store';
 import './product.css';
-import Container from 'react-bootstrap/Container';
 
 
 function Product(props) {
