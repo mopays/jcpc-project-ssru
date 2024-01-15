@@ -1,7 +1,7 @@
 import { Environment } from '@react-three/drei'
 import { Canvas } from '@react-three/fiber'
 import React from 'react'
-import { Gpu } from '../../components/3d-Render/3d/gpu'
+
 import { ModelGpu } from '../../components/3d-Render/components/gpu'
 
 function DetailGpu() {

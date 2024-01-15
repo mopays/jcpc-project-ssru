@@ -5,6 +5,8 @@ import Rating from './Rating';
 import axios from 'axios';
 import { useContext } from 'react';
 import { Store } from '../Store';
+import './product.css';
+
 
 function Product(props) {
   const { product } = props;
@@ -29,13 +31,13 @@ function Product(props) {
   };
 
   return (
-    <Card>
+    <Card className='cardhigh'>
       <Link to={`/product/${product.slug}`}>
         <img src={product.image} className="card-img-top" alt={product.name} />
       </Link>
       <Card.Body>
         <Link to={`/product/${product.slug}`}>
-          <Card.Title>{product.name}</Card.Title>
+          <Card.Title><p>{product.name}</p></Card.Title>
         </Link>
         <Rating rating={product.rating} numReviews={product.numReviews} />
         <Card.Text>{product.price} ฿</Card.Text>
@@ -43,8 +45,8 @@ function Product(props) {
           <Button variant="light" disabled>
             Out of stock
           </Button>
-        ) : (
-          <Button onClick={() => addToCartHandler(product)}>Add to cart</Button>
+        ) : (         
+            <Button  onClick={() => addToCartHandler(product)}>Add to cart</Button>
         )}
       </Card.Body>
     </Card>

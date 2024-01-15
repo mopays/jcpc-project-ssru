@@ -1,7 +1,6 @@
 import { Environment } from '@react-three/drei'
 import { Canvas } from '@react-three/fiber'
 import React from 'react'
-import Container from 'react-bootstrap/Container';
 import { ModelCase } from '../../components/3d-Render/components/case';
 function DetailCase() {
   return (
