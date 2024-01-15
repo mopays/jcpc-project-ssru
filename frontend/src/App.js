@@ -173,27 +173,27 @@ function App() {
                       </LinkContainer>
                     </NavDropdown>
                   )}
-                   <NavDropdown title="Detail" id="admin-nav-dropdown">
+                   <NavDropdown title="3D Model" id="admin-nav-dropdown">
                       <LinkContainer to="/detail/case">
-                        <NavDropdown.Item>Case</NavDropdown.Item>
+                        <NavDropdown.Item>Model Case</NavDropdown.Item>
                       </LinkContainer>
                       <LinkContainer to="/detail/cpu">
-                        <NavDropdown.Item>Cpu</NavDropdown.Item>
+                        <NavDropdown.Item>Model Cpu</NavDropdown.Item>
                       </LinkContainer>
                       <LinkContainer to="/detail/gpu">
-                        <NavDropdown.Item>Gpu</NavDropdown.Item>
+                        <NavDropdown.Item>Model Gpu</NavDropdown.Item>
                       </LinkContainer>
                       <LinkContainer to="/detail/mainboard">
-                        <NavDropdown.Item>Mainboard</NavDropdown.Item>
+                        <NavDropdown.Item>Model Mainboard</NavDropdown.Item>
                       </LinkContainer>
                       <LinkContainer to="/detail/powersupply">
-                        <NavDropdown.Item>PowerSupply</NavDropdown.Item>
+                        <NavDropdown.Item>Model PowerSupply</NavDropdown.Item>
                       </LinkContainer>
                       <LinkContainer to="/detail/ram">
-                        <NavDropdown.Item>Ram</NavDropdown.Item>
+                        <NavDropdown.Item>Model Ram</NavDropdown.Item>
                       </LinkContainer>
                       <LinkContainer to="/detail/ssd">
-                        <NavDropdown.Item>Ssd</NavDropdown.Item>
+                        <NavDropdown.Item>Model Ssd</NavDropdown.Item>
                       </LinkContainer>
                     </NavDropdown>
       
