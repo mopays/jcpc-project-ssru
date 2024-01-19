@@ -2,14 +2,19 @@ import { Environment } from '@react-three/drei'
 import { Canvas } from '@react-three/fiber'
 import React from 'react'
 import { ModelCpu } from '../../components/3d-Render/components/cpu'
+import Alert from 'react-bootstrap/Alert';
+import './detail.css'
 
-function DetailCpu() {
+function DetailCpu(props) {
   return (
     <>
+     <Alert variant={props.variant || 'danger'} className='text-center'><div className="alerts">เลือนดู3d</div></Alert>
+     <div className='modelShow'>
       <Canvas  shadows camera={{ position: [1,1, 1], fov: 100 }}>
         <ModelCpu/>
         <Environment preset="sunset" />
     </Canvas>
+    </div>
     <div className="container">
     <h1>CPU</h1>
     <p>หน่วยประมวลผลกลาง (central processing unit) หรือย่อว่า ซีพียู (CPU) </p>

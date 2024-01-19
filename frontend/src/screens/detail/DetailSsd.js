@@ -2,14 +2,18 @@ import { Environment } from '@react-three/drei'
 import { Canvas } from '@react-three/fiber'
 import React from 'react'
 import { ModelSsd } from '../../components/3d-Render/components/ssd'
-
-function DetailSsd() {
+import Alert from 'react-bootstrap/Alert';
+import './detail.css'
+function DetailSsd(props) {
   return (
     <>
+    <Alert variant={props.variant || 'danger'} className='text-center mt-10'><div className="alerts">เลือนดู3d</div></Alert>
+    <div className='modelShow'>
     <Canvas  shadows camera={{ position: [1,1, 1], fov: 100 }}>
                   <ModelSsd/>
       <Environment preset="sunset" />
   </Canvas>
+  </div>
   <div className="container">
   <h1>SSD</h1>
   <p>SSD หรือในชื่อเต็มว่า Solid State Drive</p>

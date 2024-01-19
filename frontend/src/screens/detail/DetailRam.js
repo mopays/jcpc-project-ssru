@@ -2,14 +2,18 @@ import { Environment } from '@react-three/drei'
 import { Canvas } from '@react-three/fiber'
 import React from 'react'
 import Ram from '../../components/3d-Render/components/ram'
-
-function DetailRam() {
+import Alert from 'react-bootstrap/Alert';
+import './detail.css'
+function DetailRam(props) {
   return (
     <>
+<Alert variant={props.variant || 'danger'} className='text-center'><div className="alerts">เลือนดู3d</div></Alert>
+<div className='modelShow'>
       <Canvas  shadows camera={{ position: [1,1, 1], fov: 100 }}>
             <Ram/>
         <Environment preset="sunset" />
     </Canvas>
+    </div>
     <div className="container">
     <h1>Ram</h1>
     <p>Ram (Random-access memory) หรือ แรม เป็นหน่วยความจำหลักของคอมพิวเตอร์ ซึ่งเป็นองค์ประกอบสำคัญที่มีผลต่อประสิทธิภาพการทำงานโดยรวม ทั้งยังส่งผลต่อความเร็วในการทำงานของระบบคอมพิวเตอร์ ไม่ว่าอุปกรณ์ชนิดนั้นจะเป็นสมาร์ทโฟน, แท็บเล็ต, คอมพิวเตอร์ หรืออุปกรณ์ใดๆ ที่จำเป็นต้องอ่านและเขียนคำสั่งไปยังหน่วยความจำ</p>

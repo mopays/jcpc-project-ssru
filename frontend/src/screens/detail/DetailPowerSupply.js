@@ -2,14 +2,19 @@ import { Environment } from '@react-three/drei'
 import { Canvas } from '@react-three/fiber'
 import React from 'react'
 import { ModelPowerSupply } from '../../components/3d-Render/components/powerSupply'
+import Alert from 'react-bootstrap/Alert';
+import './detail.css'
 
-function DetailPowerSupply() {
+function DetailPowerSupply(props) {
   return (
     <>
+  <Alert variant={props.variant || 'danger'} className='text-center'><div className="alerts">เลือนดู3d</div></Alert>
+  <div className='modelShow'>
       <Canvas  shadows camera={{ position: [1,1, 1], fov: 100 }}>
                     <ModelPowerSupply/>
         <Environment preset="sunset" />
     </Canvas>
+    </div>
     <div className="container">
     <h1>PowerSupply</h1>
     <p>แหล่งจ่ายไฟ (Power Supply)</p>

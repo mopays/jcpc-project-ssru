@@ -2,14 +2,19 @@ import { Environment } from '@react-three/drei'
 import { Canvas } from '@react-three/fiber'
 import React from 'react'
 import { ModelMainBoard } from '../../components/3d-Render/components/mainboard'
+import Alert from 'react-bootstrap/Alert';
+import './detail.css'
 
-function DetailMainboard() {
+function DetailMainboard(props) {
   return (
     <>
+  <Alert variant={props.variant || 'danger'} className='text-center'><div className="alerts">เลือนดู3d</div></Alert>
+  <div className='modelShow'>
       <Canvas  shadows camera={{ position: [1,1, 1], fov: 100 }}>
                     <ModelMainBoard/>
         <Environment preset="sunset" />
     </Canvas>
+    </div>
     <div className="container">
     <h1>Mainboard</h1>
     <p>แผงวงจรหลัก, แผงหลัก หรือชื่ออื่นเช่น เมนบอร์ด (mainboard/main board), มาเธอร์บอร์ด (motherboard), ซิสเต็มบอร์ด (system board), ลอจิกบอร์ด (logic board)</p>

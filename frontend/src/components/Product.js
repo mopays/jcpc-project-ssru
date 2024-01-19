@@ -33,11 +33,11 @@ function Product(props) {
   return (
     <Card className='cardhigh'>
       <Link to={`/product/${product.slug}`}>
-        <img src={product.image} className="card-img-top" alt={product.name} />
+        <img src={product.image} className="card-img-tops" alt={product.name} />
       </Link>
       <Card.Body>
         <Link to={`/product/${product.slug}`}>
-          <Card.Title><p>{product.name}</p></Card.Title>
+          <Card.Title><p className='product-name'>{product.name}</p></Card.Title>
         </Link>
         <Rating rating={product.rating} numReviews={product.numReviews} />
         <Card.Text>{product.price} ฿</Card.Text>
@@ -46,7 +46,7 @@ function Product(props) {
             Out of stock
           </Button>
         ) : (         
-            <Button  onClick={() => addToCartHandler(product)}>Add to cart</Button>
+            <Button className='btns' onClick={() => addToCartHandler(product)}>Add to cart</Button>
         )}
       </Card.Body>
     </Card>
