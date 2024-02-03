@@ -1,5 +1,5 @@
 import axios from 'axios';
-import React, { useContext, useEffect, useReducer } from 'react';
+import React, { useContext, useEffect, useReducer, useState } from 'react';
 import { PayPalButtons, usePayPalScriptReducer } from '@paypal/react-paypal-js';
 import { Helmet } from 'react-helmet-async';
 import { useNavigate, useParams } from 'react-router-dom';
@@ -13,6 +13,7 @@ import LoadingBox from '../components/LoadingBox';
 import MessageBox from '../components/MessageBox';
 import { Store } from '../Store';
 import { getError } from '../utils';
+import Form from 'react-bootstrap/Form';
 import { toast } from 'react-toastify';
 
 function reducer(state, action) {
@@ -48,10 +49,13 @@ function reducer(state, action) {
       return state;
   }
 }
+
+
 export default function OrderScreen() {
   const { state } = useContext(Store);
   const { userInfo } = state;
-
+  const [orderStatus, setOrderStatus] = useState();
+  const [isPaid, setIsPaid] = useState();
   const params = useParams();
   const { id: orderId } = params;
   const navigate = useNavigate();
@@ -77,6 +81,48 @@ export default function OrderScreen() {
 
   const [{ isPending }, paypalDispatch] = usePayPalScriptReducer();
 
+  async function updateOrderStatusHandler() {
+    try {
+      dispatch({ type: 'DELIVER_REQUEST' });
+
+      const { data } = await axios.put(
+        `/api/orders/${order._id}/deliver`,
+        { isDelivered: JSON.parse(orderStatus) },
+        {
+          headers: { Authorization: `Bearer ${userInfo.token}` },
+        }
+      );
+
+      dispatch({ type: 'DELIVER_SUCCESS', payload: data });
+
+    } catch (error) {
+      toast.error(getError(error));
+      dispatch({ type: 'DELIVER_FAIL' });
+    }
+  }
+
+  async function updatePaymentStatusHandler() {
+    try {
+      dispatch({ type: 'PAY_REQUEST' });
+
+      const { data } = await axios.put(
+        `/api/orders/${order._id}/pay`,
+        { isPaid: JSON.parse(isPaid) },
+        {
+          headers: { Authorization: `Bearer ${userInfo.token}` },
+        }
+      );
+
+      dispatch({ type: 'PAY_SUCCESS', payload: data });
+      toast.success('Payment status updated');
+    } catch (error) {
+      toast.error(getError(error));
+      dispatch({ type: 'PAY_FAIL' });
+    }
+  }
+ 
+
+
   function createOrder(data, actions) {
     return actions.order
       .create({
@@ -90,6 +136,8 @@ export default function OrderScreen() {
         return orderID;
       });
   }
+
+
 
   function onApprove(data, actions) {
     return actions.order.capture().then(async function (details) {
@@ -168,7 +216,7 @@ export default function OrderScreen() {
     successPay,
     successDeliver,
   ]);
-
+ 
   async function deliverOrderHandler() {
     try {
       dispatch({ type: 'DELIVER_REQUEST' });
@@ -212,7 +260,6 @@ export default function OrderScreen() {
   //     dispatch({ type: 'UPLOAD_FAIL', payload: getError(err) });
   //   }
   // };
-
   return loading ? (
     <LoadingBox></LoadingBox>
   ) : error ? (
@@ -244,12 +291,12 @@ export default function OrderScreen() {
                     </a>
                   )}
               </Card.Text>
-              {order.isDelivered ? (
+              {order.isDelivered == true ? (
                 <MessageBox variant="success">
-                  Delivered at {order.deliveredAt}
+                  กำลังจัดส่งสินค้า
                 </MessageBox>
               ) : (
-                <MessageBox variant="danger">Not Delivered</MessageBox>
+                <MessageBox variant="danger">ยังไม่ได้จัดส่ง</MessageBox>
               )}
             </Card.Body>
           </Card>
@@ -259,12 +306,12 @@ export default function OrderScreen() {
               <Card.Text>
                 <strong>Method:</strong> {order.paymentMethod}
               </Card.Text>
-              {order.isPaid ? (
+              {order.isPaid === true ? (
                 <MessageBox variant="success">
-                  Paid at {order.paidAt}
+                  จ่ายเเล้ว
                 </MessageBox>
               ) : (
-                <MessageBox variant="danger">Not Paid</MessageBox>
+                <MessageBox variant="danger">ยังไม่จ่าย</MessageBox>
               )}
             </Card.Body>
           </Card>
@@ -354,14 +401,55 @@ export default function OrderScreen() {
                     </div>
                   </ListGroup.Item>
                 )}
+                <div className='text-center'>
+            
+                  <img width={'120px'} height={'220px'} src="https://img5.pic.in.th/file/secure-sv1/promppay.jpeg" alt="promppay.jpeg" border="0" />
+                  </div>
               </ListGroup>
-              {/* <Form.Group className="mb-3" controlId="image">
-            <Form.Label>Image File</Form.Label>
-            <Form.Control
-              value={image}
-              onChange={(e) => setImage(e.target.value)}
-              required
-            /> */}
+          
+            
+     
+          {userInfo.isAdmin ? (
+
+ <div>
+ <div>
+   <Form.Group controlId="orderStatus">
+     <Form.Label>Order Status:</Form.Label>
+     <Form.Select
+       value={orderStatus}
+       onChange={(e) => setOrderStatus(e.target.value)}
+     >
+       <option value="false">กำลังตรวจสอบ</option>
+       <option value="true">กำลังจัดส่งสินค้า</option>
+     </Form.Select>
+   </Form.Group>
+   <Button onClick={updateOrderStatusHandler}>Update Order Status</Button>
+ </div>
+ 
+ <div>
+   <Form.Group controlId="paymentStatus">
+     <Form.Label>Payment Status:</Form.Label>
+     <Form.Select
+       value={isPaid}
+       onChange={(e) => setIsPaid(e.target.value)}
+     >
+       <option value="false">กำลังตรวจสอบ</option>
+       <option value="true">จ่ายแล้ว</option>
+     </Form.Select>
+   </Form.Group>
+   <Button onClick={updatePaymentStatusHandler}>Update Payment Status</Button>
+ </div>
+
+</div>
+ 
+          ): <div></div>}
+
+
+
+
+
+
+              
             </Card.Body>
           </Card>
          

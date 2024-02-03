@@ -26,6 +26,8 @@ const reducer = (state, action) => {
   }
 };
 
+
+
 export default function PlaceOrderScreen() {
   const navigate = useNavigate();
 
@@ -83,6 +85,7 @@ export default function PlaceOrderScreen() {
 
   return (
     <div>
+    
       <CheckoutSteps step1 step2 step3 step4></CheckoutSteps>
       <Helmet>
         <title>Preview Order</title>
@@ -187,6 +190,7 @@ export default function PlaceOrderScreen() {
                 </ListGroup.Item>
               </ListGroup>
             </Card.Body>
+           
           </Card>
         </Col>
       </Row>

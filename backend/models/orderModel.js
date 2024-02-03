@@ -18,7 +18,6 @@ const orderSchema = new mongoose.Schema(
     ],
     shippingAddress: {
       fullName: { type: String, required: true },
-      image: { type: String, required: true },
       address: { type: String, required: true },
       city: { type: String, required: true },
       postalCode: { type: String, required: true },
@@ -45,9 +44,16 @@ const orderSchema = new mongoose.Schema(
     totalPrice: { type: Number, required: true },
     image: { type: String, required: false },
     user: { type: mongoose.Schema.Types.ObjectId, ref: 'User', required: true },
-    isPaid: { type: Boolean, default: false },
+    isPaid: {
+      type: Boolean,
+      default: false,
+    },
+  
+    isDelivered: {
+      type: Boolean,
+      default: false,
+    },
     paidAt: { type: Date },
-    isDelivered: { type: Boolean, default: false },
     deliveredAt: { type: Date },
   },
   {

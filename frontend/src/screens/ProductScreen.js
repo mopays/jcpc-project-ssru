@@ -17,6 +17,7 @@ import { Store } from '../Store';
 import FloatingLabel from 'react-bootstrap/FloatingLabel';
 import { toast } from 'react-toastify';
 
+
 const reducer = (state, action) => {
   switch (action.type) {
     case 'REFRESH_PRODUCT':
@@ -84,7 +85,23 @@ function ProductScreen() {
     });
     navigate('/cart');
   };
-
+  function models3d() {
+    //ram and ssd 
+    if(product.category === 'Case'){
+      navigate('/detail/case');
+    }else if(product.category === 'Gpu'){
+      navigate('/detail/gpu');
+    }else if(product.category === 'Mainboard'){
+      navigate('/detail/mainboard');
+    }else if(product.category === 'PowerSupply'){
+      navigate('/detail/powersupply');
+    }else if (product.category === 'CPU') {
+      navigate('/detail/cpu');
+    }else if(product.category === 'Ssd'){
+      navigate('/detail/ssd');
+    }
+  }
+  
   const submitHandler = async (e) => {
     e.preventDefault();
     if (!comment || !rating) {
@@ -117,6 +134,7 @@ function ProductScreen() {
       dispatch({ type: 'CREATE_FAIL' });
     }
   };
+  
   return loading ? (
     <LoadingBox />
   ) : error ? (
@@ -207,6 +225,10 @@ function ProductScreen() {
           </Card>
         </Col>
       </Row>
+      <div>
+          <button onClick={models3d} className='btn btn-primary'>กดที่นี้เพื่อดู โมเดล 3 มิติ</button>
+        </div>
+
       <div className="my-3">
         <h2 ref={reviewsRef}>Reviews</h2>
         <div className="mb-3">
@@ -224,7 +246,10 @@ function ProductScreen() {
             </ListGroup.Item>
           ))}
         </ListGroup>
+
+      
         <div className="my-3">
+        
           {userInfo ? (
             <form onSubmit={submitHandler}>
               <h2>Write a customer review</h2>
@@ -275,6 +300,8 @@ function ProductScreen() {
         </div>
       </div>
     </div>
+
+
   );
 }
 export default ProductScreen;
