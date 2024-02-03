@@ -61,7 +61,7 @@ export default function PaymentMethodScreen() {
             <Form.Check
               type="radio"
               id="Bank"
-              label="พร้อมเพล"
+              label="promptPay"
               value="Bank"
               checked={paymentMethodName === 'Bank'}
               onChange={(e) => setPaymentMethod(e.target.value)}
